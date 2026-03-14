@@ -10252,7 +10252,7 @@
               {
                 "id": "npc_auto_10_1773148115759",
                 "name": "옌센",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EC%98%8C%EC%84%BC.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/엔센.png",
                 "desc": "그늘나무 숲, 아티트만 NPC 옆. 해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
