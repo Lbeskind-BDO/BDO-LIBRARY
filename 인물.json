@@ -1272,7 +1272,7 @@
                 "id": "npc_auto_0_1773147748461",
                 "name": "리젠티",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "글리시마을, 해당 NPC와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -1398,14 +1398,14 @@
                 "id": "npc_auto_4_1773147767916",
                 "name": "세라자드",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "샤카투의 별채(좌측 핀) 집사. 별채를 빌린 후 입장(100G 필요). 해당 NPC와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773147767916",
                 "name": "리암",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "알사비의 별채(우측 핀) 집사. 별채를 빌린 후 입장(100G 필요). 해당 NPC와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -2490,14 +2490,14 @@
                 "id": "npc_auto_0_1773147833299",
                 "name": "라데르",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "버려진 수도원 구호 담당 사제. 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773147833299",
                 "name": "바호 라데리치오",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "버려진 수도원 거점관리자. 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -4457,7 +4457,7 @@
                 "id": "npc_auto_8_1773147927595",
                 "name": "의문의 남자",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "올비아 밀무역 상인. 인 게임 밤 시간대 출몰",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -8601,14 +8601,14 @@
                 "id": "npc_auto_9_1773148083616",
                 "name": "둥지의 일곱 천사",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "까마귀의 둥지 파트라지오 방 안, 팔리르비나란 아이와 대화 중인 상단 경비원에게 획득.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773148083616",
                 "name": "부리 빠진 까마귀",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "파트리지오와 라발라 사이의 통로에서 먹고 자며 살고 있음.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -8629,7 +8629,7 @@
                 "id": "npc_auto_13_1773148083616",
                 "name": "콩과 풍 그리고 가르비쉬",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "라발라에게 획득 가능",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -10246,14 +10246,14 @@
                 "id": "npc_auto_9_1773148115759",
                 "name": "마르타 키옌",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "미루목 유적지 깎여나간 동굴 안. 해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773148115759",
                 "name": "옌센",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "그늘나무 숲, 아티트만 NPC 옆. 해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -11303,7 +11303,7 @@
                 "id": "npc_auto_0_1773148168444",
                 "name": "로사우",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "낙시온 건물 아래층 테라스에 위치. 해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -11429,7 +11429,7 @@
                 "id": "npc_auto_0_1773148171548",
                 "name": "아타락시아",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "메인 의뢰([오딜리타] 아타락시아의 유품)로 획득 가능. 처음 퀘스트 이름 : [오딜리타] 조각난 베디안트",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -11457,7 +11457,7 @@
                 "id": "npc_auto_4_1773148171548",
                 "name": "기도하는 자",
                 "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char47059",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -11863,7 +11863,7 @@
                 "id": "npc_auto_0_1773148407458",
                 "name": "바아의 기록 #11 : 이동형 원반",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -13298,13 +13298,13 @@
                 "id": "npc_auto_11_1773148221643",
                 "name": "기도하는 자",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "붉은 늑대 부락과 샤르보노 별장 사이에 위치",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773148221643",
                 "name": "기도하는 여인",
-                "detailImg": "",
+                "detailImg": "기도하는 자 맞은편 시냇물",
                 "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -13368,7 +13368,7 @@
                 "id": "npc_auto_1_1773148228360",
                 "name": "도망친 일꾼",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "지도상 셰레칸 폐철광산과 발락스 캠프를 이었을 때 중간쯤 교차로에 위치.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -13900,7 +13900,7 @@
                 "id": "npc_auto_3_1773148248894",
                 "name": "돌쇠",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "메인의뢰([아침의나라] 여행은 혼자)로 획득 가능",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -15132,7 +15132,7 @@
                 "id": "npc_auto_17_1773148303473",
                 "name": "디멜트",
                 "detailImg": "",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "지도상 이스라히드 고원 그림 오른쪽 위치.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
