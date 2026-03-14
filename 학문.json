@@ -1,0 +1,811 @@
+[
+  {
+    "id": "cat_1773372796_학문",
+    "name": "학문",
+    "iconName": "BookOpen",
+    "description": "모험가님이 원클릭으로 수집한 학문 지식입니다.",
+    "regions": [
+      {
+        "id": "reg_1773372796_학문 > 탐험 II",
+        "name": "학문 > 탐험 II",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_탐험 II",
+            "name": "탐험 II",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372510354", "name": "하늘과 바다가 만나는 수평선", "detailImg": "", "desc": "특정 전망대나 높은 곳에서 풍경 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372510354", "name": "숨겨진 거울", "detailImg": "", "desc": "탐험 중 발견할 수 있는 특정 거울 오브젝트 조사", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372510354", "name": "목소리가 담긴 샘", "detailImg": "", "desc": "샘물 근처의 특정 오브젝트나 랜드마크 조사", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372510354", "name": "따뜻한 물의 온천", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372510354", "name": "피어나는 희망 I", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372510354", "name": "잠든 인어의 성소", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372510354", "name": "피어나는 희망 II", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372510354", "name": "탁한 물이 모인 자리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372510354", "name": "하늘을 품은 다리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372510354", "name": "거센 물결의 흔적", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372510354", "name": "아에테리온의 고요 II", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372510354", "name": "아에테리온의 고요 I", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_12_1773372510354", "name": "아에테리온의 고요 III", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_13_1773372510354", "name": "다리위에 걸린 하늘", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_14_1773372510354", "name": "수양의 폭포", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_15_1773372510354", "name": "그분을 기리며", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_16_1773372510354", "name": "에다니아에 묻어있는 시간의 흔적", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_17_1773372510354", "name": "테네브라움에서 아에테리온까지", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_18_1773372510354", "name": "대조적인 공간의 나무", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_19_1773372510354", "name": "리토반 산맥의 수호자", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_20_1773372510354", "name": "흐르는 물에서 느끼는 것은 II", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_21_1773372510354", "name": "흐르는 물에서 느끼는 것은 I", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_22_1773372510354", "name": "하르마드의 경계", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_23_1773372510354", "name": "노력의 결실은 가까운곳에", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_24_1773372510354", "name": "경배의 제단", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_25_1773372510354", "name": "정찰지 위에서 바라본 바다", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_26_1773372510354", "name": "갈망 속의 염원", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_27_1773372510354", "name": "묵비하는 호수", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_28_1773372510354", "name": "아토르의 머리 위", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_29_1773372510354", "name": "하늘에서 바위가 내린다면", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_30_1773372510354", "name": "오르비타의 오아시스", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_31_1773372510354", "name": "신성력이 담긴 바람", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_32_1773372510354", "name": "폭포가 흐르는 주상절리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_33_1773372510354", "name": "성전을 따라 흐르는 폭포", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 역사 I",
+        "name": "학문 > 역사 I",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_역사 I",
+            "name": "역사 I",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372523607", "name": "감시탑 다리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372523607", "name": "칼페온 대도서관", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372523607", "name": "납골당의 인물상", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372523607", "name": "크론 성의 몰락", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372523607", "name": "발레노스의 라모네스", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372523607", "name": "검은 혁명", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372523607", "name": "검은 죽음", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372523607", "name": "이동수단의 변천사", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372523607", "name": "나가족의 터전", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372523607", "name": "전쟁이 낳은 고아", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372523607", "name": "젊은 왕, 의문의 죽음", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372523607", "name": "야만의 이동", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_12_1773372523607", "name": "용서의 재앙", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_13_1773372523607", "name": "30년의 원정이 남긴 것", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_14_1773372523607", "name": "반란인가, 혁명인가?", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_15_1773372523607", "name": "칼페온의 두얼굴", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 역사 II",
+        "name": "학문 > 역사 II",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_역사 II",
+            "name": "역사 II",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372532258", "name": "메디아를 거쳐 간 재앙", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372532258", "name": "에다나의 전설", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372532258", "name": "고대의 서 23본", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372532258", "name": "검은 기운과 고대 문명", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372532258", "name": "메디아의 역사 II", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372532258", "name": "메디아의 역사 I", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372532258", "name": "크자카와 바리즈", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372532258", "name": "난투사 레투사", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372532258", "name": "카르티안 서", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372532258", "name": "야만족이 자리 잡은 폐철광산", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372532258", "name": "삼 일의 어둠", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 역사 III",
+        "name": "학문 > 역사 III",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_역사 III",
+            "name": "역사 III",
+            "energy": 1,
+            "items": [
+              { "id": "npc_auto_0_1773372540406", "name": "검은사막", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372540406", "name": "아알란 예절", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372540406", "name": "마루민 왕비의 업적", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372540406", "name": "발렌시아의 왕들", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372540406", "name": "왕실의 식사", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372540406", "name": "마루민 감사제", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372540406", "name": "발렌시아 위인전", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372540406", "name": "검은사막 개정판", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 경제 I",
+        "name": "학문 > 경제 I",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_경제 I",
+            "name": "경제 I",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372551601", "name": "대도시의 빈민가", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372551601", "name": "칼페온 성 연금술사", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372551601", "name": "칼페온 시안 상단", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372551601", "name": "희망 은행", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372551601", "name": "중산층의 도약지", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372551601", "name": "괴물 고용 문제 없는가?", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372551601", "name": "노동하지 않는 것은 죄악이다.", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372551601", "name": "무역의 시대", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372551601", "name": "누구를 위한 화폐인가", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372551601", "name": "돈의 달인, 상인의 농간", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372551601", "name": "서민 경제", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372551601", "name": "올바른 상도", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_12_1773372551601", "name": "상인으로서의 첫 디딤", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 정치 I",
+        "name": "학문 > 정치 I",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_정치 I",
+            "name": "정치 I",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372562839", "name": "빈민가의 무법자", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372562839", "name": "상인 조합", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372562839", "name": "전쟁과 메디아", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372562839", "name": "명예, 최후의 선택", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372562839", "name": "탄티니스 민회", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372562839", "name": "권리와 허울", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372562839", "name": "칼리스의 위기", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372562839", "name": "칼리스 의회정", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372562839", "name": "검소한 삶", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372562839", "name": "하이델 조약서", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372562839", "name": "농민의 희망", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372562839", "name": "백전노장 클리프", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_12_1773372562839", "name": "하이델의 시종장", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_13_1773372562839", "name": "시안동맹", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_14_1773372562839", "name": "반란군이 된 까닭", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 교양 I",
+        "name": "학문 > 교양 I",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_교양 I",
+            "name": "교양 I",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372570997", "name": "벨리아 영웅담", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372570997", "name": "피리 부는 꼬마", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372570997", "name": "농장의 마녀", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372570997", "name": "요리사의 풍채", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372570997", "name": "대 문호 아르테미오", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372570997", "name": "올리비아의 여행기", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372570997", "name": "사랑의 서사시", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372570997", "name": "리더로 사는 법", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372570997", "name": "피리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372570997", "name": "벽타기", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372570997", "name": "의문의 조각가", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372570997", "name": "괴물로부터 살아남는 법", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_12_1773372570997", "name": "벨리아의 특산품", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_13_1773372570997", "name": "베르만의 요리 비법", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_14_1773372570997", "name": "세렌디아 영광의 역사", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_15_1773372570997", "name": "메디아 방문기", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_16_1773372570997", "name": "거장 로메룬", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 신학 I",
+        "name": "학문 > 신학 I",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_신학 I",
+            "name": "신학 I",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372580173", "name": "회개의 길", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372580173", "name": "대도시의 종소리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372580173", "name": "의지의 탑", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372580173", "name": "엘리언의 의지", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372580173", "name": "어둠속의 악신들", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372580173", "name": "죽음 그 후", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372580173", "name": "믿음의 탄생", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372580173", "name": "엘리언교의 이단 감별법", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372580173", "name": "용의 감시자", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 연금 I",
+        "name": "학문 > 연금 I",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_연금 I",
+            "name": "연금 I",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372587304", "name": "흑결정 등급", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372587304", "name": "불사의 힘, 가능한가?", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372587304", "name": "흑결정의 순도", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372587304", "name": "희대의 연금술사 알루스틴 편", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372587304", "name": "희대의 연금술사 고르가스 편", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372587304", "name": "희대의 연금술사 로메룬 편", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372587304", "name": "크론 성의 제단", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372587304", "name": "경험과 깨달음에 대해", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 종족 I",
+        "name": "학문 > 종족 I",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_종족 I",
+            "name": "종족 I",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372599541", "name": "나가족과 포건족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372599541", "name": "붉은 오크 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372599541", "name": "쿠루토 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372599541", "name": "인간 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372599541", "name": "아인 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372599541", "name": "고블린 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372599541", "name": "루툼 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372599541", "name": "임프 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372599541", "name": "만샤 고블린 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372599541", "name": "메기맨 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372599541", "name": "트롤 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372599541", "name": "엘프 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_12_1773372599541", "name": "해달 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_13_1773372599541", "name": "자이언트 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_14_1773372599541", "name": "드워프 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_15_1773372599541", "name": "샤이 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_16_1773372599541", "name": "수인 종족", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 정치 II",
+        "name": "학문 > 정치 II",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_정치 II",
+            "name": "정치 II",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372611252", "name": "발렌시아와 메디아", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372611252", "name": "낡은 악습", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372611252", "name": "크자카의 추종자", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372611252", "name": "흩어진 신념, 슈라우드", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372611252", "name": "지식의 대화", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372611252", "name": "바리즈 3세의 망명", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372611252", "name": "발렌시아 사절단", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372611252", "name": "울림의 땅에서 온 세제크", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372611252", "name": "알티노바의 지도자", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372611252", "name": "무너진 왕정", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372611252", "name": "메디아 상인 연합", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372611252", "name": "셴 상인회", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 경제 II",
+        "name": "학문 > 경제 II",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_경제 II",
+            "name": "경제 II",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372620927", "name": "이야기의 비약", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372620927", "name": "진기한 발견, 희귀한 상자", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372620927", "name": "야만의 위협", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372620927", "name": "황금 사막", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372620927", "name": "전략은 단순하다", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372620927", "name": "알티노바의 투기장", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372620927", "name": "고요한 황무지", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372620927", "name": "또 다른 적, 자연재해", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372620927", "name": "논리적인 전달자", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372620927", "name": "메디아의 피난민", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372620927", "name": "사라진 부유층", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372620927", "name": "지식 상인", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_12_1773372620927", "name": "마우디 부다르의 통찰", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_13_1773372620927", "name": "알티노바의 건설", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 교양 II",
+        "name": "학문 > 교양 II",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_교양 II",
+            "name": "교양 II",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372631109", "name": "굴뚝 청소", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372631109", "name": "꽃을 꺾는 아이들", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372631109", "name": "도시의 외침꾼", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372631109", "name": "어린 장사꾼의 저녁", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372631109", "name": "기도하지 않는 자", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372631109", "name": "사치로 그리는 체면", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372631109", "name": "수공예 장인들", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372631109", "name": "최고의 사치품", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372631109", "name": "팔르스 엘리언교당", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372631109", "name": "명문 레이트 가문", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372631109", "name": "노인 광장", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 교양 III",
+        "name": "학문 > 교양 III",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_교양 III",
+            "name": "교양 III",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372639783", "name": "보람찬 하루의 마무리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372639783", "name": "갈기족의 짝짓기", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372639783", "name": "물텀벙의 유래", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372639783", "name": "진짜 대장장이", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372639783", "name": "고대 문자 장식", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372639783", "name": "거미줄 실타래", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372639783", "name": "웨이키드 타하의 특식", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372639783", "name": "쿠샤 마을과 돌 코뿔소", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372639783", "name": "수습 소서러의 연습 상대", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372639783", "name": "소서러의 기원", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372639783", "name": "메디아의 작은 종탑", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372639783", "name": "아알의 축복", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_12_1773372639783", "name": "이냐르의 간식", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_13_1773372639783", "name": "타리프 소원성취 부적", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_14_1773372639783", "name": "타리프 마을의 장식", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 신학 II",
+        "name": "학문 > 신학 II",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_신학 II",
+            "name": "신학 II",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372648971", "name": "아알의 평화", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372648971", "name": "존재와 속성", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372648971", "name": "신의 계승", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372648971", "name": "경험의 다양성", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372648971", "name": "아알에게 묻다", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372648971", "name": "자연으로 돌아가다", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372648971", "name": "풍요의 상징", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372648971", "name": "작은 신, 아술라", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372648971", "name": "신을 섬기는 예의", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 연금 II",
+        "name": "학문 > 연금 II",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_연금 II",
+            "name": "연금 II",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372663732", "name": "고대 주술에 대해서", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372663732", "name": "절벽 위의 수도원", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372663732", "name": "금기의 땅", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372663732", "name": "해골 왕의 광기", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372663732", "name": "연금술 - 메디아", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372663732", "name": "125인의 마녀", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372663732", "name": "메디아의 악신 - 하", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372663732", "name": "메디아의 악신 - 상", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372663732", "name": "마녀와 연금술사", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 경제 III",
+        "name": "학문 > 경제 III",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_경제 III",
+            "name": "경제 III",
+            "energy": 2,
+            "items": [
+              { "id": "npc_auto_0_1773372672386", "name": "사막 무역의 증표", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372672386", "name": "라바니아 상단의 증표", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372672386", "name": "달구 코끼리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372672386", "name": "신의 손길", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372672386", "name": "노동의 가치와 자본가의 역할", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372672386", "name": "종교와 경제", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372672386", "name": "발렌시아 근대 경제의 이해", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372672386", "name": "발렌시아 무역사에 새겨진 영웅들", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372672386", "name": "무역학개론", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372672386", "name": "신 무역로 개척", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372672386", "name": "사라진 역사, 비단길", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372672386", "name": "라바니아 상단과 오베린 상단", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_12_1773372672386", "name": "발렌시아 무역사", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 교양 IV",
+        "name": "학문 > 교양 IV",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_교양 IV",
+            "name": "교양 IV",
+            "energy": 1,
+            "items": [
+              { "id": "npc_auto_0_1773372681574", "name": "카마실비아의 활, 레인저", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372681574", "name": "발렌시아 점성술", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372681574", "name": "인간의 점성학", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372681574", "name": "아알 신화", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372681574", "name": "별을 통해 보는 성격", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372681574", "name": "별의 움직임", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372681574", "name": "설원의 여섯 마녀", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372681574", "name": "드리간의 계곡", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372681574", "name": "카마실비아 여행기", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372681574", "name": "사막을 넘는 다섯 가지 방법", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372681574", "name": "아알의 숨결이 닿은 곳", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372681574", "name": "오아시스 한 모금", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_12_1773372681574", "name": "모래 폭풍의 아들", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_13_1773372681574", "name": "누베르의 그림자", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_14_1773372681574", "name": "동전 유령", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_15_1773372681574", "name": "마법 양탄자와 모래 항아리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_16_1773372681574", "name": "악기 정령의 역할", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_17_1773372681574", "name": "카마실비아 명언집", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 별자리",
+        "name": "학문 > 별자리",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_별자리",
+            "name": "별자리",
+            "energy": 1,
+            "items": [
+              { "id": "npc_auto_0_1773372691752", "name": "천체 관측 보고서 - 고블린자리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372691752", "name": "천체 관측 보고서 - 봉인석자리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372691752", "name": "천체 관측 보고서 - 마차자리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372691752", "name": "천체 관측 보고서 - 열쇠자리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372691752", "name": "천체 관측 보고서 - 코끼리자리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372691752", "name": "천체 관측 보고서 - 부엉이자리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372691752", "name": "천체 관측 보고서 - 검은용자리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372691752", "name": "천체 관측 보고서 - 낙타자리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372691752", "name": "천체 관측 보고서 - 거인자리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372691752", "name": "천체 관측 보고서 - 방패자리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372691752", "name": "천체 관측 보고서 - 돛단배자리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372691752", "name": "천체 관측 보고서 - 망치자리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 세계",
+        "name": "학문 > 세계",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_세계",
+            "name": "세계",
+            "energy": 1,
+            "items": [
+              { "id": "npc_auto_0_1773372699915", "name": "지식으로 이루는 세계 X", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372699915", "name": "지식으로 이루는 세계 IX", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372699915", "name": "지식으로 이루는 세계 VIII", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372699915", "name": "지식으로 이루는 세계 VII", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372699915", "name": "지식으로 이루는 세계 VI", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372699915", "name": "지식으로 이루는 세계 V", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372699915", "name": "지식으로 이루는 세계 IV", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372699915", "name": "지식으로 이루는 세계 III", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372699915", "name": "지식으로 이루는 세계 II", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372699915", "name": "지식으로 이루는 세계 I", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 역사 IV",
+        "name": "학문 > 역사 IV",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_역사 IV",
+            "name": "역사 IV",
+            "energy": 1,
+            "items": [
+              { "id": "npc_auto_0_1773372709076", "name": "카마실비아, 반목과 갈등", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372709076", "name": "봉쇄된 두자크 터널", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372709076", "name": "카마실브 신화", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372709076", "name": "정령의 존재", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372709076", "name": "자연을 알아간다는 것", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372709076", "name": "아히브의 낙인", "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45527", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372709076", "name": "아히브 경계지역", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372709076", "name": "메마른 땅에 선 적", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372709076", "name": "실비아가 본 파두스", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372709076", "name": "레모리아 감시대", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 탐험 I",
+        "name": "학문 > 탐험 I",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_탐험 I",
+            "name": "탐험 I",
+            "energy": 3,
+            "items": [
+              { "id": "npc_auto_0_1773372719791", "name": "바위에 새겨진 불가사의한 지도", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372719791", "name": "푸지야 협곡의 메마른 계곡", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372719791", "name": "위험천만한 놀이", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372719791", "name": "알 할람 해협의 난파선", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372719791", "name": "알 할람 해협 용의 턱", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372719791", "name": "바다 속에 새겨진 암각화", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372719791", "name": "일몰 명소", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372719791", "name": "아기코끼리 바위", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372719791", "name": "바람이 흐르는 라디아나", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372719791", "name": "수도 그라나의 금빛 노을", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372719791", "name": "그라나의 코끼리 바위", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372719791", "name": "고대 고블린의 제단", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_12_1773372719791", "name": "메디아의 납작 버섯 바위", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_13_1773372719791", "name": "하늘로 향하는 문", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_14_1773372719791", "name": "단층지형", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_15_1773372719791", "name": "바다에 잠긴 메디아 무역선", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_16_1773372719791", "name": "암석 지대의 마르지 않는 샘", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_17_1773372719791", "name": "엘토르 해역의 고대유적", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_18_1773372719791", "name": "알할람 해협 서쪽 입구", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_19_1773372719791", "name": "해저의 기암괴석", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_20_1773372719791", "name": "단절된 자연육교", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_21_1773372719791", "name": "8단 폭포", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_22_1773372719791", "name": "석회동굴", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_23_1773372719791", "name": "뱀둥지 바위", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_24_1773372719791", "name": "일곱 개의 거대한 물줄기", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_25_1773372719791", "name": "세발 문어 바위", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 고대 공학 I",
+        "name": "학문 > 고대 공학 I",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_고대 공학 I",
+            "name": "고대 공학 I",
+            "energy": "",
+            "items": [
+              { "id": "npc_auto_0_1773372733545", "name": "무너져버린 고대 장치", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372733545", "name": "동굴 내의 온도", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372733545", "name": "숨통을 죄여오는 공기", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372733545", "name": "바아마키아의 모래", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372733545", "name": "비어있는 카이벨란 육면체", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372733545", "name": "거대한 카이벨란 육면체", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372733545", "name": "개조된 카이벨란 육면체", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372733545", "name": "바아마키아 선로 제어 장치", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372733545", "name": "바아마키아 부유석", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372733545", "name": "바아마키아 - 룬 마기아", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372733545", "name": "바아마키아 - 솔 마기아", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372733545", "name": "바아마키아 부유석의 심장", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_12_1773372733545", "name": "숨겨진 고대 장치", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_13_1773372733545", "name": "아토락시온 등가보급소", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_14_1773372733545", "name": "되살아나는 생명", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_15_1773372733545", "name": "데키마의 숙명", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_16_1773372733545", "name": "데키아의 의지", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_17_1773372733545", "name": "데키아의 축복", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_18_1773372733545", "name": "침탈자의 어둠", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_19_1773372733545", "name": "힘을 다한 바아마키아 심장", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_20_1773372733545", "name": "검은돌이 있었던 흔적", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_21_1773372733545", "name": "거대 병기의 파편", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_22_1773372733545", "name": "바아의 눈", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_23_1773372733545", "name": "무언가가 있던 자리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_24_1773372733545", "name": "기운 분산 육면체", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_25_1773372733545", "name": "병렬로 배치된 기운 분산 육면체", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_26_1773372733545", "name": "파손된 기운 분산 육면체", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 고대 건축학 I",
+        "name": "학문 > 고대 건축학 I",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_고대 건축학 I",
+            "name": "고대 건축학 I",
+            "energy": "",
+            "items": [
+              { "id": "npc_auto_0_1773372746260", "name": "고대의 건축 기술", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372746260", "name": "아토락시온의 인공폭포", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372746260", "name": "추락한 바아마키아 부유석", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372746260", "name": "쓰러진 고대 외벽", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372746260", "name": "부스러지기 시작한 동굴 입구", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372746260", "name": "무너져 가는 유적", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372746260", "name": "위태로운 기둥", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372746260", "name": "계단 형식의 고대 석재", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372746260", "name": "영원의 관문", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372746260", "name": "바아마키아 격벽 문", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372746260", "name": "무너진 병기 창고", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 고대 공학 II",
+        "name": "학문 > 고대 공학 II",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_고대 공학 II",
+            "name": "고대 공학 II",
+            "energy": "",
+            "items": [
+              { "id": "npc_auto_0_1773372758487", "name": "시카의 병기 재료", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372758488", "name": "모방은 창조의 어머니", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372758488", "name": "기운을 분산시키는 방법", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372758488", "name": "단순한 카이벨란 선로", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372758488", "name": "장막의 힘", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372758488", "name": "카이벨란 육면체 재사용", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372758488", "name": "카이벨란 관문", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372758488", "name": "기울어진 카이벨란 육면체", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372758488", "name": "변형된 카이벨란 선로", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372758488", "name": "카이벨란 선로의 위력", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372758488", "name": "천연교", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372758488", "name": "심해의 온도", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_12_1773372758488", "name": "시카라키아의 암석", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_13_1773372758488", "name": "해수 유입 장치", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_14_1773372758488", "name": "힘을 다한 시카라키아 심장", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_15_1773372758488", "name": "인공적인 공간", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_16_1773372758488", "name": "물에 젖은 병기 제조법 수첩", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_17_1773372758488", "name": "스승님의 병기", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_18_1773372758488", "name": "특별한 제자", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 고대 건축학 II",
+        "name": "학문 > 고대 건축학 II",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_고대 건축학 II",
+            "name": "고대 건축학 II",
+            "energy": "",
+            "items": [
+              { "id": "npc_auto_0_1773372767142", "name": "쓰러진 기둥", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372767142", "name": "파문 문양", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372767142", "name": "독특한 양식의 계단", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372767142", "name": "건축 방식의 차이", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372767142", "name": "사라진 석상", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372767142", "name": "시카라키아 상수원", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372767142", "name": "동굴 벽 붕괴의 원인", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372767142", "name": "데키마들의 일상", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372767142", "name": "고대 석재의 빛", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372767142", "name": "은은한 빛의 석재", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 고대 공학 III",
+        "name": "학문 > 고대 공학 III",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_고대 공학 III",
+            "name": "고대 공학 III",
+            "energy": "",
+            "items": [
+              { "id": "npc_auto_0_1773372779915", "name": "인공적으로 만들어 낸 폭포 줄기", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372779915", "name": "요루의 눈", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372779915", "name": "신선한 물의 비결", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372779915", "name": "안정성을 개선한 카이벨란 선로", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372779915", "name": "빛이 나는 문", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372779915", "name": "굴러떨어진 병기 조각", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372779915", "name": "곡선형으로 개조된 카이벨란 선로", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372779915", "name": "끊어진 카이벨란 선로", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372779915", "name": "고대 카이벨란 선로", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372779915", "name": "빛이 새어 나오는 건축물", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372779915", "name": "동력이 바닥난 병기", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372779915", "name": "암벽 사이로 내리는 빛", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_12_1773372779915", "name": "광명석의 부작용", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_13_1773372779915", "name": "순도 높은 광명석", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_14_1773372779915", "name": "나무줄기 위에 놓인 광명석", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_15_1773372779915", "name": "바아가 고안한 특수 장치", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_16_1773372779915", "name": "사막의 모래를 닮은 석판", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_17_1773372779915", "name": "물고기 모습을 한 고대 병기", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_18_1773372779915", "name": "파괴된 광명석상", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_19_1773372779915", "name": "파묻힌 카이브에 담긴 기록", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_20_1773372779915", "name": "변형된 스텔라기아", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_21_1773372779915", "name": "선로 근처에서 느껴지는 기운", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 고대 건축학 III",
+        "name": "학문 > 고대 건축학 III",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_고대 건축학 III",
+            "name": "고대 건축학 III",
+            "energy": "",
+            "items": [
+              { "id": "npc_auto_0_1773372792629", "name": "화려하게 빛나는 석판", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_1_1773372792629", "name": "튀어나온 벽돌", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_2_1773372792629", "name": "부서진 건축물", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_3_1773372792629", "name": "거대한 암벽 조각", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_4_1773372792629", "name": "썩기 시작한 덩굴", "detailImg": "", "desc": "오래된 유적이나 나무 기둥의 덩굴 조사", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_5_1773372792629", "name": "거대한 구조물을 받치고 있는 고목", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_6_1773372792629", "name": "하늘에서 내려온 뿌리", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_7_1773372792629", "name": "그리움으로 쌓아 올린 건축물", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_8_1773372792629", "name": "아치형 나무줄기 문", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_9_1773372792629", "name": "달빛이 머물렀던 곳", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_10_1773372792629", "name": "쓰러진 돌기둥", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_11_1773372792629", "name": "비밀스러운 지름길", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" },
+              { "id": "npc_auto_12_1773372792629", "name": "나무뿌리가 얽힌 문", "detailImg": "", "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득", "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

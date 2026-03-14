@@ -1,0 +1,780 @@
+[
+  {
+    "id": "cat_1773149272_대해",
+    "name": "대해",
+    "iconName": "BookOpen",
+    "description": "모험가님이 원클릭으로 수집한 대해 지식입니다.",
+    "regions": [
+      {
+        "id": "reg_1773149272_대해 > 피욘 해역",
+        "name": "대해 > 피욘 해역",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149272_피욘 해역",
+            "name": "피욘 해역",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149162321",
+                "name": "라메다 섬",
+                "detailImg": "",
+                "desc": "배를 타고 에페리아 해역의 라메다 섬 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149162321",
+                "name": "테야말 섬",
+                "detailImg": "",
+                "desc": "배를 타고 에페리아 해역의 테야말 섬 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149162321",
+                "name": "시오닐 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149162321",
+                "name": "모드릭 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149162321",
+                "name": "바에자 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149272_대해 > 에페리아 해역",
+        "name": "대해 > 에페리아 해역",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149272_에페리아 해역",
+            "name": "에페리아 해역",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149168472",
+                "name": "세르카 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149168472",
+                "name": "란디스 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149272_대해 > 아르모 해역",
+        "name": "대해 > 아르모 해역",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149272_아르모 해역",
+            "name": "아르모 해역",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149179714",
+                "name": "알마이 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149179714",
+                "name": "테스테 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149179714",
+                "name": "파딕스 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149179714",
+                "name": "아리타 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149179714",
+                "name": "쿠이트 제도",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149179714",
+                "name": "데이튼 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149179714",
+                "name": "오벤 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149179714",
+                "name": "에버딘 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149179714",
+                "name": "알브레서 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149179714",
+                "name": "네트넘 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149179714",
+                "name": "진버레이 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149179714",
+                "name": "바라테르 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149179714",
+                "name": "던데 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149272_대해 > 올비아 해역",
+        "name": "대해 > 올비아 해역",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149272_올비아 해역",
+            "name": "올비아 해역",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149186893",
+                "name": "나르보 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149186893",
+                "name": "리스즈 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149186893",
+                "name": "스타렌 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149186893",
+                "name": "루루브 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149186893",
+                "name": "마르카 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149272_대해 > 발레노스 군도",
+        "name": "대해 > 발레노스 군도",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149272_발레노스 군도",
+            "name": "발레노스 군도",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149195590",
+                "name": "앙쥬 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149195590",
+                "name": "마를레느 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149195590",
+                "name": "발베쥬 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149195590",
+                "name": "에베토 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149195590",
+                "name": "마리베노 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149195590",
+                "name": "두흐 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149195590",
+                "name": "루이바노 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149195590",
+                "name": "에프데 룬 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149272_대해 > 녹스 해역",
+        "name": "대해 > 녹스 해역",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149272_녹스 해역",
+            "name": "녹스 해역",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149207323",
+                "name": "레마 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149207323",
+                "name": "인버넨 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149207323",
+                "name": "툴루 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149207323",
+                "name": "오르프스 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149207323",
+                "name": "타슈 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149272_대해 > 크론 군도",
+        "name": "대해 > 크론 군도",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149272_크론 군도",
+            "name": "크론 군도",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149213991",
+                "name": "파라타마 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149213991",
+                "name": "칸베라 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149213991",
+                "name": "아라킬 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149213991",
+                "name": "웨이타 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149213991",
+                "name": "바레미 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149272_대해 > 소산 군도",
+        "name": "대해 > 소산 군도",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149272_소산 군도",
+            "name": "소산 군도",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149222690",
+                "name": "오스트라 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149222690",
+                "name": "타라무라 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149222690",
+                "name": "베이루와 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149222690",
+                "name": "델링하트 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149222690",
+                "name": "필바라 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149222690",
+                "name": "붉은 전장",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149272_대해 > 아르샤 해역",
+        "name": "대해 > 아르샤 해역",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149272_아르샤 해역",
+            "name": "아르샤 해역",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149229372",
+                "name": "라시드 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149229372",
+                "name": "알나하 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149229372",
+                "name": "아지르 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149229372",
+                "name": "푸자라 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149272_대해 > 엘토르 해역",
+        "name": "대해 > 엘토르 해역",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149272_엘토르 해역",
+            "name": "엘토르 해역",
+            "energy": 1,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149240120",
+                "name": "샤샤 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149240120",
+                "name": "포르타넨 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149240120",
+                "name": "레라오 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149240120",
+                "name": "틴베라 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149240120",
+                "name": "로즈반 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149272_대해 > 알 할람 해역",
+        "name": "대해 > 알 할람 해역",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149272_알 할람 해역",
+            "name": "알 할람 해역",
+            "energy": 1,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149247320",
+                "name": "더코 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149247320",
+                "name": "보아 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149247320",
+                "name": "오리샤 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149247320",
+                "name": "카슈마 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149247320",
+                "name": "할마드 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149247320",
+                "name": "시르나 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149247320",
+                "name": "티그리스 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149247320",
+                "name": "에스파 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149247320",
+                "name": "리에드 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149247320",
+                "name": "소코타 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149272_대해 > 마고리아 해역",
+        "name": "대해 > 마고리아 해역",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149272_마고리아 해역",
+            "name": "마고리아 해역",
+            "energy": 1,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149260063",
+                "name": "까마귀의 둥지",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149260063",
+                "name": "오킬루아의 눈",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149260063",
+                "name": "나다 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149260063",
+                "name": "마리울 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149260063",
+                "name": "자감 섬",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149260063",
+                "name": "바다빈 해역",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149260063",
+                "name": "유르 해역",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149260063",
+                "name": "마고리아",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149260063",
+                "name": "로스 해역",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149272_대해 > 세르니 해역",
+        "name": "대해 > 세르니 해역",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149272_파푸아크리니",
+            "name": "파푸아크리니",
+            "energy": "",
+            "items": [
+              {
+                "id": "npc_auto_0_1773149266725",
+                "name": "파푸아크리니",
+                "detailImg": "",
+                "desc": "카마실비아 퀘스트 라인을 통해 파푸아크리니 섬 진입 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149266725",
+                "name": "라뮤트 유랑기지",
+                "detailImg": "",
+                "desc": "파푸아크리니 인근 라뮤트 유랑단 NPC와 상호작용",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149266725",
+                "name": "달의 뼈",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149266725",
+                "name": "파도의 쉼터",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149266725",
+                "name": "혈전의 백사장",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149266725",
+                "name": "크리오니아",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149266725",
+                "name": "파푸라오라",
+                "detailImg": "",
+                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

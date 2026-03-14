@@ -1,0 +1,3993 @@
+[
+  {
+    "id": "cat_1773149116_지형",
+    "name": "지형",
+    "iconName": "BookOpen",
+    "description": "모험가님이 원클릭으로 수집한 지형 지식입니다.",
+    "regions": [
+      {
+        "id": "reg_1773149116_지형 > 발레노스",
+        "name": "지형 > 발레노스",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149116_발레노스 동부",
+            "name": "발레노스 동부",
+            "energy": 4,
+            "items": [
+              {
+                "id": "npc_auto_0_1773148936132",
+                "name": "해안 절벽에 숨겨진 동굴",
+                "detailImg": "",
+                "desc": "해안 절벽 거점 근처의 숨겨진 동굴 진입 시 지형 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773148936132",
+                "name": "고블린 동굴",
+                "detailImg": "",
+                "desc": "고블린 동굴 거점 내부를 직접 탐험 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773148936132",
+                "name": "델루치 농장",
+                "detailImg": "",
+                "desc": "발레노스 숲 인근 델루치 농장 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773148936132",
+                "name": "마리노 농장 창고",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773148936132",
+                "name": "마리노 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773148936132",
+                "name": "고대인의 석실",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773148936132",
+                "name": "토스카니 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773148936132",
+                "name": "해안 동굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773148936132",
+                "name": "아그리스 제단",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773148936132",
+                "name": "임프 동굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773148936132",
+                "name": "로기아 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773148936132",
+                "name": "벨리아 납골당",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773148936132",
+                "name": "바탈리 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773148936132",
+                "name": "핀토 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773148936132",
+                "name": "크론 성터",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_15_1773148936132",
+                "name": "애화저 언덕",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_16_1773148936132",
+                "name": "약탈의 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_17_1773148936132",
+                "name": "서부 관문",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_18_1773148936132",
+                "name": "일리야 섬",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_19_1773148936132",
+                "name": "발레노스 산맥",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_20_1773148936132",
+                "name": "발레노스 강",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_21_1773148936132",
+                "name": "발레노스 만",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_22_1773148936132",
+                "name": "하이델 길머리",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_23_1773148936132",
+                "name": "크론 성",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_24_1773148936132",
+                "name": "피아자 농장 폐허",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_25_1773148936132",
+                "name": "발레노스 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_26_1773148936132",
+                "name": "플레메 언덕",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_27_1773148936132",
+                "name": "은둔의 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_28_1773148936132",
+                "name": "서부 경비 캠프",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_29_1773148936132",
+                "name": "해안 절벽",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_30_1773148936132",
+                "name": "아그리스 초원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_31_1773148936132",
+                "name": "벨리아 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_발레노스 서부",
+            "name": "발레노스 서부",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773148939716",
+                "name": "가면 올빼미의 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773148939716",
+                "name": "에페리아 고개",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773148939716",
+                "name": "올비아 해안",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773148939716",
+                "name": "테르미안 산기슭",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773148939716",
+                "name": "테르미안 절벽",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773148939716",
+                "name": "발레노스 강 어귀",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773148939716",
+                "name": "늑대 언덕",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773148939716",
+                "name": "카스타 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773148939716",
+                "name": "웨일 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773148939716",
+                "name": "노인의 다리",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773148939716",
+                "name": "플로린 관문",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773148939716",
+                "name": "올비아 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149116_지형 > 세렌디아",
+        "name": "지형 > 세렌디아",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149116_세렌디아 북부",
+            "name": "세렌디아 북부",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773148953528",
+                "name": "데미 강",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773148953528",
+                "name": "린치 목장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773148953528",
+                "name": "린치 농장 폐허",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773148953528",
+                "name": "데미 강변",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773148953528",
+                "name": "세렌디아 북부 평원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773148953528",
+                "name": "하이델 북부 고원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773148953528",
+                "name": "왕의 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773148953528",
+                "name": "산양 마루",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773148953528",
+                "name": "마법사의 제단",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773148953528",
+                "name": "린치 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773148953528",
+                "name": "알레한드로 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773148953528",
+                "name": "북부 경비 캠프",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773148953528",
+                "name": "하이델 북부 채석장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773148953528",
+                "name": "하이델 성",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773148953528",
+                "name": "세렌디아, 하이델 도시",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_세렌디아 늪지",
+            "name": "세렌디아 늪지",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773148956604",
+                "name": "북쪽 늪지대",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773148956604",
+                "name": "중부 경비 캠프",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773148956604",
+                "name": "남부 경비 캠프",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773148956604",
+                "name": "남쪽 늪지대",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773148956604",
+                "name": "글리시 폐허",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773148956604",
+                "name": "데르닐 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773148956604",
+                "name": "남부 나가 습지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773148956604",
+                "name": "글리시 늪지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773148956604",
+                "name": "북부 포건 습지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773148956604",
+                "name": "남부 포건 습지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773148956604",
+                "name": "북부 나가 습지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773148956604",
+                "name": "추출장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773148956604",
+                "name": "글리시 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773148956604",
+                "name": "서북부 관문",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773148956604",
+                "name": "중부 나가 습지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_15_1773148956604",
+                "name": "모레티 거대 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_16_1773148956604",
+                "name": "코스타 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_17_1773148956604",
+                "name": "엘다 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_세렌디아 외곽 산맥",
+            "name": "세렌디아 외곽 산맥",
+            "energy": 3,
+            "items": [
+              {
+                "id": "npc_auto_0_1773148960707",
+                "name": "베일에 싸인 미궁",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773148960707",
+                "name": "감시탑",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773148960707",
+                "name": "서부 절벽",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773148960707",
+                "name": "비라기 산채",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773148960707",
+                "name": "핏빛 수도원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773148960707",
+                "name": "세렌디아 신전",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773148960707",
+                "name": "폐성터",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773148960707",
+                "name": "산채 사잇길",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773148960707",
+                "name": "오크 캠프",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773148960707",
+                "name": "동부 경계",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773148960707",
+                "name": "죽음의 순례로",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773148960707",
+                "name": "수도원 수원지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773148960707",
+                "name": "서남부 관문",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773148960707",
+                "name": "브레디 요새",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773148960707",
+                "name": "중립지대 계곡 사잇길",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_15_1773148960707",
+                "name": "북부 중립 지역",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_16_1773148960707",
+                "name": "남부 산맥",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_17_1773148960707",
+                "name": "곡창 지대",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_18_1773148960707",
+                "name": "세렌디아 남부 평원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_19_1773148960707",
+                "name": "동부 관문",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_20_1773148960707",
+                "name": "남부 중립 지역",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_21_1773148960707",
+                "name": "중부 중립 지역",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149116_지형 > 칼페온",
+        "name": "지형 > 칼페온",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149116_칼페온 북부",
+            "name": "칼페온 북부",
+            "energy": 4,
+            "items": [
+              {
+                "id": "npc_auto_0_1773148976029",
+                "name": "칼페온 성터",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773148976029",
+                "name": "칼페온 시장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773148976029",
+                "name": "칼페온 빈민가",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773148976029",
+                "name": "플로린 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773148976029",
+                "name": "칼페온",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773148976029",
+                "name": "카이아 호수",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773148976029",
+                "name": "마르니 동굴길",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773148976029",
+                "name": "칼리스 광장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773148976029",
+                "name": "칼페온 평원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773148976029",
+                "name": "베르니안토 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773148976029",
+                "name": "노인의 다리 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773148976029",
+                "name": "코헨 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773148976029",
+                "name": "에페리아 계곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773148976029",
+                "name": "에페리아 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773148976029",
+                "name": "디아스 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_15_1773148976029",
+                "name": "고립된 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_16_1773148976029",
+                "name": "카프라스 동굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_17_1773148976029",
+                "name": "오염된 농장지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_18_1773148976029",
+                "name": "북부 밀 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_19_1773148976029",
+                "name": "카란다 능선",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_20_1773148976029",
+                "name": "에페리아 항구 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_21_1773148976029",
+                "name": "델페 기사단 성",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_22_1773148976029",
+                "name": "구 단델리온",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_23_1773148976029",
+                "name": "브리 나무 유적지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_24_1773148976029",
+                "name": "와라곤 동굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_25_1773148976029",
+                "name": "쿠루토 동굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_26_1773148976029",
+                "name": "델페 전진 기지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_27_1773148976029",
+                "name": "트롤 방어 기지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_28_1773148976029",
+                "name": "귄트 언덕",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_29_1773148976029",
+                "name": "버림받은 땅",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_케플란",
+            "name": "케플란",
+            "energy": 4,
+            "items": [
+              {
+                "id": "npc_auto_0_1773148980611",
+                "name": "케플란",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773148980611",
+                "name": "타트 바위 삼거리",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773148980611",
+                "name": "데인 협곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773148980611",
+                "name": "오제의 집",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773148980611",
+                "name": "케플란 채굴장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773148980611",
+                "name": "채굴장 사잇길",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773148980611",
+                "name": "글루토니 동굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773148980611",
+                "name": "세렌디아 서부 관문",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773148980611",
+                "name": "지아닌 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773148980611",
+                "name": "케플란 길목",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773148980611",
+                "name": "게아쿠 평원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773148980611",
+                "name": "폐채굴장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773148980611",
+                "name": "봉화대 입구 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773148980611",
+                "name": "사우닐 캠프",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773148980611",
+                "name": "케플란 언덕",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_15_1773148980611",
+                "name": "마르니 농장 폐허",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_16_1773148980611",
+                "name": "오제 고개",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_17_1773148980611",
+                "name": "오베렌 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_18_1773148980611",
+                "name": "버려진 채굴장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_19_1773148980611",
+                "name": "바인 농장지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_20_1773148980611",
+                "name": "헥세 돌담",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_21_1773148980611",
+                "name": "팔르스 소농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_22_1773148980611",
+                "name": "마르니의 실험터",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_23_1773148980611",
+                "name": "트리나 봉화대",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_24_1773148980611",
+                "name": "트리나 요새",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_25_1773148980611",
+                "name": "사우닐 전장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_26_1773148980611",
+                "name": "거인족 주둔지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_칼페온 서남부",
+            "name": "칼페온 서남부",
+            "energy": 4,
+            "items": [
+              {
+                "id": "npc_auto_0_1773148984696",
+                "name": "북 카이아 호수",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773148984696",
+                "name": "북 카이아산 정상",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773148984696",
+                "name": "포니엘 산장 입구",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773148984696",
+                "name": "헥세 성역",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773148984696",
+                "name": "베어 강 하류",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773148984696",
+                "name": "포니엘 산장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773148984696",
+                "name": "마녀의 예배당",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773148984696",
+                "name": "긴잎나무 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773148984696",
+                "name": "남 카이아 호수",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773148984696",
+                "name": "엔트 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773148984696",
+                "name": "칼페온 성",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773148984696",
+                "name": "베어 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773148984696",
+                "name": "트렌트 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773148984696",
+                "name": "긴잎나무 정찰 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773148984696",
+                "name": "벌목장 쉼터",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_15_1773148984696",
+                "name": "토바레 오두막",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_16_1773148984696",
+                "name": "마리 동굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_17_1773148984696",
+                "name": "만샤 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_18_1773148984696",
+                "name": "칼페온 성터 서쪽 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_19_1773148984696",
+                "name": "메기맨 캠프",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_20_1773148984696",
+                "name": "가비노 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_21_1773148984696",
+                "name": "남 카이아 나루",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_22_1773148984696",
+                "name": "루아 나무 둥치",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_23_1773148984696",
+                "name": "크리오 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_24_1773148984696",
+                "name": "버려진 수도원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_25_1773148984696",
+                "name": "루툼 감시 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_26_1773148984696",
+                "name": "루툼족 주둔지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_27_1773148984696",
+                "name": "베어 강 수원지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_28_1773148984696",
+                "name": "북 카이아 나루",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_별무덤",
+            "name": "별무덤",
+            "energy": 1,
+            "items": [
+              {
+                "id": "npc_auto_0_1773148986733",
+                "name": "전진 기지 보급항",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773148986733",
+                "name": "브렐린 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773148986733",
+                "name": "별무덤",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773148986733",
+                "name": "칼페온 서북부 전진 기지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149116_지형 > 메디아",
+        "name": "지형 > 메디아",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149116_메디아 북부",
+            "name": "메디아 북부",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773148999544",
+                "name": "돌꼬리 언덕 말 목장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773148999544",
+                "name": "투구족 주둔지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773148999544",
+                "name": "고대 유적 발굴지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773148999544",
+                "name": "엘릭 사원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773148999544",
+                "name": "부패의 협곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773148999544",
+                "name": "쿠샤 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773148999544",
+                "name": "사르마 기지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773148999544",
+                "name": "대족장의 영묘",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773148999544",
+                "name": "고대의 틈",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773148999544",
+                "name": "슈리 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773148999544",
+                "name": "메디아 북부 고원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773148999544",
+                "name": "돌꼬리 황무지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773148999544",
+                "name": "메디아 북부 관문",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_메디아 남부",
+            "name": "메디아 남부",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149002112",
+                "name": "폐철광산 루툼 지구",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149002112",
+                "name": "경각의 종",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149002112",
+                "name": "폐철광산 입구",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149002112",
+                "name": "폐철광산 사우닐 지구",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149002112",
+                "name": "오마르 용암 동굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149002112",
+                "name": "아분 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149002112",
+                "name": "폐철광산",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149002112",
+                "name": "물텀벙 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149002112",
+                "name": "고원 삼거리",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149002112",
+                "name": "카술라 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149002112",
+                "name": "아토 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149002112",
+                "name": "타리프 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149002112",
+                "name": "알티노바 입구",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773149002112",
+                "name": "방랑도적 소굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773149002112",
+                "name": "아술라 고원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_15_1773149002112",
+                "name": "갈기족 소굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_16_1773149002112",
+                "name": "알티노바",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_메디아 외곽 지역",
+            "name": "메디아 외곽 지역",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149004674",
+                "name": "하스라 절벽",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149004674",
+                "name": "툰그라드 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149004674",
+                "name": "메디아 성",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149004674",
+                "name": "병사의 무덤",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149004674",
+                "name": "돌부리 해안",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149004674",
+                "name": "마르니 제 2 실험터",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149004674",
+                "name": "알룸바위 계곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149004674",
+                "name": "소산 선착장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149004674",
+                "name": "메디아 해안",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149004674",
+                "name": "카마실브 사원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149004674",
+                "name": "울림의 땅",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149004674",
+                "name": "소산 주둔지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149116_지형 > 발렌시아",
+        "name": "지형 > 발렌시아",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149116_발렌시아 초입",
+            "name": "발렌시아 초입",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149016980",
+                "name": "샤카투 폐 나루터",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149016980",
+                "name": "포할람 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149016980",
+                "name": "발렌시아 대농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149016980",
+                "name": "에르달 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149016980",
+                "name": "바윗돌 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149016980",
+                "name": "알티노바 관문",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149016980",
+                "name": "알타스 경작지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149016980",
+                "name": "샤카투 경작지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149016980",
+                "name": "바자르 경작지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149016980",
+                "name": "폐허도시 룬",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149016980",
+                "name": "필라 페",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149016980",
+                "name": "쿠니드의 쉼터",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149016980",
+                "name": "와라곤 둥지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773149016980",
+                "name": "바심족 주둔지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773149016980",
+                "name": "카드리 폐허",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_15_1773149016980",
+                "name": "타프타르 평야",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_16_1773149016980",
+                "name": "모래알 바자르",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_17_1773149016980",
+                "name": "바르한 관문",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_18_1773149016980",
+                "name": "바실리스크 소굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_19_1773149016980",
+                "name": "카포티아",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_20_1773149016980",
+                "name": "폐 나루터",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_21_1773149016980",
+                "name": "룬 관문 삼거리",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_22_1773149016980",
+                "name": "희망나루",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_23_1773149016980",
+                "name": "샤카투",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_발렌시아 협곡",
+            "name": "발렌시아 협곡",
+            "energy": 3,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149020055",
+                "name": "티티움 계곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149020055",
+                "name": "크마흐 협곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149020055",
+                "name": "발렌시아 서부 고원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149020055",
+                "name": "얄트 협곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149020055",
+                "name": "키슬리브 암석 지대",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149020055",
+                "name": "노병의 협곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149020055",
+                "name": "고르고 암석 지대",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149020055",
+                "name": "초승달 산맥",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149020055",
+                "name": "초승달 신전",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149020055",
+                "name": "푸지야 협곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149020055",
+                "name": "밤부 골짜기",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149020055",
+                "name": "아이리스 협곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149020055",
+                "name": "가하즈 도적단 소굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773149020055",
+                "name": "라이칼 폭포",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_발렌시아 (대사막)",
+            "name": "발렌시아 (대사막)",
+            "energy": 3,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149022609",
+                "name": "아크만 사원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149022609",
+                "name": "축복의 오아시스",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149022609",
+                "name": "시간의 오아시스",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149022609",
+                "name": "발렌시아 성터",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149022609",
+                "name": "안카도 해안",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149022609",
+                "name": "꿈꾸는 오아시스",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149022609",
+                "name": "라크샨 천문대",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149022609",
+                "name": "안카도 내항",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149022609",
+                "name": "발렌시아 성",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149022609",
+                "name": "수도 발렌시아",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149022609",
+                "name": "아크만",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149022609",
+                "name": "순례자의 성소 - 금식",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149022609",
+                "name": "순례자의 성소 - 순결",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773149022609",
+                "name": "순례자의 성소 - 겸손",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773149022609",
+                "name": "순교자의 안식처",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_15_1773149022609",
+                "name": "사막 나가 성전",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_16_1773149022609",
+                "name": "순례자의 성소 - 성실",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_17_1773149022609",
+                "name": "순례자의 성소 - 분배",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_18_1773149022609",
+                "name": "순례자의 성소 - 절제",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_19_1773149022609",
+                "name": "순례자의 성소 - 순종",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_20_1773149022609",
+                "name": "이벨랍 오아시스",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_발렌시아 동부",
+            "name": "발렌시아 동부",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149024657",
+                "name": "하코번 섬",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149024657",
+                "name": "도나 바위산",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149024657",
+                "name": "히스트리아 폐허",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149024657",
+                "name": "이베로 절벽",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149024657",
+                "name": "상아 황무지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149024657",
+                "name": "루드 유황 작업장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149024657",
+                "name": "루드 유황 광산",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149024657",
+                "name": "가비냐 해안 절벽",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149024657",
+                "name": "가비냐 대분화구",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149024657",
+                "name": "가비냐 화산 지대",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149024657",
+                "name": "북부 모래 언덕",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149024657",
+                "name": "필라 쿠 감옥",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149024657",
+                "name": "칸투사 사막",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773149024657",
+                "name": "칸투사 중부",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773149024657",
+                "name": "무이쿤",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_15_1773149024657",
+                "name": "아레하자 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_16_1773149024657",
+                "name": "아레하 야자숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149116_지형 > 카마실비아",
+        "name": "지형 > 카마실비아",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149116_카마실비아 초입",
+            "name": "카마실비아 초입",
+            "energy": 1,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149034378",
+                "name": "카두일 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149034378",
+                "name": "레모리아 경비 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149034378",
+                "name": "카마실비아 진입로",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149034378",
+                "name": "라모 계곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149034378",
+                "name": "발타라 - 수련의 제단",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149034378",
+                "name": "발타라 산맥",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149034378",
+                "name": "빕 포레타 산장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149034378",
+                "name": "홀로 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149034378",
+                "name": "미루목 유적지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149034378",
+                "name": "만샤움 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149034378",
+                "name": "레모리아 중부 캠프",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149034378",
+                "name": "나반 초원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149034378",
+                "name": "그늘나무 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773149034378",
+                "name": "지혜의 고목",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773149034378",
+                "name": "아타니스 못",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_카마실비아 숲",
+            "name": "카마실비아 숲",
+            "energy": 1,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149036428",
+                "name": "그란디하",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149036428",
+                "name": "잿빛 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149036428",
+                "name": "플롱도르 호숫가",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149036428",
+                "name": "흰가지나무 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149036428",
+                "name": "폴리숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149036428",
+                "name": "고리나무 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149036428",
+                "name": "이빨요정 다락집",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149036428",
+                "name": "이빨요정 산림",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149036428",
+                "name": "그라나",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_카마실비아 외곽",
+            "name": "카마실비아 외곽",
+            "energy": 1,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149038989",
+                "name": "카마실비아 성",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149038989",
+                "name": "아케르 남부 캠프",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149038989",
+                "name": "아케르 서부 캠프",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149038989",
+                "name": "이아나로스의 들",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149038989",
+                "name": "오기에르 강",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149038989",
+                "name": "크로그달로의 자취",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149038989",
+                "name": "가이핀라시아 사원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149038989",
+                "name": "카마실비아 남부",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149038989",
+                "name": "러니 산장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149038989",
+                "name": "위니 산장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149038989",
+                "name": "아케르 경비 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149038989",
+                "name": "발타라 서부 산맥",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149038989",
+                "name": "레모리아 봉화대",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149116_지형 > 드리간",
+        "name": "지형 > 드리간",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149116_드리간 중립지대",
+            "name": "드리간 중립지대",
+            "energy": 1,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149046683",
+                "name": "잊혀진 관문",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149046683",
+                "name": "히무트 벌목장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149046683",
+                "name": "도르만 벌목장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_드리간 자치구",
+            "name": "드리간 자치구",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149048218",
+                "name": "마라크 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149048218",
+                "name": "붉은늑대 부락",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149048218",
+                "name": "트쉬라 폐허",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149048218",
+                "name": "게르비슈 산맥",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149048218",
+                "name": "기원의 샘",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149048218",
+                "name": "가야크 제단",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149048218",
+                "name": "바람깃 봉우리",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149048218",
+                "name": "밤 까마귀 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149048218",
+                "name": "새벽 안개 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149048218",
+                "name": "하락의 쉼터",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149048218",
+                "name": "가모스의 둥지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149048218",
+                "name": "셰레칸의 묘",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149048218",
+                "name": "드벤크룬 경작지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773149048218",
+                "name": "드벤크룬",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_카마실비아 분쟁지역",
+            "name": "카마실비아 분쟁지역",
+            "energy": 1,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149049770",
+                "name": "마르차 전초 기지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149049770",
+                "name": "칼크 협곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149049770",
+                "name": "아쿰 바위산",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149049770",
+                "name": "아히브 분쟁 지역",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149116_지형 > 오딜리타",
+        "name": "지형 > 오딜리타",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149116_오딜리타 숲",
+            "name": "오딜리타 숲",
+            "energy": 1,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149057472",
+                "name": "오딜리타 성",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149057472",
+                "name": "라 오델",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149057472",
+                "name": "죽은달 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149057472",
+                "name": "낙시온",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149057472",
+                "name": "단죄하는 제단",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149057472",
+                "name": "생각이 잠든 묘",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149057472",
+                "name": "올룬의 계곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149057472",
+                "name": "델리모르 농원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149057472",
+                "name": "살라나르 못",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149057472",
+                "name": "칼날 협로",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149057472",
+                "name": "오드락시아",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149057472",
+                "name": "지워진 산",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149057472",
+                "name": "방랑의 길",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773149057472",
+                "name": "툰크타",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773149057472",
+                "name": "가시나무 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_오딜리타 경계",
+            "name": "오딜리타 경계",
+            "energy": 1,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149059573",
+                "name": "오딜리타 성 진입로",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149059573",
+                "name": "깊은 밤의 항구",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149059573",
+                "name": "탈리바르의 끈",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149059573",
+                "name": "바히트 성소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149059573",
+                "name": "구분짓는 산",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149059573",
+                "name": "살룬의 경계",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149116_지형 > 끝없는 겨울의 산",
+        "name": "지형 > 끝없는 겨울의 산",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149116_대전투 경계지역",
+            "name": "대전투 경계지역",
+            "energy": "",
+            "items": [
+              {
+                "id": "npc_auto_0_1773149072390",
+                "name": "발락스 캠프",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149072390",
+                "name": "폐쇄된 무역 관문",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149072390",
+                "name": "묵도의 소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149072390",
+                "name": "마지막 순례길",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_칸의 영역",
+            "name": "칸의 영역",
+            "energy": 1,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149074457",
+                "name": "에레테아의 허리",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149074457",
+                "name": "바람 놀의 둥지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149074457",
+                "name": "샤르보노 별장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149074457",
+                "name": "예언하는 길 (에일 마을)",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149074457",
+                "name": "마스란의 율라스 유자 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149074457",
+                "name": "샤르보노 숯 공방 (에레테아의 허리)",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149074457",
+                "name": "샤르보노 숯 공방 (아위나의 꼬리)",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149074457",
+                "name": "샤르보노 숯 공방",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149074457",
+                "name": "즈비에르 구릉지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149074457",
+                "name": "높은 고개 경비 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149074457",
+                "name": "눈보라 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149074457",
+                "name": "에일 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149074457",
+                "name": "아위나의 꼬리",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_오므아의 영역",
+            "name": "오므아의 영역",
+            "energy": 1,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149075997",
+                "name": "검은호수 임시 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149075997",
+                "name": "태고가 잠든 안식처",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149075997",
+                "name": "예언하는 길 (비취별빛 숲)",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149075997",
+                "name": "토리의 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149075997",
+                "name": "셰레칸 폐철광산 (므로웨크의 미궁)",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149075997",
+                "name": "끝없는 겨울의 산",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149075997",
+                "name": "브론테의 벼락",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149075997",
+                "name": "비취별빛 숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149116_지형 > 아침의 나라",
+        "name": "지형 > 아침의 나라",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149116_동해도",
+            "name": "동해도",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149086746",
+                "name": "수궁",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149086746",
+                "name": "달래나루",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149086746",
+                "name": "벽계 섬",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149086746",
+                "name": "해모 섬",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149086746",
+                "name": "범바위 관문",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149086746",
+                "name": "범바위골",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149086746",
+                "name": "바리숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149086746",
+                "name": "높새 볏골 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149086746",
+                "name": "여우 고개",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149086746",
+                "name": "홍림채",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149086746",
+                "name": "봄내골",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149086746",
+                "name": "마른 가지 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149086746",
+                "name": "고운마루",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773149086746",
+                "name": "금돼지굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773149086746",
+                "name": "도깨비숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_15_1773149086746",
+                "name": "청산서원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_16_1773149086746",
+                "name": "솔가지숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_17_1773149086746",
+                "name": "남포 무들 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_18_1773149086746",
+                "name": "남포 관문",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_19_1773149086746",
+                "name": "십리대숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_20_1773149086746",
+                "name": "한짓골",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_21_1773149086746",
+                "name": "달벌 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_황해도",
+            "name": "황해도",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149089820",
+                "name": "초원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149089820",
+                "name": "등룡동굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149089820",
+                "name": "동막골",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149089820",
+                "name": "잠화늪",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149089820",
+                "name": "못골 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149089820",
+                "name": "별리숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149089820",
+                "name": "서련방",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149089820",
+                "name": "고두마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149089820",
+                "name": "유운루",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149089820",
+                "name": "운종가",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149089820",
+                "name": "육조거리",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149089820",
+                "name": "서울",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149089820",
+                "name": "무신제",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773149089820",
+                "name": "천제단",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773149089820",
+                "name": "아시산",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_15_1773149089820",
+                "name": "이몽룡 유배지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_16_1773149089820",
+                "name": "두메골",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_17_1773149089820",
+                "name": "화선곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_18_1773149089820",
+                "name": "구름나루",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_19_1773149089820",
+                "name": "홀본",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_20_1773149089820",
+                "name": "거구괴굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_21_1773149089820",
+                "name": "당숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_22_1773149089820",
+                "name": "태학",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_23_1773149089820",
+                "name": "밀본",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_24_1773149089820",
+                "name": "명균전",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_25_1773149089820",
+                "name": "원진궁",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_26_1773149089820",
+                "name": "북포",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149116_지형 > 울루키타",
+        "name": "지형 > 울루키타",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149116_울루키타 북부",
+            "name": "울루키타 북부",
+            "energy": 1,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149100622",
+                "name": "죽은 자들의 도시",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149100622",
+                "name": "아테슈사라",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149100622",
+                "name": "세제크 용병 캠프",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149100622",
+                "name": "아스페르칸 요새",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149100622",
+                "name": "세실타시",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149100622",
+                "name": "비탄의 동굴",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149100622",
+                "name": "잊혀진 기록의 무덤",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149100622",
+                "name": "켈모른 황야",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149100622",
+                "name": "코르푸스 무덤",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149100622",
+                "name": "트레모 언덕",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149100622",
+                "name": "네루다 평야",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149100622",
+                "name": "주나이드 강 경계초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149100622",
+                "name": "아스페르칸 작업 캠프",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773149100622",
+                "name": "툰그라드 유적지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1773149116_울루키타 남부",
+            "name": "울루키타 남부",
+            "energy": 1,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149102692",
+                "name": "아크슈라드 산맥",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149102692",
+                "name": "스토프비르",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149102692",
+                "name": "샤크타르 황야",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149102692",
+                "name": "베란디르 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149102692",
+                "name": "이스라히드 고원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149102692",
+                "name": "글라디우스 여관",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149102692",
+                "name": "검은돌 광산",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149102692",
+                "name": "내려앉은 성채",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149102692",
+                "name": "카르아쉬 협곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149102692",
+                "name": "세피라 호수 - 하부",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149102692",
+                "name": "바르한 캠프",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149102692",
+                "name": "무즈가르 마을",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149102692",
+                "name": "투르바 농장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773149102692",
+                "name": "라크 경비 초소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773149102692",
+                "name": "어둠 추종자 침소",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773149116_지형 > 에다니아",
+        "name": "지형 > 에다니아",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773149116_에다니아 외부",
+            "name": "에다니아 외부",
+            "energy": 2,
+            "items": [
+              {
+                "id": "npc_auto_0_1773149112431",
+                "name": "성전 해안 정찰지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773149112431",
+                "name": "대흑점",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773149112431",
+                "name": "고요한 산호숲",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773149112431",
+                "name": "속삭이는 언덕",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773149112431",
+                "name": "물너울 협곡",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773149112431",
+                "name": "님파마레 성",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773149112431",
+                "name": "대적점",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773149112431",
+                "name": "재앙이 고인 못",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773149112431",
+                "name": "예언의 초토",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1773149112431",
+                "name": "고대인의 유적",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773149112431",
+                "name": "항거의 기로",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773149112431",
+                "name": "불사의 정원",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773149112431",
+                "name": "제피로스 성",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773149112431",
+                "name": "사테르나 산맥",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773149112431",
+                "name": "유페타르 산맥",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_15_1773149112431",
+                "name": "우르나스 산맥",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_16_1773149112431",
+                "name": "아알의 계시",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_17_1773149112431",
+                "name": "플라테르 산맥",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_18_1773149112431",
+                "name": "부르짖는 제단",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_19_1773149112431",
+                "name": "감춰진 기록",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_20_1773149112431",
+                "name": "묵빛 서장",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_21_1773149112431",
+                "name": "테네브라움 성",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_22_1773149112431",
+                "name": "르마나레 산",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_23_1773149112431",
+                "name": "낙망의 안벽",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_24_1773149112431",
+                "name": "푸른 전야",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_25_1773149112431",
+                "name": "기울어진 원환",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_26_1773149112431",
+                "name": "아에테리온 성",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_27_1773149112431",
+                "name": "리토반 산맥",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_28_1773149112431",
+                "name": "고결된 연민",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_29_1773149112431",
+                "name": "대백점",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_30_1773149112431",
+                "name": "신앙의 유택",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_31_1773149112431",
+                "name": "오르비타 성",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_32_1773149112431",
+                "name": "에스카르 산맥",
+                "detailImg": "",
+                "desc": "해당 지역 산맥을 직접 등반하여 거점 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_33_1773149112431",
+                "name": "잔해의 해안",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_34_1773149112431",
+                "name": "네프타크 전초지",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_35_1773149112431",
+                "name": "하킨자 성전",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char61265",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
