@@ -1397,14 +1397,14 @@
               {
                 "id": "npc_auto_4_1773147767916",
                 "name": "세라자드",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EC%84%B8%EB%9D%BC%EC%9E%90%EB%93%9C.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/세라자드.png",
                 "desc": "샤카투의 별채(좌측 핀) 집사. 별채를 빌린 후 입장(100G 필요). 해당 NPC와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773147767916",
                 "name": "리암",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EB%A6%AC%EC%95%94.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/리암.png",
                 "desc": "알사비의 별채(우측 핀) 집사. 별채를 빌린 후 입장(100G 필요). 해당 NPC와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -2293,7 +2293,7 @@
               {
                 "id": "npc_auto_16_1773147826165",
                 "name": "마르타 키옌",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EB%A7%88%EB%A5%B4%ED%83%80%20%ED%82%A4%EC%98%8C.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/마르타 키옌.png",
                 "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -2489,14 +2489,14 @@
               {
                 "id": "npc_auto_0_1773147833299",
                 "name": "라데르",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EB%9D%BC%EB%8D%B0%EB%A5%B4.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/라데르.png",
                 "desc": "버려진 수도원 구호 담당 사제. 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773147833299",
                 "name": "바호 라데리치오",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EB%B0%94%ED%98%B8%20%EB%9D%BC%EB%8D%B0%EB%A6%AC%EC%B9%98%EC%98%A4.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/바호 라데리치오.png",
                 "desc": "버려진 수도원 거점관리자. 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -4456,7 +4456,7 @@
               {
                 "id": "npc_auto_8_1773147927595",
                 "name": "의문의 남자",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EC%9D%98%EB%AC%B8%EC%9D%98%20%EB%82%A8%EC%9E%90.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/의문의 남자.png",
                 "desc": "올비아 밀무역 상인. 인 게임 밤 시간대 출몰",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -8600,14 +8600,14 @@
               {
                 "id": "npc_auto_9_1773148083616",
                 "name": "둥지의 일곱 천사",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EB%91%A5%EC%A7%80%EC%9D%98%20%EC%9D%BC%EA%B3%B1%20%EC%B2%9C%EC%82%AC.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/둥지의 일곱 천사.png",
                 "desc": "까마귀의 둥지 파트라지오 방 안, 팔리르비나란 아이와 대화 중인 상단 경비원에게 획득.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773148083616",
                 "name": "부리 빠진 까마귀",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EB%B6%80%EB%A6%AC%20%EB%B9%A0%EC%A7%84%20%EA%B9%8C%EB%A7%88%EA%B7%80.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/부리 빠진 까마귀.png",
                 "desc": "파트리지오와 라발라 사이의 통로에서 먹고 자며 살고 있음.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -8621,14 +8621,14 @@
               {
                 "id": "npc_auto_12_1773148083616",
                 "name": "열두 별길의 은둔자",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EC%97%B4%EB%91%90%20%EB%B3%84%EA%B8%B8%EC%9D%98%20%EC%9D%80%EB%91%94%EC%9E%90.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/열두 별길의 은둔자.png",
                 "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_13_1773148083616",
                 "name": "콩과 풍 그리고 가르비쉬",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EC%BD%A9%EA%B3%BC%20%ED%92%8D%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EA%B0%80%EB%A5%B4%EB%B9%84%EC%89%AC.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/콩과 풍 그리고 가르비쉬.png",
                 "desc": "라발라에게 획득 가능",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -11008,7 +11008,7 @@
               {
                 "id": "npc_auto_10_1773148159052",
                 "name": "리젠티",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EB%A6%AC%EC%A0%A0%ED%8B%B0.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/리젠티.png",
                 "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -11302,7 +11302,7 @@
               {
                 "id": "npc_auto_0_1773148168444",
                 "name": "로사우",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EB%A1%9C%EC%82%AC%EC%9A%B0.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/로사우.png",
                 "desc": "낙시온 건물 아래층 테라스에 위치. 해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -13297,14 +13297,14 @@
               {
                 "id": "npc_auto_11_1773148221643",
                 "name": "기도하는 자",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EA%B8%B0%EB%8F%84%ED%95%98%EB%8A%94%20%EC%9E%90.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/기도하는 자.png",
                 "desc": "붉은 늑대 부락과 샤르보노 별장 사이에 위치",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773148221643",
                 "name": "기도하는 여인",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EA%B8%B0%EB%8F%84%ED%95%98%EB%8A%94%20%EC%98%81%EC%9D%B8.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/기도하는 여인.png",
                 "desc": "기도하는 자 맞은편 시냇물",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -13367,7 +13367,7 @@
               {
                 "id": "npc_auto_1_1773148228360",
                 "name": "도망친 일꾼",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EB%8F%84%EB%A7%9D%EC%B9%9C%20%EC%9D%BC%EA%BE%BC.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/도망친 일꾼.png",
                 "desc": "지도상 셰레칸 폐철광산과 발락스 캠프를 이었을 때 중간쯤 교차로에 위치.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -15131,7 +15131,7 @@
               {
                 "id": "npc_auto_17_1773148303473",
                 "name": "디멜트",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EB%94%94%EB%A9%9C%ED%8A%B8.png?raw=true",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/디멜트.png",
                 "desc": "지도상 이스라히드 고원 그림 오른쪽 위치.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
