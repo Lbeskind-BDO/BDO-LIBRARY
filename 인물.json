@@ -2293,7 +2293,7 @@
               {
                 "id": "npc_auto_16_1773147826165",
                 "name": "마르타 키옌",
-                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/마르타 키옌.png",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45520",
                 "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -7515,7 +7515,7 @@
               {
                 "id": "npc_auto_17_1773148042104",
                 "name": "마르타 키옌",
-                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50613",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/발렌_마르타_키옌.png",
                 "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -10245,7 +10245,7 @@
               {
                 "id": "npc_auto_9_1773148115759",
                 "name": "마르타 키옌",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/카마_마르타_키옌.png",
                 "desc": "미루목 유적지 깎여나간 동굴 안. 해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
