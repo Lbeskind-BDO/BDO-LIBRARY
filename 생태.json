@@ -675,6 +675,20 @@
             "items": [
               {
                 "id": "npc_auto_0_1773149479489",
+                "name": "시크랙",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득. 15~40분 사이에 많이 출몰",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_0_1773149479489",
+                "name": "시크리",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득. 15~40분 사이에 보스로 출몰",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_0_1773149479489",
                 "name": "시크라이아 심해의 눈",
                 "detailImg": "",
                 "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
