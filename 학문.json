@@ -1615,63 +1615,63 @@
                 "id": "npc_auto_0_1773372648971",
                 "name": "아알의 평화",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 181] 바비오_신학 지식 4개 이상_아알에게 묻다 - 존재의 속성 - 경험의 다양성 - 신의 계승",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372648971",
                 "name": "존재와 속성",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 251] 공클러드_경제II 최소 8개 이상. 그러므로 인사가 답입니다.인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372648971",
                 "name": "신의 계승",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 751] 지크먼드_메디아 유일한 상대적 정상인_바위 - 황야 - 방어참호 - 강철방패",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372648971",
                 "name": "경험의 다양성",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 251] 몬타 아토_신학II 지식 6개 필요_아알에게 묻다 - 존재의속성 - 자연으로 - 작은신 - 신의계승 - 신을섬기는",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372648971",
                 "name": "아알에게 묻다",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 251] 안나 마레_악마녀석 같으니라고...인사가 답입니다.인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372648971",
                 "name": "자연으로 돌아가다",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 211, 451] 아스란_메디아의 모험일지III-수습소서러의 훈련법 1,2,3 획득 후 진행_수습소서 1- 수습소서 3 - 수습소서 2 - 나데르 액자"",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372648971",
                 "name": "풍요의 상징",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 211, 451] 아스란_메디아의 모험일지III-수습소서러의 훈련법 1,2,3 획득 후 진행_수습소서 1- 수습소서 3 - 수습소서 2 - 나데르 액자",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372648971",
                 "name": "작은 신, 아술라",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 431] 자라마스 카술라_교양3 지식들 필요_소서러의 기원 - 웨이키드 특식 - 쿠샤 마을과 돌 코뿔소 - 메디아 종탑",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372648971",
                 "name": "신을 섬기는 예의",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 201, 401] 지크먼드_인사가 답입니다.인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -1993,7 +1993,7 @@
                 "id": "npc_auto_17_1773372681574",
                 "name": "카마실비아 명언집",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 901]메어리_친밀도가 높아 보이나, 올리기 쉽습니다_벨리아 영웅담 - 요리사의 풍채 - 거장 로메룬 - 리더로 사는법 - 올리비아의 여행기 - 농장의 마녀 - 피리 부는 꼬마",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -2014,56 +2014,56 @@
                 "id": "npc_auto_0_1773372691752",
                 "name": "천체 관측 보고서 - 고블린자리",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 301]타사일라 힐라_애가 조울증이 심하대요_인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372691752",
                 "name": "천체 관측 보고서 - 봉인석자리",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 401]왈라갈라_구이 지식 있어야 교류 가능_생선훈제-구운소시지-오믈렛-해물버터-미트파이 or 교류 비활성화시 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372691752",
                 "name": "천체 관측 보고서 - 마차자리",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 201]야라_바트푸타 - 살레빈 - 오만 - 탄지네 - 유르신",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372691752",
                 "name": "천체 관측 보고서 - 열쇠자리",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 500] 바르한 네세르_그냥 인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372691752",
                 "name": "천체 관측 보고서 - 코끼리자리",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 301] 아와나 딜라_그냥 인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372691752",
                 "name": "천체 관측 보고서 - 부엉이자리",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 500] 만메한 네세르_밀크티 20개 선물하기",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372691752",
                 "name": "천체 관측 보고서 - 검은용자리",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 500] 사야 네세르_특상품 딸기 10개 선물하기",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372691752",
                 "name": "천체 관측 보고서 - 낙타자리",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 301] 네라사비 알롬_방패자리 - 거인자리 - 마차자리 - 부엉이자리",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -2091,7 +2091,7 @@
                 "id": "npc_auto_11_1773372691752",
                 "name": "천체 관측 보고서 - 망치자리",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 451] 발렌시아 기술교관 라밤 or 타타_대지의 기원 - 고대 빛의 기원 - 카프라스의 비밀 연구실 - 비밀수호단2 - 비밀수호단1 - 감시탑의음모",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -2196,7 +2196,7 @@
                 "id": "npc_auto_0_1773372709076",
                 "name": "카마실비아, 반목과 갈등",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도]라일리사만_깃털늑대 - 그리폰 - 제왕그리폰 - 그리폰의 알 - 작은 흑표점 - 작은 제왕 그리폰",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
