@@ -19,14 +19,14 @@
                 "id": "npc_auto_0_1773372510354",
                 "name": "하늘과 바다가 만나는 수평선",
                 "detailImg": "",
-                "desc": "특정 전망대나 높은 곳에서 풍경 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능. 님파마레_르마나레 산의 높은 곳에 올라가, 누군가의 쪽지를 읽어보자.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372510354",
                 "name": "숨겨진 거울",
                 "detailImg": "",
-                "desc": "탐험 중 발견할 수 있는 특정 거울 오브젝트 조사",
+                "desc": "[상호작용]으로 획득 가능. 대흑점에서 모든 것을 반사하는 호수를 찾아보자.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
