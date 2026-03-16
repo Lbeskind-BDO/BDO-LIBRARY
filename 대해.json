@@ -228,7 +228,7 @@
               {
                 "id": "npc_auto_4_1773149186893",
                 "name": "마르카 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/마르카%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
@@ -256,7 +256,7 @@
               {
                 "id": "npc_auto_1_1773149195590",
                 "name": "마를레느 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/마를레느%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -277,7 +277,7 @@
               {
                 "id": "npc_auto_4_1773149195590",
                 "name": "마리베노 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/마리베%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -663,21 +663,21 @@
                 "id": "npc_auto_2_1773149260063",
                 "name": "나다 섬",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/나다%20섬.png",
-                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "desc": "오킬루아의 NPC 카티오",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773149260063",
                 "name": "마리울 섬",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/마리울%20섬.png",
-                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "desc": "오킬루아의 NPC 대나타",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773149260063",
                 "name": "자감 섬",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/자감%20섬.png",
-                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "desc": "오킬루아의 NPC 자운",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -697,7 +697,7 @@
               {
                 "id": "npc_auto_7_1773149260063",
                 "name": "마고리아",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/마고리아.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -733,41 +733,41 @@
                 "id": "npc_auto_1_1773149266725",
                 "name": "라뮤트 유랑기지",
                 "detailImg": "",
-                "desc": "파푸아크리니 인근 라뮤트 유랑단 NPC와 상호작용",
+                "desc": "의뢰([파푸아크리니] 파푸아크리니로)로 획득 가능. 첫 번째 의뢰 : [파푸아크리니] 당신만을 위한 기막힌 선물_흑정령",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773149266725",
                 "name": "달의 뼈",
-                "detailImg": "",
+                "detailImg": "의뢰([천년전쟁을 위하여] 혈전의 돌멘게)로 획득 가능. 첫 번째 의뢰 : [천년전쟁을 위하여] 혈전의 돌멘게_벤스 모리오 or 벤스 모안나",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773149266725",
                 "name": "파도의 쉼터",
-                "detailImg": "",
+                "detailImg": "의뢰([천년전쟁을 위하여] 비범한 돌멘게)로 획득 가능. 첫 번째 의뢰 : [천년전쟁을 위하여] 혈전의 돌멘게_벤스 모리오 or 벤스 모안나",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773149266725",
                 "name": "혈전의 백사장",
-                "detailImg": "",
+                "detailImg": "의뢰([천년전쟁을 위하여] 영리 돌멘게)로 획득 가능. 첫 번째 의뢰 : [천년전쟁을 위하여] 혈전의 돌멘게_벤스 모리오 or 벤스 모안나",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773149266725",
                 "name": "크리오니아",
-                "detailImg": "",
+                "detailImg": "의뢰([파푸아크리니] 꿈의 천억을 위한 출발)로 획득 가능. 첫 번째 의뢰 : [파푸아크리니] 당신만을 위한 기막힌 선물_흑정령",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773149266725",
                 "name": "파푸라오라",
-                "detailImg": "",
+                "detailImg": "의뢰([파푸아크리니] 꿈의 천억을 위한 출발)로 획득 가능. 첫 번째 의뢰 : [파푸아크리니] 당신만을 위한 기막힌 선물_흑정령",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
