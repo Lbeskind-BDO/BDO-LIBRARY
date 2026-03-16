@@ -18,35 +18,35 @@
               {
                 "id": "npc_auto_0_1773149162321",
                 "name": "라메다 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/라메다%20섬.png",
                 "desc": "배를 타고 에페리아 해역의 라메다 섬 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773149162321",
                 "name": "테야말 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/테야말%20섬.png",
                 "desc": "배를 타고 에페리아 해역의 테야말 섬 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773149162321",
                 "name": "시오닐 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/시오닐%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773149162321",
                 "name": "모드릭 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/모드릭%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773149162321",
                 "name": "바에자 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/바에자%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
@@ -67,14 +67,14 @@
               {
                 "id": "npc_auto_0_1773149168472",
                 "name": "세르카 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/세르카%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773149168472",
                 "name": "란디스 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/란디스%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
@@ -95,91 +95,91 @@
               {
                 "id": "npc_auto_0_1773149179714",
                 "name": "알마이 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/알마이%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773149179714",
                 "name": "테스테 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/테스테%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773149179714",
                 "name": "파딕스 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/파딕스%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773149179714",
                 "name": "아리타 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/아리타%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773149179714",
                 "name": "쿠이트 제도",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/쿠이트%20제도.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773149179714",
                 "name": "데이튼 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/데이튼%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773149179714",
                 "name": "오벤 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/오벤%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773149179714",
                 "name": "에버딘 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/에버딘%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773149179714",
                 "name": "알브레서 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/알브레서%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773149179714",
                 "name": "네트넘 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/네트넘%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773149179714",
                 "name": "진버레이 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/진버레이%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773149179714",
                 "name": "바라테르 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/바라테르%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773149179714",
                 "name": "던데 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/던데%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
@@ -200,28 +200,28 @@
               {
                 "id": "npc_auto_0_1773149186893",
                 "name": "나르보 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/나르보%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773149186893",
                 "name": "리스즈 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/리스즈%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773149186893",
                 "name": "스타렌 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/스타렌%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773149186893",
                 "name": "루루브 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/루루브%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -249,7 +249,7 @@
               {
                 "id": "npc_auto_0_1773149195590",
                 "name": "앙쥬 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/앙쥬%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -263,14 +263,14 @@
               {
                 "id": "npc_auto_2_1773149195590",
                 "name": "발베쥬 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/발베쥬%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773149195590",
                 "name": "에베토 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/에베토%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -284,21 +284,21 @@
               {
                 "id": "npc_auto_5_1773149195590",
                 "name": "두흐 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/두흐%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773149195590",
                 "name": "루이바노 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/루이바노%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773149195590",
                 "name": "에프데 룬 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/에프데%20룬%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
@@ -319,35 +319,35 @@
               {
                 "id": "npc_auto_0_1773149207323",
                 "name": "레마 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/레마%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773149207323",
                 "name": "인버넨 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/인버넨%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773149207323",
                 "name": "툴루 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/툴루%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773149207323",
                 "name": "오르프스 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/오르프스%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773149207323",
                 "name": "타슈 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/타슈%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
@@ -368,35 +368,35 @@
               {
                 "id": "npc_auto_0_1773149213991",
                 "name": "파라타마 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/파라타마%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773149213991",
                 "name": "칸베라 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/칸베라%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773149213991",
                 "name": "아라킬 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/아라킬%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773149213991",
                 "name": "웨이타 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/웨이타%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773149213991",
                 "name": "바레미 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/바레미%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
@@ -417,42 +417,42 @@
               {
                 "id": "npc_auto_0_1773149222690",
                 "name": "오스트라 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/오스트라%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773149222690",
                 "name": "타라무라 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/타라무라%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773149222690",
                 "name": "베이루와 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/베이루아%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773149222690",
                 "name": "델링하트 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/델링하트%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773149222690",
                 "name": "필바라 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/필바라%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773149222690",
                 "name": "붉은 전장",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/붉은%20전장.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
@@ -473,28 +473,28 @@
               {
                 "id": "npc_auto_0_1773149229372",
                 "name": "라시드 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/라시드%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773149229372",
                 "name": "알나하 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/알나하%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773149229372",
                 "name": "아지르 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/아지르%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773149229372",
                 "name": "푸자라 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/푸자라%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
@@ -515,35 +515,35 @@
               {
                 "id": "npc_auto_0_1773149240120",
                 "name": "샤샤 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/샤샤%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773149240120",
                 "name": "포르타넨 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/포르타넨%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773149240120",
                 "name": "레라오 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/레라오%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773149240120",
                 "name": "틴베라 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/틴베라%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773149240120",
                 "name": "로즈반 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/로즈반%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
@@ -564,70 +564,70 @@
               {
                 "id": "npc_auto_0_1773149247320",
                 "name": "더코 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/더코%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773149247320",
                 "name": "보아 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/보아%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773149247320",
                 "name": "오리샤 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/오리샤%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773149247320",
                 "name": "카슈마 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/카슈마%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773149247320",
                 "name": "할마드 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/할마드%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773149247320",
                 "name": "시르나 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/시르나%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773149247320",
                 "name": "티그리스 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/티그리스%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773149247320",
                 "name": "에스파 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/에스파%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773149247320",
                 "name": "리에드 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/리에드%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773149247320",
                 "name": "소코타 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/소코타%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
@@ -648,49 +648,49 @@
               {
                 "id": "npc_auto_0_1773149260063",
                 "name": "까마귀의 둥지",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/까마귀%20둥지.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773149260063",
                 "name": "오킬루아의 눈",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/오킬루아의%20눈.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773149260063",
                 "name": "나다 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/나다%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773149260063",
                 "name": "마리울 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/마리울%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773149260063",
                 "name": "자감 섬",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/자감%20섬.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773149260063",
                 "name": "바다빈 해역",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/바다빈%20해역.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773149260063",
                 "name": "유르 해역",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/유르%20해역.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -704,7 +704,7 @@
               {
                 "id": "npc_auto_8_1773149260063",
                 "name": "로스 해역",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/로스%20해역.png",
                 "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
@@ -725,7 +725,7 @@
               {
                 "id": "npc_auto_0_1773149266725",
                 "name": "파푸아크리니",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/대해%20위치/파푸아크리니.png",
                 "desc": "카마실비아 퀘스트 라인을 통해 파푸아크리니 섬 진입 시 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
