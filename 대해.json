@@ -739,36 +739,36 @@
               {
                 "id": "npc_auto_2_1773149266725",
                 "name": "달의 뼈",
-                "detailImg": "의뢰([천년전쟁을 위하여] 혈전의 돌멘게)로 획득 가능. 첫 번째 의뢰 : [천년전쟁을 위하여] 혈전의 돌멘게_벤스 모리오 or 벤스 모안나",
-                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "detailImg": "",
+                "desc": "의뢰([천년전쟁을 위하여] 혈전의 돌멘게)로 획득 가능. 첫 번째 의뢰 : [천년전쟁을 위하여] 혈전의 돌멘게_벤스 모리오 or 벤스 모안나",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773149266725",
                 "name": "파도의 쉼터",
-                "detailImg": "의뢰([천년전쟁을 위하여] 비범한 돌멘게)로 획득 가능. 첫 번째 의뢰 : [천년전쟁을 위하여] 혈전의 돌멘게_벤스 모리오 or 벤스 모안나",
-                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "detailImg": "",
+                "desc": "의뢰([천년전쟁을 위하여] 비범한 돌멘게)로 획득 가능. 첫 번째 의뢰 : [천년전쟁을 위하여] 혈전의 돌멘게_벤스 모리오 or 벤스 모안나",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773149266725",
                 "name": "혈전의 백사장",
-                "detailImg": "의뢰([천년전쟁을 위하여] 영리 돌멘게)로 획득 가능. 첫 번째 의뢰 : [천년전쟁을 위하여] 혈전의 돌멘게_벤스 모리오 or 벤스 모안나",
-                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "detailImg": "",
+                "desc": "의뢰([천년전쟁을 위하여] 영리 돌멘게)로 획득 가능. 첫 번째 의뢰 : [천년전쟁을 위하여] 혈전의 돌멘게_벤스 모리오 or 벤스 모안나",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773149266725",
                 "name": "크리오니아",
-                "detailImg": "의뢰([파푸아크리니] 꿈의 천억을 위한 출발)로 획득 가능. 첫 번째 의뢰 : [파푸아크리니] 당신만을 위한 기막힌 선물_흑정령",
-                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "detailImg": "",
+                "desc": "의뢰([파푸아크리니] 꿈의 천억을 위한 출발)로 획득 가능. 첫 번째 의뢰 : [파푸아크리니] 당신만을 위한 기막힌 선물_흑정령",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773149266725",
                 "name": "파푸라오라",
-                "detailImg": "의뢰([파푸아크리니] 꿈의 천억을 위한 출발)로 획득 가능. 첫 번째 의뢰 : [파푸아크리니] 당신만을 위한 기막힌 선물_흑정령",
-                "desc": "배를 타고 해당 섬에 직접 방문하여 거점 관리자와 대화",
+                "detailImg": "",
+                "desc": "의뢰([파푸아크리니] 꿈의 천억을 위한 출발)로 획득 가능. 첫 번째 의뢰 : [파푸아크리니] 당신만을 위한 기막힌 선물_흑정령",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
