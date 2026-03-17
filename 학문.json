@@ -1992,7 +1992,7 @@
               {
                 "id": "npc_auto_17_1773372681574",
                 "name": "카마실비아 명언집",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50702",
                 "desc": "[친밀도 901]메어리_친밀도가 높아 보이나, 올리기 쉽습니다_벨리아 영웅담 - 요리사의 풍채 - 거장 로메룬 - 리더로 사는법 - 올리비아의 여행기 - 농장의 마녀 - 피리 부는 꼬마",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
@@ -2013,42 +2013,42 @@
               {
                 "id": "npc_auto_0_1773372691752",
                 "name": "천체 관측 보고서 - 고블린자리",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45030",
                 "desc": "[친밀도 301]타사일라 힐라_애가 조울증이 심하대요_인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372691752",
                 "name": "천체 관측 보고서 - 봉인석자리",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45015",
                 "desc": "[친밀도 401]왈라갈라_구이 지식 있어야 교류 가능_생선훈제-구운소시지-오믈렛-해물버터-미트파이 or 교류 비활성화시 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372691752",
                 "name": "천체 관측 보고서 - 마차자리",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45018",
                 "desc": "[친밀도 201]야라_바트푸타 - 살레빈 - 오만 - 탄지네 - 유르신",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372691752",
                 "name": "천체 관측 보고서 - 열쇠자리",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50889",
                 "desc": "[친밀도 500] 바르한 네세르_그냥 인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372691752",
                 "name": "천체 관측 보고서 - 코끼리자리",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45025",
                 "desc": "[친밀도 301] 아와나 딜라_그냥 인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372691752",
                 "name": "천체 관측 보고서 - 부엉이자리",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45008",
                 "desc": "[친밀도 500] 만메한 네세르_밀크티 20개 선물하기",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
