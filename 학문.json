@@ -1587,14 +1587,14 @@
                 "id": "npc_auto_13_1773372639783",
                 "name": "타리프 소원성취 부적",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 231] 라쉬르_물텀벙마을의 유래 - 수습 소서러의 연습상대 - 소서러의 기원 - 웨이키드 타하의 특식 - 쿠샤 마을과 돌 코뿔소 - 아알의 축복 - 메디아의 작은 종탑 - 거미줄 실타래",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_14_1773372639783",
                 "name": "타리프 마을의 장식",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 51, 171] 이맘_인사가 답입니다.인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
