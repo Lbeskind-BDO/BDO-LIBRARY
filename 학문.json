@@ -452,8 +452,8 @@
               {
                 "id": "npc_auto_8_1773372532258",
                 "name": "카르티안 서",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44117",
+                "desc": "[친밀도 451, 801] 아혼 키루스_향이 좋은 차 선물 하세요",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -1495,92 +1495,92 @@
               {
                 "id": "npc_auto_0_1773372639783",
                 "name": "보람찬 하루의 마무리",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char4410",
+                "desc": "[친밀도 51, 171] 이맘_인사가 답입니다.인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372639783",
                 "name": "갈기족의 짝짓기",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50481",
+                "desc": "[의뢰] 푸조 벨_푸조벨에게 받는 전사와 궁수 퀘스트 완료시 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372639783",
                 "name": "물텀벙의 유래",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44612",
+                "desc": "[친밀도 601] 수이_인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372639783",
                 "name": "진짜 대장장이",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44019",
+                "desc": "[친밀도 171] 데베_선물하세요_벌꿀주 약 20개 or 비상하는 날개의 비약 약 5~10개",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372639783",
                 "name": "고대 문자 장식",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44005",
+                "desc": "[친밀도 341] 베로시_소서러의 기원 - 웨이키드 타하의 특식 - 쿠샤 마을과 돌코뿔소 - 메디아의 작은 종탑_조울증 있습니다_인사가 답일수도?",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372639783",
                 "name": "거미줄 실타래",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44602",
+                "desc": "[친밀도 111 or 의뢰] 일렌 레이지_친밀작 하세요_갈기족의 침입-수습 소서러의 훈련법 I-수습 소서러의 훈련법 III-수습 소서러의 훈련법 II-나데르 액자를 관리하는 방법",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372639783",
                 "name": "웨이키드 타하의 특식",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44605",
+                "desc": "[친밀도 111 or 의뢰] 웨이키드 타하_친밀작 하세요_아돌프 - 비알 - 웨이키드 - 이타크",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372639783",
                 "name": "쿠샤 마을과 돌 코뿔소",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44607",
+                "desc": "[친밀도 141, 381] 아돌프 버니_무너진 왕정 - 알티노바의 지도자 - 메디아 상인 연합 - 흩어진 신념 슈라우드 - 크자카의 추종자 - 셴 상인회 - 발렌시아 사절단 - 발렌시아와 메디아",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372639783",
                 "name": "수습 소서러의 연습 상대",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50481",
+                "desc": "[친밀도 71 or 의뢰] 푸조 벨_의뢰로 진행하세요_갈기족소굴 거점관리인 푸조 벨에게 받는 갈기족에 대한 이해 퀘스트 완료시 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372639783",
                 "name": "소서러의 기원",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44117",
+                "desc": "[친밀도 451, 801] 아혼 키루스_향이 좋은 차 선물 하세요",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372639783",
                 "name": "메디아의 작은 종탑",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44607",
+                "desc": "[친밀도 141, 381] 아돌프 버니_무너진 왕정 - 알티노바의 지도자 - 메디아 상인 연합 - 흩어진 신념 슈라우드 - 크자카의 추종자 - 셴 상인회 - 발렌시아 사절단 - 발렌시아와 메디아",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372639783",
                 "name": "아알의 축복",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44016",
+                "desc": "[친밀도 201, 401, 751] 지크먼드_메디아 유일한 상대적 정상인_바위 - 황야 - 방어참호 - 강철방패_300이후 부터는 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372639783",
                 "name": "이냐르의 간식",
-                "detailImg": "",
-                "desc": "[친밀도 or 의뢰] 그냥 의뢰로 얻으세요_요리 초급6_이냐르에게 받는 이냐르의 간식 퀘스트 완료후 획득_흑설탕 10개 + 요리용생수 1개 가열하기=흑설탕 덩어리",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44119",
+                "desc": "[친밀도 or 의뢰] 이냐르_그냥 의뢰로 얻으세요_요리 초급6_이냐르에게 받는 이냐르의 간식 퀘스트 완료후 획득_흑설탕 10개 + 요리용생수 1개 가열하기=흑설탕 덩어리",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
