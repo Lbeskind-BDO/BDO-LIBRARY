@@ -1580,20 +1580,20 @@
                 "id": "npc_auto_12_1773372639783",
                 "name": "이냐르의 간식",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 or 의뢰] 그냥 의뢰로 얻으세요_요리 초급6_이냐르에게 받는 이냐르의 간식 퀘스트 완료후 획득_흑설탕 10개 + 요리용생수 1개 가열하기=흑설탕 덩어리",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_13_1773372639783",
                 "name": "타리프 소원성취 부적",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char4400",
                 "desc": "[친밀도 231] 라쉬르_물텀벙마을의 유래 - 수습 소서러의 연습상대 - 소서러의 기원 - 웨이키드 타하의 특식 - 쿠샤 마을과 돌 코뿔소 - 아알의 축복 - 메디아의 작은 종탑 - 거미줄 실타래",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_14_1773372639783",
                 "name": "타리프 마을의 장식",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char4410",
                 "desc": "[친밀도 51, 171] 이맘_인사가 답입니다.인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
@@ -1614,64 +1614,64 @@
               {
                 "id": "npc_auto_0_1773372648971",
                 "name": "아알의 평화",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char4461",
                 "desc": "[친밀도 181] 바비오_신학 지식 4개 이상_아알에게 묻다 - 존재의 속성 - 경험의 다양성 - 신의 계승",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372648971",
                 "name": "존재와 속성",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char5056",
                 "desc": "[친밀도 251] 공클러드_경제II 최소 8개 이상. 그러므로 인사가 답입니다.인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372648971",
                 "name": "신의 계승",
-                "detailImg": "",
-                "desc": "[친밀도 751] 지크먼드_메디아 유일한 상대적 정상인_바위 - 황야 - 방어참호 - 강철방패",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44016",
+                "desc": "[친밀도 201, 401, 751] 지크먼드_메디아 유일한 상대적 정상인_바위 - 황야 - 방어참호 - 강철방패_300이후 부터는 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372648971",
                 "name": "경험의 다양성",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50549",
                 "desc": "[친밀도 251] 몬타 아토_신학II 지식 6개 필요_아알에게 묻다 - 존재의속성 - 자연으로 - 작은신 - 신의계승 - 신을섬기는",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372648971",
                 "name": "아알에게 묻다",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50550",
                 "desc": "[친밀도 251] 안나 마레_악마녀석 같으니라고...인사가 답입니다.인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372648971",
                 "name": "자연으로 돌아가다",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50548",
                 "desc": "[친밀도 211, 451] 아스란_메디아의 모험일지III-수습소서러의 훈련법 1,2,3 획득 후 진행_수습소서 1- 수습소서 3 - 수습소서 2 - 나데르 액자",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372648971",
                 "name": "풍요의 상징",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50548",
                 "desc": "[친밀도 211, 451] 아스란_메디아의 모험일지III-수습소서러의 훈련법 1,2,3 획득 후 진행_수습소서 1- 수습소서 3 - 수습소서 2 - 나데르 액자",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372648971",
                 "name": "작은 신, 아술라",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50551",
                 "desc": "[친밀도 431] 자라마스 카술라_교양3 지식들 필요_소서러의 기원 - 웨이키드 특식 - 쿠샤 마을과 돌 코뿔소 - 메디아 종탑",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372648971",
                 "name": "신을 섬기는 예의",
-                "detailImg": "",
-                "desc": "[친밀도 201, 401] 지크먼드_인사가 답입니다.인사하세요. hi! hello!",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44016",
+                "desc": "[친밀도 201, 401, 751] 지크먼드_메디아 유일한 상대적 정상인_바위 - 황야 - 방어참호 - 강철방패_300이후 부터는 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
