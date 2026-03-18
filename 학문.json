@@ -1460,22 +1460,22 @@
               {
                 "id": "npc_auto_8_1773372631109",
                 "name": "팔르스 엘리언교당",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42112",
+                "desc": "[친밀도 251, 556] 라비엔샤 바시안_괴물로부터 살아남는 법 - 요리사의 풍채 - 농장의 마녀 - 벨리아 영웅담 - 벨리아의 특산물",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372631109",
                 "name": "명문 레이트 가문",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/학문%20위치/노부인.png",
+                "desc": "[대화 or 브리나무유적지 고고학자 퀘스트 완료] 노부인_인게임 낮 시간에만 출근",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372631109",
                 "name": "노인 광장",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42125",
+                "desc": "[친밀도 301] 엘르 벨루치_릴베인 - 라일리나 - 게이브릴 - 카노바스 - 메르브",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
