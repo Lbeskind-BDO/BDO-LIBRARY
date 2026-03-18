@@ -718,8 +718,8 @@
               {
                 "id": "npc_auto_8_1773372562839",
                 "name": "검소한 삶",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42112",
+                "desc": "[친밀도 251, 556] 라비엔샤 바시안_괴물로부터 살아남는 법 - 요리사의 풍채 - 농장의 마녀 - 벨리아 영웅담 - 벨리아의 특산물",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -1404,57 +1404,57 @@
               {
                 "id": "npc_auto_0_1773372631109",
                 "name": "굴뚝 청소",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44623",
+                "desc": "[의뢰] 메르브 맞은 편 공방직원에게 <더러워진 굴뚝 청소> 의뢰 진행 후 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372631109",
                 "name": "꽃을 꺾는 아이들",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42017",
+                "desc": "[친밀도 101] 씨앗상인 아르_비테온스 벨루치 - 사미어 - 레오나 - 산피요른 - 바호 라데리치오",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372631109",
                 "name": "도시의 외침꾼",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42031",
+                "desc": "[의뢰 or 친밀도 101] 클라라 시실리아노_인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372631109",
                 "name": "어린 장사꾼의 저녁",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42138",
+                "desc": "[의뢰] <씨앗 상인> 아르_칼페온 창고지기 바스케안 류릭에게 <도시의 꽃밭>의뢰를 받고 진행하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372631109",
                 "name": "기도하지 않는 자",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42020",
+                "desc": "[의뢰] <약초 상인> 니베스_의뢰 누구를 위한 종소리인가? 진행하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372631109",
                 "name": "사치로 그리는 체면",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42030",
+                "desc": "[친밀도 301] <촛대 상인> 안나벨라 벨루치_릴베인 - 알프레도 롬바르디 - 라일리나 - 게이브릴 - 게라노아 - 카노바스",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372631109",
                 "name": "수공예 장인들",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42028",
+                "desc": "[대화] <소쿠리 상인> 알프레도 롬바르디와 대화로 획",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372631109",
                 "name": "최고의 사치품",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42107",
+                "desc": "[대화] <고급품 상인> 리즐 카르타 왼쪽 무리 귀족 여성, 황토색 옷 입고 있는 여자 귀족과 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
