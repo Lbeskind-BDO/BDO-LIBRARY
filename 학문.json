@@ -1873,120 +1873,120 @@
               {
                 "id": "npc_auto_0_1773372681574",
                 "name": "카마실비아의 활, 레인저",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45511",
+                "desc": "[의뢰] 안벨리프_카마실비아의 활 의뢰 연계퀘스트로 획득 가능",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372681574",
                 "name": "발렌시아 점성술",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45008",
+                "desc": "[상호작용] 발렌시아 6-1번지 1층 문쪽 책장",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372681574",
                 "name": "인간의 점성학",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45008",
+                "desc": "[상호작용] 발렌시아 6-1번지 1층 문쪽 책장",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372681574",
                 "name": "아알 신화",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다_렙56 이상 캐릭으로 진행",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372681574",
                 "name": "별을 통해 보는 성격",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45008",
+                "desc": "[상호작용] 발렌시아 6-1번지 1층 문쪽 책장",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372681574",
                 "name": "별의 움직임",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다_렙56 이상 캐릭으로 진행",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372681574",
                 "name": "설원의 여섯 마녀",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다_렙56 이상 캐릭으로 진행",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372681574",
                 "name": "드리간의 계곡",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다_렙56 이상 캐릭으로 진행",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372681574",
                 "name": "카마실비아 여행기",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다_렙56 이상 캐릭으로 진행",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372681574",
                 "name": "사막을 넘는 다섯 가지 방법",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다_렙56 이상 캐릭으로 진행",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372681574",
                 "name": "아알의 숨결이 닿은 곳",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다_렙56 이상 캐릭으로 진행",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372681574",
                 "name": "오아시스 한 모금",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45008",
+                "desc": "[상호작용] 발렌시아 6-1번지 1층 문쪽 책장",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372681574",
                 "name": "모래 폭풍의 아들",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다_렙56 이상 캐릭으로 진행",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_13_1773372681574",
                 "name": "누베르의 그림자",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다_렙56 이상 캐릭으로 진행",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_14_1773372681574",
                 "name": "동전 유령",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45331",
+                "desc": "[친밀도] 부로마_아레하자도 정상은 없었던 걸로 기억합니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_15_1773372681574",
                 "name": "마법 양탄자와 모래 항아리",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45019",
+                "desc": "[친밀도 581] 키야크_키야크가 주는 의뢰 완료 후 381 정도 얻으면 됩니다. 근데...인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_16_1773372681574",
                 "name": "악기 정령의 역할",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/옌센.png",
+                "desc": "[의뢰] 옌센_오기에르의 악기정령 의뢰 진행으로 획",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -2055,42 +2055,42 @@
               {
                 "id": "npc_auto_6_1773372691752",
                 "name": "천체 관측 보고서 - 검은용자리",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45122",
                 "desc": "[친밀도 500] 사야 네세르_특상품 딸기 10개 선물하기",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372691752",
                 "name": "천체 관측 보고서 - 낙타자리",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45001",
                 "desc": "[친밀도 301] 네라사비 알롬_방패자리 - 거인자리 - 마차자리 - 부엉이자리",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372691752",
                 "name": "천체 관측 보고서 - 거인자리",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45008",
+                "desc": "[의뢰] 만메한 네세르 뒤쪽 조그마한 도서관 같은곳에 점성술 학도_타고난 운명을 믿나요?",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372691752",
                 "name": "천체 관측 보고서 - 방패자리",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45008",
+                "desc": "[의뢰] 만메한 네세르 뒤쪽 조그마한 도서관 같은곳에 점성술 학도_타고난 운명을 믿나요?",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372691752",
                 "name": "천체 관측 보고서 - 돛단배자리",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45008",
+                "desc": "[의뢰] 만메한 네세르 뒤쪽 조그마한 도서관 같은곳에 점성술 학도_타고난 운명을 믿나요?",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372691752",
                 "name": "천체 관측 보고서 - 망치자리",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45002",
                 "desc": "[친밀도 451] 발렌시아 기술교관 라밤 or 타타_대지의 기원 - 고대 빛의 기원 - 카프라스의 비밀 연구실 - 비밀수호단2 - 비밀수호단1 - 감시탑의음모",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
