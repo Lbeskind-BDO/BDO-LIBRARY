@@ -1796,64 +1796,64 @@
               {
                 "id": "npc_auto_4_1773372672386",
                 "name": "노동의 가치와 자본가의 역할",
-                "detailImg": "",
+                "detailImg": "https://postfiles.pstatic.net/MjAxNzA1MTdfMzcg/MDAxNDk1MDIzOTc4NDUw.qxSQki6ryYPIWEshLtPoV2YM9zyopNmiyqfBQXZmAg0g.j2yZHogCKrQAcyO5iKmnDd4ao_H2pIi9-28L26LTHDUg.PNG.eogkao3/image_9676409211495023928299.png?type=w966",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372672386",
                 "name": "종교와 경제",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://postfiles.pstatic.net/MjAxNzA1MTdfMjM0/MDAxNDk1MDIzOTc3NDMw.0XwohxTZz2jcvgPQ1lcsPaYZldF2cJuU_34BlVbJahcg.aPLRTfcs4IsgZc7aoH5SheTZMbBJ15m93SuJ33hNukwg.PNG.eogkao3/image_6421016611495002065722.png?type=w966",
+                "desc": "[의뢰] 아심_평화로운 오아시스의 연계 의뢰 중, 이미지의 5번",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372672386",
                 "name": "발렌시아 근대 경제의 이해",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://postfiles.pstatic.net/MjAxNzA1MTdfMzcg/MDAxNDk1MDIzOTc4NDUw.qxSQki6ryYPIWEshLtPoV2YM9zyopNmiyqfBQXZmAg0g.j2yZHogCKrQAcyO5iKmnDd4ao_H2pIi9-28L26LTHDUg.PNG.eogkao3/image_9676409211495023928299.png?type=w966",
+                "desc": "[의뢰] 아심_평화로운 오아시스의 연계 의뢰 중, 이미지의 3번",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372672386",
                 "name": "발렌시아 무역사에 새겨진 영웅들",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://postfiles.pstatic.net/MjAxNzA1MTdfMzcg/MDAxNDk1MDIzOTc4NDUw.qxSQki6ryYPIWEshLtPoV2YM9zyopNmiyqfBQXZmAg0g.j2yZHogCKrQAcyO5iKmnDd4ao_H2pIi9-28L26LTHDUg.PNG.eogkao3/image_9676409211495023928299.png?type=w966",
+                "desc": "[의뢰] 아심_평화로운 오아시스의 연계 의뢰 중, 이미지의 4번",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372672386",
                 "name": "무역학개론",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45210",
+                "desc": "[의뢰] 아심_평화로운 오아시스의 연계 의뢰 완료 후, 마르자나 막사 내부의 책과 상호작용",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372672386",
                 "name": "신 무역로 개척",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45210",
+                "desc": "[의뢰] 아심_평화로운 오아시스의 연계 의뢰 완료 후, 마르자나 막사 입구의 병사에게 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372672386",
                 "name": "사라진 역사, 비단길",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45210",
+                "desc": "[의뢰] 아심_평화로운 오아시스의 연계 의뢰 완료 후, 마르자나 막사 밖의 12시 방향 병사에게 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372672386",
                 "name": "라바니아 상단과 오베린 상단",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45210",
+                "desc": "[의뢰] 아심_평화로운 오아시스의 연계 의뢰 완료 후, 마르자나 막사 앞의 상인에 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372672386",
                 "name": "발렌시아 무역사",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45210",
+                "desc": "[의뢰] 아심_평화로운 오아시스의 연계 의뢰 완료 후, 마르자나 막사 밖의 9시 방향 병사에게 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
