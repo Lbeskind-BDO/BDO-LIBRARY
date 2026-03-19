@@ -1292,99 +1292,99 @@
               {
                 "id": "npc_auto_0_1773372620927",
                 "name": "이야기의 비약",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44205",
+                "desc": "[친밀도 211, 391] 디노 라하_인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372620927",
                 "name": "진기한 발견, 희귀한 상자",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44204",
+                "desc": "[친밀도 211] 람로_인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372620927",
                 "name": "야만의 위협",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44017",
+                "desc": "[친밀도 601] 네루다 셴_낡은 - 지도자 - 흩어진 - 셴 - 무너진 - 울림",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372620927",
                 "name": "황금 사막",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44020",
+                "desc": "[친밀도 401] 엘스윈_지식의 대화 - 셴 상인회 - 낡은 악습 - 메디아의 지도자 - 발렌시아와 메디아 - 울림의 땅에서 온 세제크_알티노바에서 이정도면 혜자",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372620927",
                 "name": "전략은 단순하다",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44021",
+                "desc": "[친밀도 201, 431] 우드리_툴렘 - 벨로시-헤일리-모아디-냐비-제미 드리커_친밀도 300 이후로는 인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372620927",
                 "name": "알티노바의 투기장",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44009",
+                "desc": "[친밀도 301] 텔쉬르_인게임 밤 시간 출몰_압둘 자움_낮시간 출몰_인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372620927",
                 "name": "고요한 황무지",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44021",
+                "desc": "[친밀도 201, 431] 우드리_툴렘 - 벨로시-헤일리-모아디-냐비-제미 드리커_친밀도 300 이후로는 인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372620927",
                 "name": "또 다른 적, 자연재해",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44205",
+                "desc": "[친밀도 211, 391] 디노 라하_인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372620927",
                 "name": "논리적인 전달자",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44035",
+                "desc": "[친밀도 121, 371] 루시 벤쿰_인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372620927",
                 "name": "메디아의 피난민",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44025",
+                "desc": "[친밀도 81] 툰거_인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372620927",
                 "name": "사라진 부유층",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44010",
+                "desc": "[친밀도 221, 481] 쿠이나_인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372620927",
                 "name": "지식 상인",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44035",
+                "desc": "[친밀도 121, 371] 루시 벤쿰_인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372620927",
                 "name": "마우디 부다르의 통찰",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44010",
+                "desc": "[친밀도 221, 481] 쿠이나_인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_13_1773372620927",
                 "name": "알티노바의 건설",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44008",
+                "desc": "[친밀도 151] 메보 무라난_마리암 - 아벳 - 벨가르 - 라쉬르 - 네루다 - 넬로플",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -1692,63 +1692,63 @@
                 "id": "npc_auto_0_1773372663732",
                 "name": "고대 주술에 대해서",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용] 엘릭 수도원 꼭대기 도서관 책장",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372663732",
                 "name": "절벽 위의 수도원",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용] 엘릭 수도원 꼭대기 도서관 책장",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372663732",
                 "name": "금기의 땅",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용] 엘릭 수도원 꼭대기 도서관 책장",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372663732",
                 "name": "해골 왕의 광기",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용] 엘릭 수도원 꼭대기 도서관 책장",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372663732",
                 "name": "연금술 - 메디아",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용] 엘릭 수도원 꼭대기 도서관 책장",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372663732",
                 "name": "125인의 마녀",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용] 엘릭 수도원 꼭대기 도서관 책장",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372663732",
                 "name": "메디아의 악신 - 하",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용] 엘릭 수도원 꼭대기 도서관 책장",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372663732",
                 "name": "메디아의 악신 - 상",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용] 엘릭 수도원 꼭대기 도서관 책장",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372663732",
                 "name": "마녀와 연금술사",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용] 엘릭 수도원 꼭대기 도서관 책장",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -2111,71 +2111,71 @@
               {
                 "id": "npc_auto_0_1773372699915",
                 "name": "지식으로 이루는 세계 X",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://s1.pearlcdn.com/KR/Upload/Community/bf36e7c4c3d20220619194943473.png",
+                "desc": "[기운 420 달성] 흑정령",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372699915",
                 "name": "지식으로 이루는 세계 IX",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://s1.pearlcdn.com/KR/Upload/Community/bf36e7c4c3d20220619194943473.png",
+                "desc": "[기운 380 달성] 흑정령",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372699915",
                 "name": "지식으로 이루는 세계 VIII",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://s1.pearlcdn.com/KR/Upload/Community/bf36e7c4c3d20220619194943473.png",
+                "desc": "[기운 340 달성] 흑정령",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372699915",
                 "name": "지식으로 이루는 세계 VII",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://s1.pearlcdn.com/KR/Upload/Community/bf36e7c4c3d20220619194943473.png",
+                "desc": "[기운 300 달성] 흑정령",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372699915",
                 "name": "지식으로 이루는 세계 VI",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://s1.pearlcdn.com/KR/Upload/Community/bf36e7c4c3d20220619194943473.png",
+                "desc": "[기운 260 달성] 흑정령",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372699915",
                 "name": "지식으로 이루는 세계 V",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://s1.pearlcdn.com/KR/Upload/Community/bf36e7c4c3d20220619194943473.png",
+                "desc": "[기운 220 달성] 흑정령",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372699915",
                 "name": "지식으로 이루는 세계 IV",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://s1.pearlcdn.com/KR/Upload/Community/bf36e7c4c3d20220619194943473.png",
+                "desc": "[기운 180 달성] 흑정령",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372699915",
                 "name": "지식으로 이루는 세계 III",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://s1.pearlcdn.com/KR/Upload/Community/bf36e7c4c3d20220619194943473.png",
+                "desc": "[기운 140 달성] 흑정령",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372699915",
                 "name": "지식으로 이루는 세계 II",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://s1.pearlcdn.com/KR/Upload/Community/bf36e7c4c3d20220619194943473.png",
+                "desc": "[기운 100 달성] 흑정령",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372699915",
                 "name": "지식으로 이루는 세계 I",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://s1.pearlcdn.com/KR/Upload/Community/bf36e7c4c3d20220619194943473.png",
+                "desc": "[기운 60 달성] 흑정령",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -2195,71 +2195,71 @@
               {
                 "id": "npc_auto_0_1773372709076",
                 "name": "카마실비아, 반목과 갈등",
-                "detailImg": "",
-                "desc": "[친밀도]라일리사만_깃털늑대 - 그리폰 - 제왕그리폰 - 그리폰의 알 - 작은 흑표점 - 작은 제왕 그리폰",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45515",
+                "desc": "[친밀도 601]라일리사만_깃털늑대 - 그리폰 - 제왕그리폰 - 그리폰의 알 - 작은 흑표점 - 작은 제왕 그리폰_초원(카마실비아) 지식 필요",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372709076",
                 "name": "봉쇄된 두자크 터널",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://i.imgur.com/k1Sp1RM.jpeg",
+                "desc": "[상호작용] 지혜의 고목 오른쪽아래로 내려와서 보면 작은 건물이있는데 그건물 건너 동굴에 있습니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372709076",
                 "name": "카마실브 신화",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[메인 의뢰]_[카마실비아] 진행중에 획득_첫 번째 의뢰 : [카마실비아] 미지의 영역, 카마실비아",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372709076",
                 "name": "정령의 존재",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[메인 의뢰]_[카마실비아] 진행중에 획득_첫 번째 의뢰 : [카마실비아] 미지의 영역, 카마실비아",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372709076",
                 "name": "자연을 알아간다는 것",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45512",
+                "desc": "[친밀도 601] 루멘_맹수 족제비 - 돌비늘 포식자 - 점박이 하이에나 - 바위게_동물형(칼페오) 지식 획득 후 진행_혜자인 친구입니다 사랑으로 대해주세요",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372709076",
                 "name": "아히브의 낙인",
                 "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45527",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[메인 의뢰]_[카마실비아] 진행중에 획득_첫 번째 의뢰 : [카마실비아] 미지의 영역, 카마실비아",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372709076",
                 "name": "아히브 경계지역",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[메인 의뢰]_[카마실비아] 진행중에 획득_첫 번째 의뢰 : [카마실비아] 미지의 영역, 카마실비아",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372709076",
                 "name": "메마른 땅에 선 적",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[메인 의뢰]_[카마실비아] 진행중에 획득_첫 번째 의뢰 : [카마실비아] 미지의 영역, 카마실비아",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372709076",
                 "name": "실비아가 본 파두스",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45513",
+                "desc": "[친밀도 501] 푸리토라_나가 - 드워프 - 고블린 - 붉은 오크_대주제 학문 : 중주제 종족1 획득 후 진행",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372709076",
                 "name": "레모리아 감시대",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[메인 의뢰]_[카마실비아] 진행중에 획득_첫 번째 의뢰 : [카마실비아] 미지의 영역, 카마실비아",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
