@@ -1768,36 +1768,36 @@
               {
                 "id": "npc_auto_0_1773372672386",
                 "name": "사막 무역의 증표",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50888",
+                "desc": "무역 장인2, [렙 55] 진실은 침몰하지 않는다 완료, 모래알 바자르와 이벨랍 오아시스 거점 연결, 모래알 바자르 아투이 발락스에게 [황량한 모래벌판의 쉼터] 의뢰 진행",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372672386",
                 "name": "라바니아 상단의 증표",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50888",
+                "desc": "무역 장인2, [렙 55] 진실은 침몰하지 않는다 완료, 모래알 바자르와 이벨랍 오아시스 거점 연결, 모래알 바자르 아투이 발락스에게 [황량한 모래벌판의 쉼터] 의뢰 진행",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372672386",
                 "name": "달구 코끼리",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45111",
+                "desc": "[의뢰] 세라자드_[별채] 특별한 코끼리의 주인 완료, 첫번째 의뢰 : [별채] 사막의 귀여운 짐꾼, 달구 코끼리_모래알 바자르 <마구간지기> 보흘로, 빈병 10개, 4천만 은화 필요",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372672386",
                 "name": "신의 손길",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://postfiles.pstatic.net/MjAxNzA1MTdfMzcg/MDAxNDk1MDIzOTc4NDUw.qxSQki6ryYPIWEshLtPoV2YM9zyopNmiyqfBQXZmAg0g.j2yZHogCKrQAcyO5iKmnDd4ao_H2pIi9-28L26LTHDUg.PNG.eogkao3/image_9676409211495023928299.png?type=w966",
+                "desc": "[의뢰] 아심_평화로운 오아시스의 연계 의뢰 중, 이미지의 2번",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372672386",
                 "name": "노동의 가치와 자본가의 역할",
                 "detailImg": "https://postfiles.pstatic.net/MjAxNzA1MTdfMzcg/MDAxNDk1MDIzOTc4NDUw.qxSQki6ryYPIWEshLtPoV2YM9zyopNmiyqfBQXZmAg0g.j2yZHogCKrQAcyO5iKmnDd4ao_H2pIi9-28L26LTHDUg.PNG.eogkao3/image_9676409211495023928299.png?type=w966",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[의뢰] 아심_평화로운 오아시스의 연계 의뢰 중, 이미지의 1번",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
