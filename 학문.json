@@ -1145,36 +1145,36 @@
               {
                 "id": "npc_auto_12_1773372599541",
                 "name": "해달 종족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char43405",
+                "desc": "[친밀도 501] 크리에_인사가 답입니다._인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_13_1773372599541",
                 "name": "자이언트 종족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50891",
+                "desc": "[친밀도 501] 포비오스(하이델 라라 뒤 황금 두꺼비 여관)_올리비아 - 농장의 마녀 - 벨리아영웅 - 요리사 풍채 - 벨리아 특산품- 거장 로메룬",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_14_1773372599541",
                 "name": "드워프 종족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char43442",
+                "desc": "[친밀도 501] 하비엘_에두아르트 - 다니엘 스티미 - 루올로 그레베 - 아쉬로그 - 마르얀 페로 - 린지야바 허바",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_15_1773372599541",
                 "name": "샤이 종족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42205",
+                "desc": "[친밀도 801] 로리아_베어마을/크리오마을/트렌트마을의 종족 지식을 얻은 후 진행하면 편합니다만...삼각 유적 나무 - 얼굴 유적 나무 - 큰 원통 유적 나무 - 원형 유적 나무 - 작은 거미",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_16_1773372599541",
                 "name": "수인 종족",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[친밀도 701] 헤르만 페레시오_엘리언의 의지 - 용의 감시자 - 믿음의 탄생 - 회개의 길 - 죽음 그 후 - 대도시의 종소리 - 어둠속의 악신들_솔직히 종족 지식들은 답이 없습니다. 전 대부 인사로 했어요 그게 정신건강에 이롭습니다._인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
