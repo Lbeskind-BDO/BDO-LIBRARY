@@ -1194,85 +1194,85 @@
               {
                 "id": "npc_auto_0_1773372611252",
                 "name": "발렌시아와 메디아",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44030",
+                "desc": "[친밀도 251] 마우디 부아르_알티노바는 제정신이 없습니다_인사는 사전 지식이 필요가 없지!_인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372611252",
                 "name": "낡은 악습",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44135",
+                "desc": "[친밀도 211, 551] 탄투_세제크 사냥꾼 - 칠흑 추적자의 밀서 - 해골 골렘의 주술 - 카마실브의 의식II - 카마실브의 의식I - 야만족이 그리는 수상한 문양 - 카마실브의 의식III - 카마실브의 의식V_지식이 없다면 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372611252",
                 "name": "크자카의 추종자",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50540",
+                "desc": "[친밀도 211, 551] 탄투_세제크 사냥꾼 - 칠흑 추적자의 밀서 - 해골 골렘의 주술 - 카마실브의 의식II - 카마실브의 의식I - 야만족이 그리는 수상한 문양 - 카마실브의 의식III - 카마실브의 의식V_지식이 없다면 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372611252",
                 "name": "흩어진 신념, 슈라우드",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44135",
+                "desc": "[친밀도 251] 사르마 아닌_신학II 필요_신의 계승 - 존재와 속성 - 자연으로 돌아가다 - 작은신, 아술라 - 아알에게 묻다 - 신을 섬기는 예의_인사는 사전 지식이 필요가 없지!_지식이 없다면 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372611252",
                 "name": "지식의 대화",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50564",
+                "desc": "[친밀도 251] 아인 그레이드_역사II 필요_알티노바는 제정신이 없습니다_인사는 사전 지식이 필요가 없지!_인사하세요. hi! hello!" ,
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372611252",
                 "name": "바리즈 3세의 망명",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44022",
+                "desc": "[메인 의뢰] 왕자의 망명 요청_메디아 메인퀘 미셔야합니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372611252",
                 "name": "발렌시아 사절단",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45104",
+                "desc": "[친밀도 551] 가닌 아스_누누히 얘기하지만 알티노바는 제정신이 없습니다_인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372611252",
                 "name": "울림의 땅에서 온 세제크",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44029",
+                "desc": "[친밀도 121] 헤일리_메디아 상인 연합 - 바리즈 3세의 망명 - 센 상인회 - 알티노바의 지도자_정치IV 필요_인사는 사전 지식이 필요가 없지!_지식이 없다면 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372611252",
                 "name": "알티노바의 지도자",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44017",
+                "desc": "[메인 의뢰] 알티노바의 지도자_의뢰 완료 시 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372611252",
                 "name": "무너진 왕정",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44138",
+                "desc": "[친밀도 371] 데비샤_역사II 필요_인사는 사전 지식이 필요가 없지!_인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372611252",
                 "name": "메디아 상인 연합",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44022",
+                "desc": "[메인 의뢰 분기] 메디아 메인의뢰 분기_알티노바를 위하여_선택 후 네루다 셴 퀘스트[메디아 상인회] 연속 퀘스트 중 쿨두와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372611252",
                 "name": "셴 상인회",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44006",
+                "desc": "[대화]벨가르와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
