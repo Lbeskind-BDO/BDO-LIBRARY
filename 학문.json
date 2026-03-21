@@ -1110,43 +1110,43 @@
               {
                 "id": "npc_auto_7_1773372599541",
                 "name": "임프 종족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char43412",
+                "desc": "[친밀도 701] 비욘_흥미/호감 30미만으로 나올 때 엘리언-믿음-어둠-용의-의지의 / 인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372599541",
                 "name": "만샤 고블린 종족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50461",
+                "desc": "[대화] 토바레_대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372599541",
                 "name": "메기맨 종족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char43505",
+                "desc": "[대화] 물배 메기맨_대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372599541",
                 "name": "트롤 종족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42004",
+                "desc": "[친밀도 701] 알쳄_조잡한 트롤 요리대 - 굴복한 쿠로토 정예병 - 어린 트롤소 - 트롤움집_지식이 없다면 인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372599541",
                 "name": "엘프 종족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char43409",
+                "desc": "[친밀도 401] 넬리도르민_해골늑대 - 마녀탑 - 해골 - 해골전사",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372599541",
                 "name": "해달 종족",
                 "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char43405",
-                "desc": "[친밀도 501] 크리에_인사가 답입니다._인사하세요. hi! hello!",
+                "desc": "[친밀도 501] 크리에_인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -1173,7 +1173,7 @@
               {
                 "id": "npc_auto_16_1773372599541",
                 "name": "수인 종족",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42108",
                 "desc": "[친밀도 701] 헤르만 페레시오_엘리언의 의지 - 용의 감시자 - 믿음의 탄생 - 회개의 길 - 죽음 그 후 - 대도시의 종소리 - 어둠속의 악신들_솔직히 종족 지식들은 답이 없습니다. 전 대부 인사로 했어요 그게 정신건강에 이롭습니다._인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
