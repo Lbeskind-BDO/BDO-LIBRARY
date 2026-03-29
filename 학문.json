@@ -1061,57 +1061,57 @@
               {
                 "id": "npc_auto_0_1773372599541",
                 "name": "나가족과 포건족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45337",
+                "desc": "[의뢰] 아레하자 마을 부타와 대화 후 두 종족 위치 '티티움 계곡과 사막 나가 성전' 답변_ 기운 20 소모로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372599541",
                 "name": "붉은 오크 종족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41075",
+                "desc": "[친밀도 501] 카다슈_작은 도마뱀 - 세렌디아 산양 - 이끼 돌멘게 - 늪지 소라게 - 쿠쿠새 - 무지개도마뱀",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372599541",
                 "name": "쿠루토 종족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char43305",
+                "desc": "[친밀도 821] 달리안_희대의 ㅆ...._인사가 답입니다. 인사하세요. hi! hello!_트렌트 마을에 마에리도 있으니 간 김에 진행하세요(루툼 종족)",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372599541",
                 "name": "인간 종족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42109",
+                "desc": "[친밀도 501] 도미닉 에른_과실주 17개 선물하세욤_옆에 헤르만 페레시오 있어요. 하는 겸 같이 하세욤(수인 종족)",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372599541",
                 "name": "아인 종족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char59726",
+                "desc": "[친밀도 501] 타크로스_솥단지 - 주술사 - 투척병 - 거대조각 - 고블린 - 정예병",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372599541",
                 "name": "고블린 종족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40018",
+                "desc": "[친밀도 301] 산토 만지_잘 익은 이국의 곡주 10개 선물하세욤",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372599541",
                 "name": "루툼 종족",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char43312",
+                "desc": "[친밀도 401] 마에리_앨리언 의지 - 용의 감시자 - 믿음의 탄생 - 어둠 - 의지의 / 흥미, 호감이 20 이하일때만 진행하시고 인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372599541",
                 "name": "임프 종족",
                 "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char43412",
-                "desc": "[친밀도 701] 비욘_흥미/호감 30미만으로 나올 때 엘리언-믿음-어둠-용의-의지의 / 인사가 답입니다. 인사하세요. hi! hello!",
+                "desc": "[친밀도 701] 비욘_흥미/호감 30미만으로 나올 때 엘리언 - 믿음 - 어둠 - 용의 감시자 - 의지의 / 인사가 답입니다. 인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
