@@ -914,64 +914,64 @@
               {
                 "id": "npc_auto_0_1773372580173",
                 "name": "회개의 길",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42112",
+                "desc": "[의뢰] 라비엔샤가 있는 건물 앞에 주민에게 의뢰받고 클리어 후 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372580173",
                 "name": "대도시의 종소리",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42001",
+                "desc": "[의뢰] 프레델레스 허바 앞 모험가_[연속]칼페온의 종소리 (1/3)_의뢰 중 도착 NPC와 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372580173",
                 "name": "의지의 탑",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://upload2.inven.co.kr/upload/2015/01/30/bbs/i2565287890.bmp",
+                "desc": "[대화] 의문의 남자_하이델 동문 앞 마구간 비스무리한 곳에 있습니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372580173",
                 "name": "엘리언의 의지",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40016",
+                "desc": "[대화] 오타비오 페레",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372580173",
                 "name": "어둠속의 악신들",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50205",
+                "desc": "[대화] 안나린_기운 10 주고 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372580173",
                 "name": "죽음 그 후",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40016",
+                "desc": "[대화] 벨리아 마을 성당에 앉아있는 여자 주민_낮 시간 출근 시간 안에 가야합니다. 만약 없다면 채이 하셔야해요",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372580173",
                 "name": "믿음의 탄생",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41033",
+                "desc": "[친밀도 51 & 의뢰] 라이오넬 리치_앨리언 교리 의뢰 완료 후 획득 퀘스트 받고 책 받은 후에 우물 위에 앉아 있는 여자 대화_글리시 마을 무역 상인 라크 옆 위치",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372580173",
                 "name": "엘리언교의 이단 감별법",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41033",
+                "desc": "[대화] 라이오넬 리치",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372580173",
                 "name": "용의 감시자",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/학문%20위치/마법사의%20제단.png",
+                "desc": "마법사의 제단 위 용의 석상까지 올라와서 둘러보면 위로 가는 사다리가 있습니다. 타고 올라가서 사자 석상 4개 조사하면 얻습니다. 기운 5소모",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
