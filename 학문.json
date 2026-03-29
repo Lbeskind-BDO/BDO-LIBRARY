@@ -991,57 +991,57 @@
               {
                 "id": "npc_auto_0_1773372587304",
                 "name": "흑결정 등급",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41031",
+                "desc": "도슨과 대화",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372587304",
                 "name": "불사의 힘, 가능한가?",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[의뢰] 고대인의 석실 가장 안 쪽 라피 베드마운틴 의뢰 수행",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372587304",
                 "name": "흑결정의 순도",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[메인 의뢰] 세렌디아 메인 의뢰 중 분기1 - 주저하는 이야기 직전에 얻을 수 있습니다. 메인 의뢰 밀란 얘기죠ㅎㅎ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372587304",
                 "name": "희대의 연금술사 알루스틴 편",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40004",
+                "desc": "클로린스와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372587304",
                 "name": "희대의 연금술사 고르가스 편",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41083",
+                "desc": "밤10시 이후 데르닐 농장(글리시 5시방향) 의뢰. - 카를로 데로즈 친밀도 30 올리면 음흉한 광신도 의뢰 완료 - 프레하라우(글리시마을)에 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372587304",
                 "name": "희대의 연금술사 로메룬 편",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41007",
+                "desc": "하이델 길드 관리인 '루씨아노 피에트로' 근처의 주민(꼬마)와 대화 후 획득 가능",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372587304",
                 "name": "크론 성의 제단",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50004",
+                "desc": "크론 성 거점 찍고 가시면 제단이 나오는데 기운 5 소모 후 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372587304",
                 "name": "경험과 깨달음에 대해",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[의뢰] 경험과 깨달음에 대해_첫 번째 의뢰 : [세렌디아] 하이델 열병식",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
