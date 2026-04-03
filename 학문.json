@@ -830,71 +830,71 @@
               {
                 "id": "npc_auto_7_1773372570997",
                 "name": "리더로 사는 법",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40029",
+                "desc": "[대화] 클리프대장 기준 오른쪽으로 3번째 책상 모퉁이에 있는 병사와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372570997",
                 "name": "피리",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40007",
+                "desc": "[의뢰] 풀비오에게 '피리' 대여 - [길드 관리] 라이아노 피에트로에게 감 - 마을과 집과 쥐 의뢰 받은 후 해당 위치로 이동 후 피리 20초를 분다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372570997",
                 "name": "벽타기",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40021",
+                "desc": "[대화] 아드리아나 로기아와 기운 소모 후 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372570997",
                 "name": "의문의 조각가",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41056",
+                "desc": "[상호작용] 하이델 분수대 피리부는 NPC 뒤 비석 기운3 소모 후 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372570997",
                 "name": "괴물로부터 살아남는 법",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41221",
+                "desc": "[대화] 엔티 앞 사슴남자와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372570997",
                 "name": "벨리아의 특산품",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41051",
+                "desc": "[친밀도 201] 시우타_멜리사 - 조엘 - 올리비아 - 시우타 - 라라",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_13_1773372570997",
                 "name": "베르만의 요리 비법",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41037",
+                "desc": "[대화] 베르만과 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_14_1773372570997",
                 "name": "세렌디아 영광의 역사",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://i.imgur.com/SSB6YD3.png",
+                "desc": "[상호작용]서부경비캠프 자렛의 친밀도 의뢰 클리프의 저서(백전노장클리프 지식) 중 클리프옆 탁자 위에 책과 상호작용으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_15_1773372570997",
                 "name": "메디아 방문기",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41090",
+                "desc": "[대화] 라크와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_16_1773372570997",
                 "name": "거장 로메룬",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41007",
+                "desc": "[대화] 루씨아노 피에트로 옆 꼬마와 대화로 획득_희대의 연금술사 : 로메룬 지식 획득, 그 꼬마 옆 주민이 세렌디아 모험일지 IV-세렌디아의 부랑자 지식 줍니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -1027,7 +1027,7 @@
                 "id": "npc_auto_5_1773372587304",
                 "name": "희대의 연금술사 로메룬 편",
                 "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41007",
-                "desc": "하이델 길드 관리인 '루씨아노 피에트로' 근처의 주민(꼬마)와 대화 후 획득 가능",
+                "desc": "하이델 길드 관리인 '루씨아노 피에트로' 근처의 주민(꼬마)와 대화 후 획득 가능_거장 로메룬까지 같이 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
