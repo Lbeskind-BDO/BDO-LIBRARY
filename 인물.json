@@ -5836,7 +5836,7 @@
                 "id": "npc_auto_10_1773147974264",
                 "name": "포레타",
                 "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50710",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "[친밀도 401] 노른 페더러스_성공 : 엔트 그루터기 - 부어이 엔트 - 작은 엔트 - 억센 나무 정령 / 실패 : 뿌리내린 고목엔트 - 쌍둥이머리 엔트 - 비명 엔트 - 게으른 나무 정",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -8118,7 +8118,7 @@
                 "id": "npc_auto_2_1773148057905",
                 "name": "보투디그",
                 "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45339",
-                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "desc": "야자숲소년을 전부 다 한다 (기운 좀 필요함)->아들찾는퀘->야자수에 나이테가 있는가->부둣가에 배 들어오면 좀 알려줘->아빠가 항해사라 그랬음 ->아빠가 쓴 책 보기 (보투디그 지식 획득!) 을 거치셔야합니다._야자숲 책 찾으라고 하면 <촌장>두도라 도리번한태 가시고 2층가서 책 2권 보신다음<촌장>두도라 도리번 친밀도251까지 올려야합니다._필요지식 : 아미 - 야숨 - 부로마 - 부타 - 수론 - 산카무",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
