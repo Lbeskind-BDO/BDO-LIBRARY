@@ -662,50 +662,50 @@
               {
                 "id": "npc_auto_0_1773372562839",
                 "name": "빈민가의 무법자",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42021",
+                "desc": "[친밀도 101, 451] 다니엘레 스티미_다니엘레 스티미 - 루올로그레베 - 울프강 - 프세보르 - 아리오 - 안젤라",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372562839",
                 "name": "상인 조합",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41008",
+                "desc": "[대화] 헌트_기운1 주고 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372562839",
                 "name": "전쟁과 메디아",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50210",
+                "desc": "[대화] 파이시 맞은편, <공방 작업반장> 옆 연금도구 있는 곳 <마브NPC> 옆에 꼬마여자 <주민NPC>에게 대화하면 줍니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372562839",
                 "name": "명예, 최후의 선택",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42030",
+                "desc": "[친밀도 301, 501] <촛대 상인> 안나벨라 벨루치_릴베인 - 알프레도 롬바르디 - 라일리나 - 게이브릴 - 게라노아 - 카노바스",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372562839",
                 "name": "탄티니스 민회",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42138",
+                "desc": "[친밀도 101] 바스케안 류릭_인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372562839",
                 "name": "권리와 허울",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42137",
+                "desc": "[친밀도 101] 죠반 그롤린_다니엘레 스티미 - 루올로 그레베 - 울프강 - 아쉬로그 - 아리오 - 프세보르 - 린지야나 허바",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372562839",
                 "name": "칼리스의 위기",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42021",
+                "desc": "[친밀도 101, 451] 다니엘레 스티미_다니엘레 스티미 - 루올로그레베 - 울프강 - 프세보르 - 아리오 - 안젤라",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -725,43 +725,43 @@
               {
                 "id": "npc_auto_9_1773372562839",
                 "name": "하이델 조약서",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://upload.inven.co.kr/upload/2014/12/22/bbs/i1566867644.png?MW=800",
+                "desc": "[상호작용] 말타고 서재까지 돌진 하시면 됩니다. ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372562839",
                 "name": "농민의 희망",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41098",
+                "desc": "[대화] 한네스와 '알 룬디' 키워드 대화 후 획득 가능",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372562839",
                 "name": "백전노장 클리프",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40041",
+                "desc": "[친밀도 11, 의뢰] 자렛 도몬가트_인사하세요. hi! hello!_클리프의 저서 의뢰 후 획득 가능",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372562839",
                 "name": "하이델의 시종장",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41051",
+                "desc": "[대화] 시우타_대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_13_1773372562839",
                 "name": "시안동맹",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41012",
+                "desc": "[의뢰] 도라 폰티_도라 폰티 의뢰 - 시안 상단 의뢰 - 그레이스 로렌 의뢰 - 하이델의 정치이해 까지 완료하시면 획득 가능",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_14_1773372562839",
                 "name": "반란군이 된 까닭",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[메인 의뢰] 세렌디아II 완료 후 흑정령에게 대화 걸면_세가지 지식, 반란의 이유, 메디아 여행, 가장 중요한 것_3가지 지식을 얻을 수 있습니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -1440,7 +1440,7 @@
                 "id": "npc_auto_5_1773372631109",
                 "name": "사치로 그리는 체면",
                 "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42030",
-                "desc": "[친밀도 301] <촛대 상인> 안나벨라 벨루치_릴베인 - 알프레도 롬바르디 - 라일리나 - 게이브릴 - 게라노아 - 카노바스",
+                "desc": "[친밀도 301, 501] <촛대 상인> 안나벨라 벨루치_릴베인 - 알프레도 롬바르디 - 라일리나 - 게이브릴 - 게라노아 - 카노바스",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
