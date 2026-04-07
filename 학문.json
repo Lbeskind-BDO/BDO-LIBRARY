@@ -557,92 +557,92 @@
               {
                 "id": "npc_auto_0_1773372551601",
                 "name": "대도시의 빈민가",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42016",
+                "desc": "[친밀도 201] 루빈_앤드로의 상자 - 대농장 소들이 죽는 이유 - 에이미의 행방 - 델페 기사단 작전 지시서 - 토벌단과 구조대 - 쿠루토의 방어구",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372551601",
                 "name": "칼페온 성 연금술사",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41011",
+                "desc": "[친밀도 251] 멜리사 브레디_경제I의 맨 마지막에 하세욤_대도시의 빈민가 - 노동하지 않는 것은 죄악이다 - 희망 은행 - 서민 경제 - 누구를 위한 화폐인가 - 괴물 고용 문제 없는가? - 돈의 달인, 상인의 농간",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372551601",
                 "name": "칼페온 시안 상단",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42152",
+                "desc": "[대화] 카노바스와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372551601",
                 "name": "희망 은행",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42001",
+                "desc": "[친밀도 301] 프레델레스 허바_릴베인 - 라일라나 - 게이브릴 - 비안스티미 - 카노바스",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372551601",
                 "name": "중산층의 도약지",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42012",
+                "desc": "[친밀도 281] 라일리나_벨리아영웅 - 농장마녀 - 요리사풍채 - 올리비아여행기",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372551601",
                 "name": "괴물 고용 문제 없는가?",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40026",
+                "desc": "[대화] 세베로 로기아와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372551601",
                 "name": "노동하지 않는 것은 죄악이다.",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41030",
+                "desc": "[친밀도 201] 아마데오 알레한드로_마티나핀토 - 다프네델루치 - 카멜리아로기아 - 엠마바탈리 - 파르치 - 파올라토스카니 - 봉골레 - 스테리",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372551601",
                 "name": "무역의 시대",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50011",
+                "desc": "[친밀도 501] 바하르.........하지마시고 벨리아마을 공방 가르닐 옆에 있는 책더미에 기운 소모해서 습득가능합니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372551601",
                 "name": "누구를 위한 화폐인가",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41034",
+                "desc": "[대화] 로마노 프로스페로와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372551601",
                 "name": "돈의 달인, 상인의 농간",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[대화] 하이델 3-3 번지 건물 앞 꼬마에게 획득_밤에는 퇴근합니당.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372551601",
                 "name": "서민 경제",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://prnt.sc/rjybi9",
+                "desc": "[대화] 거래소장 왼쪽에 빨간색 천막 있는데 오른쪽 두번째 천막 앞에 흰색옷이랑 파란색 모자를 쓴 뚱뚱한 남자 주민한테 받을 수 있습니다. 하이델 4-3번지를 마주보고 왼쪽에 위치",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372551601",
                 "name": "올바른 상도",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40028",
+                "desc": "[대화] 루크와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372551601",
                 "name": "상인으로서의 첫 디딤",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40010",
+                "desc": "[대화] 바하르와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
