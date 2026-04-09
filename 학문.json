@@ -467,7 +467,7 @@
                 "id": "npc_auto_10_1773372532258",
                 "name": "삼 일의 어둠",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[대화] 시라레_바리즈 3세 옆의 시라레입니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -487,57 +487,57 @@
               {
                 "id": "npc_auto_0_1773372540406",
                 "name": "검은사막",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372540406",
                 "name": "아알란 예절",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372540406",
                 "name": "마루민 왕비의 업적",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372540406",
                 "name": "발렌시아의 왕들",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372540406",
                 "name": "왕실의 식사",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372540406",
                 "name": "마루민 감사제",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372540406",
                 "name": "발렌시아 위인전",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372540406",
                 "name": "검은사막 개정판",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char45014",
+                "desc": "[상호작용] 황실제작납품 샨디 유트 옆건물 발렌시아 왕궁 소도서관을 뒤져보시면 됩니다",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
