@@ -396,57 +396,57 @@
               {
                 "id": "npc_auto_0_1773372532258",
                 "name": "메디아를 거쳐 간 재앙",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "http://i.imgur.com/7TmD1ri.jpg",
+                "desc": "[상호작용] 고대의 틈에 책들 많은 곳들 한 번씩 둘러보시면 지식이 많아욤!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372532258",
                 "name": "에다나의 전설",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "http://i.imgur.com/uipY4mB.jpg",
+                "desc": "[상호작용] 고대의 틈에 책들 많은 곳들 한 번씩 둘러보시면 지식이 많아욤!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372532258",
                 "name": "고대의 서 23본",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "http://i.imgur.com/uipY4mB.jpg",
+                "desc": "[상호작용] 고대의 틈에 책들 많은 곳들 한 번씩 둘러보시면 지식이 많아욤!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372532258",
                 "name": "검은 기운과 고대 문명",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "http://i.imgur.com/uipY4mB.jpg",
+                "desc": "[상호작용] 고대의 틈에 책들 많은 곳들 한 번씩 둘러보시면 지식이 많아욤!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372532258",
                 "name": "메디아의 역사 II",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "http://i.imgur.com/uipY4mB.jpg",
+                "desc": "[상호작용] 고대의 틈에 책들 많은 곳들 한 번씩 둘러보시면 지식이 많아욤!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372532258",
                 "name": "메디아의 역사 I",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "http://i.imgur.com/uipY4mB.jpg",
+                "desc": "[상호작용] 고대의 틈에 책들 많은 곳들 한 번씩 둘러보시면 지식이 많아욤!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372532258",
                 "name": "크자카와 바리즈",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용] 엘릭 수도원 꼭대기 도서관 책장",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372532258",
                 "name": "난투사 레투사",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44109",
+                "desc": "[의뢰] 엘라 세르빈_타리프의 금기된 서의 연속 의뢰 완료 후 타리프 마을 중앙 큰 나무에게 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -459,14 +459,14 @@
               {
                 "id": "npc_auto_9_1773372532258",
                 "name": "야만족이 자리 잡은 폐철광산",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44205",
+                "desc": "[대화] 디노 라하",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372532258",
                 "name": "삼 일의 어둠",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44037",
                 "desc": "[대화] 시라레_바리즈 3세 옆의 시라레입니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
