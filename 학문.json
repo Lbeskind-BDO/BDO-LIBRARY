@@ -347,36 +347,36 @@
               {
                 "id": "npc_auto_11_1773372523607",
                 "name": "야만의 이동",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41044",
+                "desc": "[대화] 마울과 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372523607",
                 "name": "용서의 재앙",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41009",
+                "desc": "[대화] 크루혼 웜스베인과 마주본 상태로 왼쪽 계단을 올라, 혼자 허수아비들 있는 쪽을 바라보는 병사와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_13_1773372523607",
                 "name": "30년의 원정이 남긴 것",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://i.imgur.com/rPDQTCO.png",
+                "desc": "[대화] 하이델 북부 채석장의 인부와 대화로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_14_1773372523607",
                 "name": "반란인가, 혁명인가?",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41038",
+                "desc": "[대화] 카엘과 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_15_1773372523607",
                 "name": "칼페온의 두얼굴",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41009",
+                "desc": "[친밀도 1] 크루혼 웜스베인과 대화로 획득.친밀도 1이니까 그냥 인사 한 번 하시면 됩니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
