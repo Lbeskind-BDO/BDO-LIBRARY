@@ -270,78 +270,78 @@
               {
                 "id": "npc_auto_0_1773372523607",
                 "name": "감시탑 다리",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41035",
+                "desc": "[대화] 자비에로 비텔로와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372523607",
                 "name": "칼페온 대도서관",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char42119",
+                "desc": "[의뢰, 구입] 책벌레 안나, 안노리사 로지_책벌레 안나로부터 의뢰를 수행해도 되고, 안노리사 로지에게서 사셔도 무방합니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372523607",
                 "name": "납골당의 인물상",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=node134,rdate=1775700746886",
+                "desc": "[상호작용] 벨리아 납골당 안 끝방의 쪽 석상과 상호작용으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372523607",
                 "name": "크론 성의 몰락",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40008",
+                "desc": "[친밀도 501] 트라난 언더포_아르테미오 피아자 - 이고르 바탈리 - 다비드 핀토 - 아벨린",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372523607",
                 "name": "발레노스의 라모네스",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=node134,rdate=1775700746886",
+                "desc": "[상호작용] 벨리아 납골당 안 끝방의 오른쪽 석상과 상호작용으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372523607",
                 "name": "검은 혁명",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41014",
+                "desc": "[친밀도 101, 301] 크루시오 도몬가트_죠르다인 듀카스 - 크루시오 도몬가트 - 자렛 도몬가트 - 카롤린",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372523607",
                 "name": "검은 죽음",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41014",
+                "desc": "[친밀도 101, 301] 크루시오 도몬가트_죠르다인 듀카스 - 크루시오 도몬가트 - 자렛 도몬가트 - 카롤린",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372523607",
                 "name": "이동수단의 변천사",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41091",
+                "desc": "[대화] 올리비에로와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372523607",
                 "name": "나가족의 터전",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50202",
+                "desc": "[대화] 고대 나가 조각상과 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372523607",
                 "name": "전쟁이 낳은 고아",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41010",
+                "desc": "[의뢰] 콘스탄테에게서 긍정, 라라 퀘스트 진행 후 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372523607",
                 "name": "젊은 왕, 의문의 죽음",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41003",
+                "desc": "[대화] 카레스토폰티와 대화로 획",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
