@@ -1495,7 +1495,7 @@
               {
                 "id": "npc_auto_0_1773372639783",
                 "name": "보람찬 하루의 마무리",
-                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char4410",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44108,rdate=1775817619539",
                 "desc": "[친밀도 51, 171] 이맘_인사가 답입니다.인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -1593,7 +1593,7 @@
               {
                 "id": "npc_auto_14_1773372639783",
                 "name": "타리프 마을의 장식",
-                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char4410",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44108,rdate=1775817619539",
                 "desc": "[친밀도 51, 171] 이맘_인사가 답입니다.인사하세요. hi! hello!",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
