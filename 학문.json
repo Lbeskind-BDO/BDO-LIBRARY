@@ -18,238 +18,238 @@
               {
                 "id": "npc_auto_0_1773372510354",
                 "name": "하늘과 바다가 만나는 수평선",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/1.%20하늘과%20바다가%20만나는%20수평선.webp",
                 "desc": "[상호작용]으로 획득 가능. 님파마레_르마나레 산의 높은 곳에 올라가, 누군가의 쪽지를 읽어보자.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372510354",
                 "name": "숨겨진 거울",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/2.%20숨겨진%20거울.webp",
                 "desc": "[상호작용]으로 획득 가능. 대흑점에서 모든 것을 반사하는 호수를 찾아보자.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372510354",
                 "name": "목소리가 담긴 샘",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/3.%20목소리가%20담긴%20샘.png",
                 "desc": "샘물 근처의 특정 오브젝트나 랜드마크 조사",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372510354",
                 "name": "따뜻한 물의 온천",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/4.%20따뜻한%20물의%20온천.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372510354",
                 "name": "피어나는 희망 I",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/5.%20피어나는%20희망%20I.webp",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372510354",
                 "name": "잠든 인어의 성소",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/6.%20잠든%20인어의%20성소.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372510354",
                 "name": "피어나는 희망 II",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/7.%20피어나는%20희망%20II.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372510354",
                 "name": "탁한 물이 모인 자리",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/8.%20탁한%20물이%20모인%20자리.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372510354",
                 "name": "하늘을 품은 다리",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/9%20하늘을%20품은%20다리.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372510354",
                 "name": "거센 물결의 흔적",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/10.%20거센%20물결의%20흔적.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372510354",
                 "name": "아에테리온의 고요 II",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/11.%20아에테리온의%20고요%20II.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372510354",
                 "name": "아에테리온의 고요 I",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/12.%20아에테리온의%20고요%20I.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372510354",
                 "name": "아에테리온의 고요 III",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/13.%20아에테리온의%20고요%20III.webp",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_13_1773372510354",
                 "name": "다리위에 걸린 하늘",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/14.%20다리위에%20걸린%20하늘.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_14_1773372510354",
                 "name": "수양의 폭포",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/15.%20수양의%20폭포.webp",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_15_1773372510354",
                 "name": "그분을 기리며",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/16.%20그분을%20기리며.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_16_1773372510354",
                 "name": "에다니아에 묻어있는 시간의 흔적",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/17.%20에다니아에%20묻어있는%20시간의%20흔적.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_17_1773372510354",
                 "name": "테네브라움에서 아에테리온까지",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/18.%20테네브라움에서%20아에테리온까지.webp",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_18_1773372510354",
                 "name": "대조적인 공간의 나무",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/19.%20대조적인%20공간의%20나무.webp",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_19_1773372510354",
                 "name": "리토반 산맥의 수호자",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/20.%20리토반%20산맥의%20수호자.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_20_1773372510354",
                 "name": "흐르는 물에서 느끼는 것은 II",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/21.%20흐르는%20물에서%20느끼는%20것은%20II.webp",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_21_1773372510354",
                 "name": "흐르는 물에서 느끼는 것은 I",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/22.%20흐르는%20물에서%20느끼는%20것은%20I.webp",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_22_1773372510354",
                 "name": "하르마드의 경계",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/23.%20하르마드의%20경계.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_23_1773372510354",
                 "name": "노력의 결실은 가까운곳에",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/24.%20노력의%20결실은%20가까운곳에.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_24_1773372510354",
                 "name": "경배의 제단",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/25.%20경배의%20제단.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_25_1773372510354",
                 "name": "정찰지 위에서 바라본 바다",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/26.%20정찰지%20위에서%20바라본%20바다.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_26_1773372510354",
                 "name": "갈망 속의 염원",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/27.%20갈망%20속의%20염원.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_27_1773372510354",
                 "name": "묵비하는 호수",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/28.%20묵비하는%20호수.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_28_1773372510354",
                 "name": "아토르의 머리 위",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/29.%20아토르의%20머리%20위.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_29_1773372510354",
                 "name": "하늘에서 바위가 내린다면",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/30.%20하늘에서%20바위가%20내린다면.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_30_1773372510354",
                 "name": "오르비타의 오아시스",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/31.%20오르티바의%20오아시스.webp",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_31_1773372510354",
                 "name": "신성력이 담긴 바람",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/32.%20신성력이%20담긴%20바람.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_32_1773372510354",
                 "name": "폭포가 흐르는 주상절리",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/33.%20폭포가%20흐르는%20주상절리.webp",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_33_1773372510354",
                 "name": "성전을 따라 흐르는 폭포",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/34.%20성전을%20따라%20흐르는%20폭포.png",
                 "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
