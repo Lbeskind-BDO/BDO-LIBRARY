@@ -40,217 +40,217 @@
                 "id": "npc_auto_3_1773372510354",
                 "name": "따뜻한 물의 온천",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/4.%20따뜻한%20물의%20온천.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372510354",
                 "name": "피어나는 희망 I",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/5.%20피어나는%20희망%20I.webp",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372510354",
                 "name": "잠든 인어의 성소",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/6.%20잠든%20인어의%20성소.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372510354",
                 "name": "피어나는 희망 II",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/7.%20피어나는%20희망%20II.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372510354",
                 "name": "탁한 물이 모인 자리",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/8.%20탁한%20물이%20모인%20자리.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372510354",
                 "name": "하늘을 품은 다리",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/9%20하늘을%20품은%20다리.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372510354",
                 "name": "거센 물결의 흔적",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/10.%20거센%20물결의%20흔적.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372510354",
                 "name": "아에테리온의 고요 II",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/11.%20아에테리온의%20고요%20II.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372510354",
                 "name": "아에테리온의 고요 I",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/12.%20아에테리온의%20고요%20I.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372510354",
                 "name": "아에테리온의 고요 III",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/13.%20아에테리온의%20고요%20III.webp",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_13_1773372510354",
                 "name": "다리위에 걸린 하늘",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/14.%20다리위에%20걸린%20하늘.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_14_1773372510354",
                 "name": "수양의 폭포",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/15.%20수양의%20폭포.webp",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_15_1773372510354",
                 "name": "그분을 기리며",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/16.%20그분을%20기리며.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_16_1773372510354",
                 "name": "에다니아에 묻어있는 시간의 흔적",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/17.%20에다니아에%20묻어있는%20시간의%20흔적.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_17_1773372510354",
                 "name": "테네브라움에서 아에테리온까지",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/18.%20테네브라움에서%20아에테리온까지.webp",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_18_1773372510354",
                 "name": "대조적인 공간의 나무",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/19.%20대조적인%20공간의%20나무.webp",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_19_1773372510354",
                 "name": "리토반 산맥의 수호자",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/20.%20리토반%20산맥의%20수호자.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_20_1773372510354",
                 "name": "흐르는 물에서 느끼는 것은 II",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/21.%20흐르는%20물에서%20느끼는%20것은%20II.webp",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_21_1773372510354",
                 "name": "흐르는 물에서 느끼는 것은 I",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/22.%20흐르는%20물에서%20느끼는%20것은%20I.webp",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_22_1773372510354",
                 "name": "하르마드의 경계",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/23.%20하르마드의%20경계.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_23_1773372510354",
                 "name": "노력의 결실은 가까운곳에",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/24.%20노력의%20결실은%20가까운곳에.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_24_1773372510354",
                 "name": "경배의 제단",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/25.%20경배의%20제단.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_25_1773372510354",
                 "name": "정찰지 위에서 바라본 바다",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/26.%20정찰지%20위에서%20바라본%20바다.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_26_1773372510354",
                 "name": "갈망 속의 염원",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/27.%20갈망%20속의%20염원.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_27_1773372510354",
                 "name": "묵비하는 호수",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/28.%20묵비하는%20호수.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_28_1773372510354",
                 "name": "아토르의 머리 위",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/29.%20아토르의%20머리%20위.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_29_1773372510354",
                 "name": "하늘에서 바위가 내린다면",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/30.%20하늘에서%20바위가%20내린다면.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_30_1773372510354",
                 "name": "오르비타의 오아시스",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/31.%20오르티바의%20오아시스.webp",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_31_1773372510354",
                 "name": "신성력이 담긴 바람",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/32.%20신성력이%20담긴%20바람.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_32_1773372510354",
                 "name": "폭포가 흐르는 주상절리",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/33.%20폭포가%20흐르는%20주상절리.webp",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_33_1773372510354",
                 "name": "성전을 따라 흐르는 폭포",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/탐험II/34.%20성전을%20따라%20흐르는%20폭포.png",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[상호작용]으로 획득 가능.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -2504,161 +2504,161 @@
                 "id": "npc_auto_4_1773372733545",
                 "name": "비어있는 카이벨란 육면체",
                 "detailImg": "https://blog.kakaocdn.net/dna/PvN5a/btq6WN7BQdq/AAAAAAAAAAAAAAAAAAAAAHtIqTVN4xk0frxQ167uKmhE3VTY9mzW4OIDYJtvivx0/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=05OpbPicFbBrKI3%2F%2F5QaVJbutbY%3D",
-                "desc": "[DY & OY의 소소한 행복] 여기에서 가운데 장치 뒤편으로 13번 숨겨진 고대 장치 지식도 획득 가능해요.",
+                "desc": "[DY & OY의 소소한 행복] 메인 의뢰 중 [아토락시온] 설계도 진행 시 들어가는 방에서 얻을 수 있어요. 메인 의뢰 [아토락시온] 망가진 우애에서 왼쪽 방이에요. 지식 획득 시 기운 10이 소모돼요. 여기에서 가운데 장치 뒤편으로 13번 숨겨진 고대 장치 지식도 획득 가능해요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372733545",
                 "name": "거대한 카이벨란 육면체",
                 "detailImg": "https://tv.kakao.com/v/419813157",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 바아의 폭풍에서 바아의 심장으로 넘어가기 전에 벽을 타고 올라가면 있어요. 영상도 같이 첨부해 둘 테니 위치를 참고해 주세요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372733545",
                 "name": "개조된 카이벨란 육면체",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://tv.kakao.com/v/419813178",
+                "desc": "[DY & OY의 소소한 행복] 바아의 폭풍에서 쓰러진 고대 외벽 지식을 획득하러 올라가는 구조물을 똑같이 올라간 다음 오른쪽 구조물로 올라가서 길을 따라 끝까지 가면 있어요. 해당 위치로 가는 길은 영상을 첨부하니 참고해 주세요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372733545",
                 "name": "바아마키아 선로 제어 장치",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://tv.kakao.com/v/419813844",
+                "desc": "[DY & OY의 소소한 행복] 바아의 물음에서 폭풍으로 나가는 동굴 입구에서 오른쪽 벽을 타고 올라간 다음 왼쪽 선로를 따라 가면 있어요.의지를 높이는 실타래를 가는 길 옆 벽을 타고 올라가면 돼요. 영상을 첨부하니 참고해 주세요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372733545",
                 "name": "바아마키아 부유석",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/2u2Qv/btq6Q7UwtwJ/AAAAAAAAAAAAAAAAAAAAADlSLAbwsD3YgNKt2l6-GFkDuhJ2J4LaMDKHfhEQmJvQ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=4bJK67SOGOplVhKf6vbKW9VzFSk%3D",
+                "desc": "[DY & OY의 소소한 행복] 12번 바아마키아 부유석의 심장 위치랑 동일해요. 메인 의뢰 [아토락시온] 되살려낸 결의를 진행하는 곳에서 획득할 수 있어요. 미니맵 기준 12시쪽 발판 옆에서 획득 가능해요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372733545",
                 "name": "바아마키아 - 룬 마기아",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/coSIob/btq6WNT6js9/AAAAAAAAAAAAAAAAAAAAAE52BgOhPULfQg0osbHkz3sSzO86BHUgYJru7mdIxPop/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=qdYDgWwoKajB2MOwpW%2BBDmGXoNg%3D",
+                "desc": "[DY & OY의 소소한 행복] 메인 의뢰 [아토락시온] 망가진 우애를 하는 위치에 있는 '바아의 창공 - 솔 마기아'와 대화하여 획득할 수 있어요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372733545",
                 "name": "바아마키아 - 솔 마기아",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/caMgpG/btq6VFCo5TK/AAAAAAAAAAAAAAAAAAAAAB35Jb12OVdwZmsaNxRMKVjnDnaTp15sI6DU1pjKi45p/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=XhGXkUGf%2BwIh45%2B1rntfATHRoEI%3D",
+                "desc": "[DY & OY의 소소한 행복] 10번 '바아마키아 - 룬 마기아'와 같은 위치인 '바아의 창공 - 솔 마기아'와 대화하여 획득할 수 있어요. 지식 획득 시 기운 15가 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372733545",
                 "name": "바아마키아 부유석의 심장",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/2u2Qv/btq6Q7UwtwJ/AAAAAAAAAAAAAAAAAAAAADlSLAbwsD3YgNKt2l6-GFkDuhJ2J4LaMDKHfhEQmJvQ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=4bJK67SOGOplVhKf6vbKW9VzFSk%3D",
+                "desc": "[DY & OY의 소소한 행복] 9번 바아마키아 부유석 위치랑 동일해요. 메인 의뢰 [아토락시온] 되살려낸 결의를 진행하는 곳에서 획득할 수 있어요. 미니맵 기준 12시쪽 발판 옆에서 획득 가능하고, 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372733545",
                 "name": "숨겨진 고대 장치",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/DNzVt/btq6RLX0G8a/AAAAAAAAAAAAAAAAAAAAACC5lR5zMbgb2xSI9ULfqnzYwmgM6d9iKu72Y-AdP6SB/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=20PX2J1EUL15nLNAuDxGVFy7gCE%3D",
+                "desc": "[DY & OY의 소소한 행복] 메인 의뢰 중 [아토락시온] 설계도 진행 시 들어가는 방에서 얻을 수 있어요. 메인 의뢰 [아토락시온] 망가진 우애에서 왼쪽 방이에요. 지식 획득 시 기운 10이 소모돼요. 스샷의 앞쪽 벽에서 5번 비어있는 카이벨란 육면체 지식도 획득 가능해요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_13_1773372733545",
                 "name": "아토락시온 등가보급소",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/c5l4hn/btq6VIZ3SFT/AAAAAAAAAAAAAAAAAAAAAAUn8H-zd9z-cWvSOy4t0hMOOU6TqzVeoa0B8hcnezlc/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=EZ8dhL4yQo93wHadP8Q9LOxpP78%3D",
+                "desc": "[DY & OY의 소소한 행복] 바아의 심장에서 메인 의뢰 [아토락시온] 조각난 기억을 진행할 때 만나는 '바아의 심장 - 등가 보급소'와 대화하여 획득할 수 있어요. 지식 획득 시 기운 15가 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_14_1773372733545",
                 "name": "되살아나는 생명",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/bw9hhc/btq6VEDyk2K/AAAAAAAAAAAAAAAAAAAAAEaAREqtltqeu9q4PtFP64sMmL_FTf1yP_HAxy-yY9kZ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=9BYY44pTM5ZX2%2FuZYaRDp53XS7w%3D",
+                "desc": "[DY & OY의 소소한 행복] 바아의 실타래 지식을 모두 얻고 흑정령한테서 받을 수 있는 의뢰 '[아토락시온] 최후의 고서'를 완료하면 보상으로 획득할 수 있어요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_15_1773372733545",
                 "name": "데키마의 숙명",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/bUOtb2/btq6SwGjvoy/AAAAAAAAAAAAAAAAAAAAALsaasocSMpU7drOkg4wsNiZxrezOjbfkU11uZQUGLpp/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=PHx4yTVjDhw4FFyRS6ZHvzFQUIc%3D",
+                "desc": "[DY & OY의 소소한 행복] 아토락시온 - 최후의 고서를 장착 후, 진실을 가리는 실타래를 다시 풀면 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_16_1773372733545",
                 "name": "데키아의 의지",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/XRn3v/btq6W1rf2Pn/AAAAAAAAAAAAAAAAAAAAAKmZQ6vxJvAIfrd4iGM9HR-_gQo5ZTFTFDzLwydKU8dP/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=0yGtbcGeqVsWoFz9LH2jYCPeCVo%3D",
+                "desc": "[DY & OY의 소소한 행복] 아토락시온 - 최후의 고서를 장착 후, 의지를 높이는 실타래를 다시 풀면 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_17_1773372733545",
                 "name": "데키아의 축복",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/7w6KC/btq6VDR94tu/AAAAAAAAAAAAAAAAAAAAAGySKY-cBOZyf_YXLe2Yret0c0aAq_ldie2qO1DQtMN3/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=rTwHKqA5exUo%2F4UeH13CNAYyzQg%3D",
+                "desc": "[DY & OY의 소소한 행복] 아토락시온 - 최후의 고서를 장착 후, 우애를 가늠하는 실타래를 다시 풀면 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_18_1773372733545",
                 "name": "침탈자의 어둠",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/Bqnsh/btq6VaQjBw7/AAAAAAAAAAAAAAAAAAAAAFddF4pvE69hFyZXwjQrSw-elUaxJulsYF6R7OiNJZBI/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=MJ26mrYqZf5ySid7QIzoQOj4ea4%3D",
+                "desc": "[DY & OY의 소소한 행복] 아토락시온 - 최후의 고서를 장착후, 균형을 이루는 실타래를 다시 풀면 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_19_1773372733545",
                 "name": "힘을 다한 바아마키아 심장",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/c6ZNa5/btq6Uct3Gkl/AAAAAAAAAAAAAAAAAAAAANwqg8NKDGwLwKDx72duKemK5gCz5HPagSzE-4bMUVYi/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=FH6aPjBJ6ciwW7q6UpuKkS5Jcvg%3D",
+                "desc": "[DY & OY의 소소한 행복] 메인 의뢰 [아토락시온] 망가진 우애를 진행하는 곳 오른쪽의 돌 위에 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_20_1773372733545",
                 "name": "검은돌이 있었던 흔적",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/BHZka/btq6SwM4YJQ/AAAAAAAAAAAAAAAAAAAAAG0Tm1CTlsdYfM-ZiV64o8wXNiygSWZ0EmbYYXStC5ue/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=TORpdSh4O4yM3%2FkCIhsDK%2BO08mY%3D",
+                "desc": "[DY & OY의 소소한 행복] 메인 의뢰 [아토락시온] 용납할 수 없는 모방을 진행하는 위치에서 아래로 떨어져 '고대 건축학 - 위태로운 기둥' 지식을 얻는 곳에서 왼쪽의 공터에서 얻을 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_21_1773372733545",
                 "name": "거대 병기의 파편",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/b1PZ5Z/btq6Q6Bn2i6/AAAAAAAAAAAAAAAAAAAAAA6N6K0ICpldOrSPjx3GgQIIDV-IwbMGF9EGEjmGW13K/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=9oFzuDK17JZGcpcesssoIZmMlb8%3D",
+                "desc": "[DY & OY의 소소한 행복] 특이하게 고대 병기의 파편 지식은 2군데에서 획득 가능해요. 메인 의뢰 [아토락시온] 용납할 수 없는 모방을 진행하는 곳에서 바로 아래로 떨어지면 있는 병기 파편에서도 가능하고, 제가 쓴 메인 의뢰 실타래 공략글에서 용납할 수 없는 모방으로 가는길의 왼쪽편에서도 획득 가능해요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_22_1773372733545",
                 "name": "바아의 눈",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/cIAsPO/btq6RLDH7sc/AAAAAAAAAAAAAAAAAAAAAKiTRILxNuX9hIB270jqSC6Toglf0aDOwvYzKD10DP_N/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=1d34aAzhabgwnHmsxFOXMO38iUk%3D",
+                "desc": "[DY & OY의 소소한 행복] 아토락시온 입구에서 바로 보이는 '바아의 창공 - 바아의 눈'에서 획득 가능해요. 지식 획득 시 기운 15가 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_23_1773372733545",
                 "name": "무언가가 있던 자리",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/bOn8Nk/btq6XO6kGB2/AAAAAAAAAAAAAAAAAAAAACiftegCebN1-pJJGChX2kB9PSM_1njbJ2ST2v-M3WEM/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=Zfxdbebe7G1TaTHVxdl77%2BlO5VQ%3D",
+                "desc": "[DY & OY의 소소한 행복] 21번 검은돌이 있었던 흔적 위치랑 동일해요. 메인 의뢰 [아토락시온] 용납할 수 없는 모방을 진행하는 위치에서 아래로 떨어져 '고대 건축학 - 위태로운 기둥' 지식을 얻는 곳에서 왼쪽의 공터에서 얻을 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_24_1773372733545",
                 "name": "기운 분산 육면체",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/o1XHQ/btq6W1kvHIU/AAAAAAAAAAAAAAAAAAAAAIWrqYR-gnvI9DBk4gMc3awcOX4zkaWE77zWA8wOISTC/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=a%2BP6g2PRFvWl4qeuWTD36JdH7Rs%3D",
+                "desc": "[DY & OY의 소소한 행복] '바아의 심장 - 등가 보급소' 옆에 기둥 위로 올라가면 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_25_1773372733545",
                 "name": "병렬로 배치된 기운 분산 육면체",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/cKAYhb/btq6VaW3MLt/AAAAAAAAAAAAAAAAAAAAAHadQCqWrMjzxLZumZkybJ-7GVOEvGQR76b4VOi2-GKb/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=6Wo7S9Je%2B7uI1ATgxP2n3IgLAXg%3D",
+                "desc": "[DY & OY의 소소한 행복] 보스 앞의 맵인 바아의 정원에서 오른쪽에 떠있는 육면체예요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_26_1773372733545",
                 "name": "파손된 기운 분산 육면체",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/5Cg13/btq6Wv0uGgC/AAAAAAAAAAAAAAAAAAAAAFUE6M2LKIP2SCCCyHTlKOH1eol8tsJleHtarnk1WB4L/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=NKjyfD3NyxP3ircGbo4IURAEfRA%3D",
+                "desc": "[DY & OY의 소소한 행복] 메인 의뢰 [아토락시온] 망가진 우애를 진행하는 방 오른쪽 벽 쪽에 흙더미 속에 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -2679,77 +2679,77 @@
                 "id": "npc_auto_0_1773372746260",
                 "name": "고대의 건축 기술",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372746260",
                 "name": "아토락시온의 인공폭포",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372746260",
                 "name": "추락한 바아마키아 부유석",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372746260",
                 "name": "쓰러진 고대 외벽",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372746260",
                 "name": "부스러지기 시작한 동굴 입구",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372746260",
                 "name": "무너져 가는 유적",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372746260",
                 "name": "위태로운 기둥",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372746260",
                 "name": "계단 형식의 고대 석재",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372746260",
                 "name": "영원의 관문",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372746260",
                 "name": "바아마키아 격벽 문",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372746260",
                 "name": "무너진 병기 창고",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -2770,133 +2770,133 @@
                 "id": "npc_auto_0_1773372758487",
                 "name": "시카의 병기 재료",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372758488",
                 "name": "모방은 창조의 어머니",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372758488",
                 "name": "기운을 분산시키는 방법",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372758488",
                 "name": "단순한 카이벨란 선로",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372758488",
                 "name": "장막의 힘",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372758488",
                 "name": "카이벨란 육면체 재사용",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372758488",
                 "name": "카이벨란 관문",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372758488",
                 "name": "기울어진 카이벨란 육면체",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372758488",
                 "name": "변형된 카이벨란 선로",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372758488",
                 "name": "카이벨란 선로의 위력",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372758488",
                 "name": "천연교",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372758488",
                 "name": "심해의 온도",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372758488",
                 "name": "시카라키아의 암석",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_13_1773372758488",
                 "name": "해수 유입 장치",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_14_1773372758488",
                 "name": "힘을 다한 시카라키아 심장",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_15_1773372758488",
                 "name": "인공적인 공간",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_16_1773372758488",
                 "name": "물에 젖은 병기 제조법 수첩",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_17_1773372758488",
                 "name": "스승님의 병기",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_18_1773372758488",
                 "name": "특별한 제자",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -2917,70 +2917,70 @@
                 "id": "npc_auto_0_1773372767142",
                 "name": "쓰러진 기둥",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372767142",
                 "name": "파문 문양",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372767142",
                 "name": "독특한 양식의 계단",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372767142",
                 "name": "건축 방식의 차이",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372767142",
                 "name": "사라진 석상",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372767142",
                 "name": "시카라키아 상수원",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372767142",
                 "name": "동굴 벽 붕괴의 원인",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372767142",
                 "name": "데키마들의 일상",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372767142",
                 "name": "고대 석재의 빛",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372767142",
                 "name": "은은한 빛의 석재",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -3001,154 +3001,154 @@
                 "id": "npc_auto_0_1773372779915",
                 "name": "인공적으로 만들어 낸 폭포 줄기",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372779915",
                 "name": "요루의 눈",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372779915",
                 "name": "신선한 물의 비결",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372779915",
                 "name": "안정성을 개선한 카이벨란 선로",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372779915",
                 "name": "빛이 나는 문",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372779915",
                 "name": "굴러떨어진 병기 조각",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372779915",
                 "name": "곡선형으로 개조된 카이벨란 선로",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372779915",
                 "name": "끊어진 카이벨란 선로",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372779915",
                 "name": "고대 카이벨란 선로",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372779915",
                 "name": "빛이 새어 나오는 건축물",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372779915",
                 "name": "동력이 바닥난 병기",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372779915",
                 "name": "암벽 사이로 내리는 빛",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372779915",
                 "name": "광명석의 부작용",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_13_1773372779915",
                 "name": "순도 높은 광명석",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_14_1773372779915",
                 "name": "나무줄기 위에 놓인 광명석",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_15_1773372779915",
                 "name": "바아가 고안한 특수 장치",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_16_1773372779915",
                 "name": "사막의 모래를 닮은 석판",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_17_1773372779915",
                 "name": "물고기 모습을 한 고대 병기",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_18_1773372779915",
                 "name": "파괴된 광명석상",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_19_1773372779915",
                 "name": "파묻힌 카이브에 담긴 기록",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_20_1773372779915",
                 "name": "변형된 스텔라기아",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_21_1773372779915",
                 "name": "선로 근처에서 느껴지는 기운",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
@@ -3169,28 +3169,28 @@
                 "id": "npc_auto_0_1773372792629",
                 "name": "화려하게 빛나는 석판",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372792629",
                 "name": "튀어나온 벽돌",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372792629",
                 "name": "부서진 건축물",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372792629",
                 "name": "거대한 암벽 조각",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -3204,56 +3204,56 @@
                 "id": "npc_auto_5_1773372792629",
                 "name": "거대한 구조물을 받치고 있는 고목",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372792629",
                 "name": "하늘에서 내려온 뿌리",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372792629",
                 "name": "그리움으로 쌓아 올린 건축물",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372792629",
                 "name": "아치형 나무줄기 문",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372792629",
                 "name": "달빛이 머물렀던 곳",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372792629",
                 "name": "쓰러진 돌기둥",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372792629",
                 "name": "비밀스러운 지름길",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372792629",
                 "name": "나무뿌리가 얽힌 문",
                 "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "desc": "[DY & OY의 소소한 행복] ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
