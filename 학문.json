@@ -2482,22 +2482,22 @@
               {
                 "id": "npc_auto_1_1773372733545",
                 "name": "동굴 내의 온도",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/2hy5g/btq6Q6gXLsM/AAAAAAAAAAAAAAAAAAAAAJTNQ8erDwg9OXcpd3S-6ZJ3qYzNvRPLf7PfkX17fNqo/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=uFtcAkfOfQZWoW8NiYGu223MAjU%3D",
+                "desc": "[DY & OY의 소소한 행복] 바아의 창공에서 바아의 물음으로 가는 길을 따라 아래로 내려와서 동굴 안으로 들어가기 전 오른쪽에 있어요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372733545",
                 "name": "숨통을 죄여오는 공기",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/bLIU5F/btq6RNuI1Ci/AAAAAAAAAAAAAAAAAAAAAJN5VoXtS-gy_SNxaEtsvnAXce2-AdKxZIVkNwKRTHEj/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=vMwzxBKqO3dcMIB0q2hf2EInvuY%3D",
+                "desc": "[DY & OY의 소소한 행복] 바아의 창공에서 길을 따라 아래로 내려오면 왼쪽에 있는 작은 옹달샘 중앙에 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372733545",
                 "name": "바아마키아의 모래",
-                "detailImg": "",
-                "desc": "주변의 관련 서적을 읽거나 특정 오브젝트와 상호작용하여 획득",
+                "detailImg": "https://blog.kakaocdn.net/dna/RHsJZ/btq6Q6uBGld/AAAAAAAAAAAAAAAAAAAAACIQc1GM7MNuf6SfVsuASvbNzMrCJxzYOwbPzp6ftPed/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=OO1ds6iZbZRYUqSUqDSBvUBuCS0%3D",
+                "desc": "[DY & OY의 소소한 행복] 입구에서 길을 따라오다가 오른쪽 작은 관목 옆에 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
