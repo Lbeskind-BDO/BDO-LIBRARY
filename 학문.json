@@ -3167,92 +3167,99 @@
               {
                 "id": "npc_auto_0_1773372792629",
                 "name": "화려하게 빛나는 석판",
-                "detailImg": "",
-                "desc": "[DY & OY의 소소한 행복] ",
+                "detailImg": "https://blog.kakaocdn.net/dna/uib9t/btrR8sLlGgL/AAAAAAAAAAAAAAAAAAAAAE-o4xzCZJI_84hlicJjtdS0-9l5svLruEO3Qkj7p5I6/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=A7s3Isoe%2F2n0wyP2Z2RruXJbW88%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 물음 켈루오스가 나오는 곳 12시 방향에서 획득할 수 있어요. 지식을 획득하는 위치에 켈루오스가 젠되니 조심해 주세요. ",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372792629",
                 "name": "튀어나온 벽돌",
-                "detailImg": "",
-                "desc": "[DY & OY의 소소한 행복] ",
+                "detailImg": "https://blog.kakaocdn.net/dna/n0Ydk/btrR9FC8BiX/AAAAAAAAAAAAAAAAAAAAAHrdSnznEWRAwwwFikEmrzLiZi9JTGdXZQe_WrLjkCqE/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=V0x%2F3eK08OrNxYAZBevtMgPbWPY%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공에서 13번 비밀스러운 지름길로 가기 전에 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372792629",
                 "name": "부서진 건축물",
-                "detailImg": "",
-                "desc": "[DY & OY의 소소한 행복] ",
+                "detailImg": "https://blog.kakaocdn.net/dna/cKu5SD/btrSagJ2yex/AAAAAAAAAAAAAAAAAAAAABPJtewsdhRw2GY1f9J8C-ghA2Yg7RHgIXDrJKzOj24I/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=Dc4E%2BxWwRcnIK0Q6tIrTBn%2BoC%2BU%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 갈기 '요루나키아의 모험일지 II - 올룬족의 풍습 IV' 왼쪽에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372792629",
                 "name": "거대한 암벽 조각",
-                "detailImg": "",
-                "desc": "[DY & OY의 소소한 행복] ",
+                "detailImg": "https://blog.kakaocdn.net/dna/En7gE/btrR9vnocDc/AAAAAAAAAAAAAAAAAAAAAHLy2GJ1T3hNYGlS_8H8oTvW3ORafKD3B2DTSBtPwz7_/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=Snso6VnzaU931OToMF2xW%2BGDcwY%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 이빨 세베카루크를 처치하는 구역의 입구 오른쪽 벽에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372792629",
                 "name": "썩기 시작한 덩굴",
-                "detailImg": "",
-                "desc": "오래된 유적이나 나무 기둥의 덩굴 조사",
+                "detailImg": "https://blog.kakaocdn.net/dna/Ckvt2/btrSahhQNmY/AAAAAAAAAAAAAAAAAAAAAOQ_NlW1PSR9vbgwguARpE98SM37Dt9q6OpWq56rhuXT/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=r5x46RVAxHwL9YBxPXO%2FhyctBm4%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공에 입장하자마자 왼쪽 벽을 타고 올라오면 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372792629",
                 "name": "거대한 구조물을 받치고 있는 고목",
-                "detailImg": "",
-                "desc": "[DY & OY의 소소한 행복] ",
+                "detailImg": "https://blog.kakaocdn.net/dna/EANlW/btrR9u25m3S/AAAAAAAAAAAAAAAAAAAAAPro-8T-WvFX1K-rERtndXf5fhzbSHT07qzsu1EJ7LNm/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=LLyQWJO9G3B0ylxgFh3Q%2F0XfXPo%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 갈기 '요루나키아의 모험일지 II - 드러난 뿌리'가 내려다보이는 곳에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773372792629",
                 "name": "하늘에서 내려온 뿌리",
-                "detailImg": "",
-                "desc": "[DY & OY의 소소한 행복] ",
+                "detailImg": "https://blog.kakaocdn.net/dna/RtGUU/btrR9NnRlyQ/AAAAAAAAAAAAAAAAAAAAAGq4n5seMav_NJUImU4Ie67So1-aaWYafUUYbb5knGzj/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=iCZaiPmhv5QVDUGhW2r%2B%2FY7UZWQ%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 물음 켈루오스가 나오는 구역의 5시 방향에서 획득할 수 있어요. 고대 공학 III - 바아가 고안한 특수 장치 오른쪽 편입니다. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773372792629",
                 "name": "그리움으로 쌓아 올린 건축물",
-                "detailImg": "",
-                "desc": "[DY & OY의 소소한 행복] ",
+                "detailImg": "https://blog.kakaocdn.net/dna/7ioVs/btrSdaI3fCu/AAAAAAAAAAAAAAAAAAAAALhru8VCsyRLcvX3B3wn9rzXKjKngqlqXV7LvBpUaNy7/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=VBYpQ%2BZaQ0igm%2Bmvbztu4PJUd2M%3D|https://blog.kakaocdn.net/dna/MWXki/btrR8oCNKBd/AAAAAAAAAAAAAAAAAAAAAHhJ5svf8X9Uzmdguuxn5OgxreI4_uwl-MM8uFWpi9QE/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=tKwxGEhqk%2FBdTqwcgM0fspYJKJE%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 갈기 5시 방향의 구조물에서 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_17733727926291",
+                "name": "태양을 그린 석판",
+                "detailImg": "https://blog.kakaocdn.net/dna/sCpIR/btrSb9XWdkZ/AAAAAAAAAAAAAAAAAAAAAPxIwVxkMek9nwoRgYqkP_Regj5ES-1soh9WcnNrAXem/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=NykuaYatbInURNVc%2F4uZzQ%2Bd8kQ%3D",
+                "desc": "[DY & OY의 소소한 행복] [아토락시온] 요루의 태양 메인 의뢰를 진행중일 때나 요루의 물음 구역의 켈루오스 3마리를 15초 이내에 전부 처치하면 가운데에 있는 '태양 통제 타워'가 파란빛을 띠며 활성화됩니다. 파란빛을 띨 때 상호작용이 가능하고 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773372792629",
                 "name": "아치형 나무줄기 문",
-                "detailImg": "",
-                "desc": "[DY & OY의 소소한 행복] ",
+                "detailImg": "https://blog.kakaocdn.net/dna/9uRjl/btrR9W54UEd/AAAAAAAAAAAAAAAAAAAAAFe7sHrv_oLKScprz389eQampMqeweye1pgCl634B-xW/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=yQcwzB3YuxnSK9HkFiGoIP4g1lk%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 갈기 '요루나키아의 모험일지 II - 올룬족의 풍습 II' 건너에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773372792629",
                 "name": "달빛이 머물렀던 곳",
-                "detailImg": "",
-                "desc": "[DY & OY의 소소한 행복] ",
+                "detailImg": "https://blog.kakaocdn.net/dna/yNt6l/btrSardHQeF/AAAAAAAAAAAAAAAAAAAAAAJMhOyh7N3j06cI3iud9lluWTw_vwkVqLZsKaUyYs7K/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=EqcRaHkUh23OQIycR9Q2HjeNeiI%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 갈기 8번 그리움을 쌓아 올린 건축물의 지식을 획득할 수 있는 구조물을 타고 올라오면 보이는 아치형 문에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773372792629",
                 "name": "쓰러진 돌기둥",
-                "detailImg": "",
-                "desc": "[DY & OY의 소소한 행복] ",
+                "detailImg": "https://blog.kakaocdn.net/dna/uhtK6/btrSasKsQMW/AAAAAAAAAAAAAAAAAAAAAIkX4ZypWES1CRWiRq7O-bgQrjrjZiw1iLRtzTJAjVES/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=DieDfFg4EqrXcROhfUtyo1YZb0k%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공의 아랫길로 가는 길목의 쓰러진 구조물에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773372792629",
                 "name": "비밀스러운 지름길",
-                "detailImg": "",
-                "desc": "[DY & OY의 소소한 행복] ",
+                "detailImg": "https://blog.kakaocdn.net/dna/bUt2ni/btrR9dHhTPt/AAAAAAAAAAAAAAAAAAAAADdFZ_XbUND5JQ1Ud-50-SfMBBsirtXla7LCcQPHyXlI/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=PQsXEuT2EnPzHyZF8j7YbrE8B7c%3D|https://blog.kakaocdn.net/dna/cMk4bp/btrR9NnR7ld/AAAAAAAAAAAAAAAAAAAAAIT0WfxE7fSHWjDVU_4Rgr-1_VtpzUxVSS5CgFC_tjWt/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=qcdA27Sz9ANiRYjUuydoU3Ke5cc%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공 아랫길에 '튀어나온 벽돌'과 '드러난 나무뿌리'가 있는 곳 사이에 있는 길로 진입하여 끝까지 들어가면 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요. 드러난 나무뿌리 지식 위치에서 봤을 때 화살표 방향으로 직진합니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773372792629",
                 "name": "나무뿌리가 얽힌 문",
-                "detailImg": "",
-                "desc": "[DY & OY의 소소한 행복] ",
+                "detailImg": "https://blog.kakaocdn.net/dna/bMlS4v/btrSaIM7kSp/AAAAAAAAAAAAAAAAAAAAAEXNEjDhU8TV8B3m2zGM-tcHccOgxiNWZN7E3E97lwaC/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=7YKqXgNIgt1f3mpTWcHS4JYEtaw%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 발톱에서 요루의 물음으로 넘어가는 입구에 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
