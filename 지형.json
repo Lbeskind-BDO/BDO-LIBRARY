@@ -16,6 +16,20 @@
             "energy": 4,
             "items": [
               {
+                "id": "npc_auto_0_17731489361321",
+                "name": "시크라이아 유적 하층부",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41254",
+                "desc": "[대화] 고르민과 대화로 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_0_17731489361322",
+                "name": "시크라이아 유적 상층부",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char41251",
+                "desc": "[대화] 루아르네와 대화로 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
                 "id": "npc_auto_0_1773148936132",
                 "name": "해안 절벽에 숨겨진 동굴",
                 "detailImg": "",
