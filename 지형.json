@@ -32,78 +32,78 @@
               {
                 "id": "npc_auto_0_1773148936132",
                 "name": "해안 절벽에 숨겨진 동굴",
-                "detailImg": "",
-                "desc": "해안 절벽 거점 근처의 숨겨진 동굴 진입 시 지형 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50002",
+                "desc": "[대화] 안드레이와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773148936132",
                 "name": "고블린 동굴",
-                "detailImg": "",
-                "desc": "고블린 동굴 거점 내부를 직접 탐험 시 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50012",
+                "desc": "[대화, 탐험] 고블린 석화와 대화 또는 해당 위치 근처로 이동 후 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773148936132",
                 "name": "델루치 농장",
-                "detailImg": "",
-                "desc": "발레노스 숲 인근 델루치 농장 거점 발견 시 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40031",
+                "desc": "[대화] 다프네 델루치와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773148936132",
                 "name": "마리노 농장 창고",
-                "detailImg": "",
-                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40101",
+                "desc": "[친밀도 251] 로반트 마리노_마티나 핀토 - 세베로 로기아 - 다프네 델루치 - 봉골",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773148936132",
                 "name": "마리노 농장",
-                "detailImg": "",
-                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40101",
+                "desc": "[탐험] 해당 위치 근처로 이동 후 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773148936132",
                 "name": "고대인의 석실",
-                "detailImg": "",
-                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char44136",
+                "desc": "[탐험] 검사인들이 세상에 눈을 뜨면 얻는 지식",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773148936132",
                 "name": "토스카니 농장",
-                "detailImg": "",
-                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40030",
+                "desc": "[대화] 오비디오 토스카니와 대화로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773148936132",
                 "name": "해안 동굴",
-                "detailImg": "",
-                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40128",
+                "desc": "[탐험] 해당 위치 근처로 이동 후 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773148936132",
                 "name": "아그리스 제단",
-                "detailImg": "",
-                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40047",
+                "desc": "[탐험] 해당 위치 근처로 이동 후 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773148936132",
                 "name": "임프 동굴",
-                "detailImg": "",
-                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50001",
+                "desc": "[탐험] 해당 위치 근처로 이동 후 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773148936132",
                 "name": "로기아 농장",
-                "detailImg": "",
-                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char40026",
+                "desc": "[탐험] 해당 위치 근처로 이동 후 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
