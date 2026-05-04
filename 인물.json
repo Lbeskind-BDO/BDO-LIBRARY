@@ -6414,6 +6414,13 @@
             "energy": 2,
             "items": [
               {
+              "id": "npc_auto_0_1773147996874",
+                "name": "자이드",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/자이드1.png|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/자이드2.png",
+                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
                 "id": "npc_auto_0_1773147996874",
                 "name": "아야즈",
                 "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char47696",
