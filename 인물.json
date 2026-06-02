@@ -1628,7 +1628,7 @@
               {
                 "id": "npc_auto_0_177314778346125",
                 "name": "리처드",
-                "detailImg": "https://github.com/Lbeskind-BDO/BDO-LIBRARY/blob/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EB%A6%AC%EC%B2%98%EB%93%9C.png",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EC%9D%B8%EB%AC%BC%20%EC%9C%84%EC%B9%98/%EB%A6%AC%EC%B2%98%EB%93%9C.png",
                 "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
