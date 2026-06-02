@@ -3377,14 +3377,14 @@
               {
                 "id": "npc_auto_0_177337277991115",
                 "name": "오르의 뿌리, 오르의 밑동, 오르의 꽃잎, 오르의 덩굴, 오르의 정원에서 획득 가능한 지식 위치",
-                "detailImg": "<iframe src='https://drive.google.com/file/d/1mlXmgkMeZ7pZ2VNUwFq3ZbynOC_4irA1/preview' width='640' height='360' allow='autoplay'></iframe>|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20IV/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20IV/%EC%98%A4%EB%A5%B4%EC%9D%98%20%EB%BF%8C%EB%A6%AC%2C%20%EC%98%A4%EB%A5%B4%EC%9D%98%20%EB%B0%91%EB%8F%99%2C%20%EC%98%A4%EB%A5%B4%EC%9D%98%20%EA%BD%83%EC%9E%8E%2C%20%EC%98%A4%EB%A5%B4%EC%9D%98%20%EB%8D%A9%EA%B5%B4%2C%20%EC%98%A4%EB%A5%B4%EC%9D%98%20%EC%A0%95%EC%9B%90%EC%97%90%EC%84%9C%20%ED%9A%8D%EB%93%9D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%A7%80%EC%8B%9D%20%EC%9C%84%EC%B9%98.jpg",
+                "detailImg": "<iframe src='https://drive.google.com/file/d/1mlXmgkMeZ7pZ2VNUwFq3ZbynOC_4irA1/preview' width='640' height='360' allow='autoplay'></iframe>",
                 "desc": "[DY & OY의 소소한 행복] ★중요_저는 오르제키아의 지식작을 하기에 앞서 오르제키아 의뢰를 완료하고 '아토락시온 - 최후의 고서'를 장착한 상태로 진행했어요.오르제키아 의뢰가 선행 조건이 있는게 있다 보니 의뢰를 전부 하고 난 다음에 지식작을 진행하는 걸 추천합니다.★|9분 16초에 오르의 정원에서 획득 가능한 '빛이 새어나오는 발판'의 위치가 영상보다 앞에 있는 계단으로 변경되었습니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_177337277945915",
                 "name": "오르의 요람에서 획득 가능한 지식 위치",
-                "detailImg": "<iframe src='https://drive.google.com/file/d/15u89Ml4QoS8sw59eXoS0lPbUOd85jTDw/preview' width='640' height='360' allow='autoplay'></iframe>|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20IV/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20IV/%EC%98%A4%EB%A5%B4%EC%9D%98%20%EC%9A%94%EB%9E%8C%EC%97%90%EC%84%9C%20%ED%9A%8D%EB%93%9D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%A7%80%EC%8B%9D%20%EC%9C%84%EC%B9%98_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20IV/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20IV/%EC%98%A4%EB%A5%B4%EC%9D%98%20%EC%9A%94%EB%9E%8C%EC%97%90%EC%84%9C%20%ED%9A%8D%EB%93%9D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%A7%80%EC%8B%9D%20%EC%9C%84%EC%B9%98_2.jpg",
+                "detailImg": "<iframe src='https://drive.google.com/file/d/15u89Ml4QoS8sw59eXoS0lPbUOd85jTDw/preview' width='640' height='360' allow='autoplay'></iframe>",
                 "desc": "[DY & OY의 소소한 행복] 오르제키아는 오르의 요람에서 획득할 수 있는 지식들이 많았습니다. 지식을 획득할 수 있는 오르의 요람은 메인 의뢰를 진행한 캐릭터로만 입장할 수 있습니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
