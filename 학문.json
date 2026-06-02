@@ -3363,6 +3363,340 @@
             ]
           }
         ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 고대 공학 IV",
+        "name": "학문 > 고대 공학 IV",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_고대 공학 IV",
+            "name": "고대 공학 IV",
+            "energy": "",
+            "items": [
+              {
+                "id": "npc_auto_0_177337277991115",
+                "name": "오르의 뿌리, 오르의 밑동, 오르의 꽃잎, 오르의 덩굴, 오르의 정원에서 획득 가능한 지식 위치",
+                "detailImg": "https://youtu.be/mdghPGh7f4k?si=9qeQyaai_aFV0QIj",
+                "desc": "[DY & OY의 소소한 행복] ★중요_저는 오르제키아의 지식작을 하기에 앞서 오르제키아 의뢰를 완료하고 '아토락시온 - 최후의 고서'를 장착한 상태로 진행했어요.★",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773372779915",
+                "name": "요루의 눈",
+                "detailImg": "https://blog.kakaocdn.net/dna/ceItxe/btrSaKrEWeA/AAAAAAAAAAAAAAAAAAAAAEooDRAa6-1tlr4UNWFWMuPe9d80ccCQKITgR0mR7gAG/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=aH6ueZ3KzuertmwJyWjv02ihhfI%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루나키아 도착 지점에 있는 요루의 눈에서 획득할 수 있어요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773372779915",
+                "name": "신선한 물의 비결",
+                "detailImg": "https://blog.kakaocdn.net/dna/cfa9Y0/btrSeiOILnb/AAAAAAAAAAAAAAAAAAAAAM3-LX8VXJiwicdu8JhQEBbl3ZZS1Nw7L_JDGYhbJ9Ef/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=bXb9%2Fbl3xr2c1YXyur8oBlsEs1M%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 갈기 '요루나키아의 모험일지 I - 발굽꼬리풀'쪽의 물을 수영해서 들어가면 모서리 부분에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773372779915",
+                "name": "안정성을 개선한 카이벨란 선로",
+                "detailImg": "https://blog.kakaocdn.net/dna/dD9o2j/btrSbSwf8cw/AAAAAAAAAAAAAAAAAAAAAO0iMJL6ZdZ9Md9ecFHanxvphDgI5ujS9SyVi6bAFtC0/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=4CLO6dHlFhYwJpCdxsxlLGaMOi0%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공 아랫길쪽 가운데 구조물 앞에서 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773372779915",
+                "name": "빛이 나는 문",
+                "detailImg": "https://blog.kakaocdn.net/dna/mJXbN/btrSeO7YCPb/AAAAAAAAAAAAAAAAAAAAADf8qv0CfDZFbxhjrPoV_0Xz2jM_lbIEdewpEU_iVvQI/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=KmYAYAWNuOyjbB0qgqvwBMTwhw0%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 꼬리 되돌릴 수 없는 실타래를 하는 곳에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773372779915",
+                "name": "굴러떨어진 병기 조각",
+                "detailImg": "https://blog.kakaocdn.net/dna/bCGwaf/btrSdaQYnTQ/AAAAAAAAAAAAAAAAAAAAAN2vJXfH_lP2Av9DVxdy_z28jDAD-vXQyvAOnTl2TQv_/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=LLO1NGJNyRgnV%2Fut4f2EqLjEvqA%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공 등가 보급소 근처에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773372779915",
+                "name": "곡선형으로 개조된 카이벨란 선로",
+                "detailImg": "https://blog.kakaocdn.net/dna/WLfwc/btrScap9BRU/AAAAAAAAAAAAAAAAAAAAAPeKsVKg3uSL1KCfrrwfk9fmJhaSSbiQLT9xnHRpWg_N/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=lBQbJ6bZvorFZGY3xCUITbxqLg0%3D|https://blog.kakaocdn.net/dna/bfKCNZ/btrSf9xhVbX/AAAAAAAAAAAAAAAAAAAAAB4D4X93aFCJtPDVihqwSSCui1xn3UT7nAaam92TNDN0/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=MRqXeSSZxotk8C6gdPWC9RUy95c%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공에서 '고대 건축학 III - 썩기 시작한 덩굴' 지식을 획득할 수 있는 벽을 타고 올라와서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요. 위치를 찾기가 어렵다면 영상을 올린 요루나키아 지식 획득하기 글의 영상을 참고해 주시면 될 거 같아요. 해당 영상은 모험일지 - 아토락시온의 일지 - 요루나키아의 모험일지I 첫번째 지식에 두었습니다.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773372779915",
+                "name": "끊어진 카이벨란 선로",
+                "detailImg": "https://blog.kakaocdn.net/dna/bsxqgZ/btrSjoU0VpT/AAAAAAAAAAAAAAAAAAAAAGanp2GPLuw4c83jniwt5LvbBWnhwzUDBwqNWcp0vKvk/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=iy%2FmlA4ITFJYLQPF9bAZNmss8II%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 갈기 '고대 건축학 III -  그리움을 쌓아 올린 건축물'의 지식을 획득할 수 있는 구조물을 타고 올라오면 끝부분에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773372779915",
+                "name": "고대 카이벨란 선로",
+                "detailImg": "https://blog.kakaocdn.net/dna/cmxoXZ/btrSf2kFE6n/AAAAAAAAAAAAAAAAAAAAAKdBfmgz_WaXoveUY2B7hr1Js1hzXDn0r94WcNn891rZ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=%2FslIREmMjP%2FjoxLEIWib%2Bv5TvbA%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공에서 '고대 건축학 III - 썩기 시작한 덩굴' 지식을 획득할 수 있는 벽을 타고 올라와서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요. 위치를 찾기가 어렵다면 영상을 올린 요루나키아 지식 획득하기 글의 영상을 참고해 주시면 될 거 같아요. 해당 영상은 모험일지 - 아토락시온의 일지 - 요루나키아의 모험일지I 첫번째 지식에 두었습니다."
+              },
+              {
+                "id": "npc_auto_9_1773372779915",
+                "name": "빛이 새어 나오는 건축물",
+                "detailImg": "https://blog.kakaocdn.net/dna/AEiN3/btrShAOY97b/AAAAAAAAAAAAAAAAAAAAAMG3BJKJURrP22zYro8HiuaWTqG6ZEsVHXD9J4ZKj-kx/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=iZg0EZZwy3JKcRxn%2FAQMrTm%2FTn4%3D|https://blog.kakaocdn.net/dna/bf4l0j/btrSju101Lz/AAAAAAAAAAAAAAAAAAAAAISE51urPEwb15T2cN2KqvsZ0H7qoTFZrVYQwuRnxmMr/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=soF5pW3lrI1rgHp5hX6ZfHAHfm4%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공 '요루나키아의 모험일지 II - 사랑을 속삭인 곳' 뒤에 있는 구조물에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773372779915",
+                "name": "동력이 바닥난 병기",
+                "detailImg": "https://blog.kakaocdn.net/dna/RatDF/btrSkCFwBQb/AAAAAAAAAAAAAAAAAAAAABS4JbBr4sy2_hD8yKMkZG82i9rj4NdzZfn46Zon9R9t/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=i%2F7hOuPWH1MfvRW2OdFjOOGug%2Fc%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공 등가 보급소 근처에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773372779915",
+                "name": "암벽 사이로 내리는 빛",
+                "detailImg": "https://blog.kakaocdn.net/dna/J8j9o/btrSjogtj4s/AAAAAAAAAAAAAAAAAAAAAEMzRdUPa5prr94BHwbvLkwBOdGKIk8K4td2lhazNJ9L/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=03UXQCmpSNF73FxyWJ4f6yrm1NA%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루나키아 도착 지점 3시 방향 나무에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773372779915",
+                "name": "광명석의 부작용",
+                "detailImg": "https://blog.kakaocdn.net/dna/YT19Z/btrSagYQtOp/AAAAAAAAAAAAAAAAAAAAAMPDpehQ5BIQnnUjbBD-B7rxw66wcvOfQd0FEbuhGECS/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=sZLJS7zBbvMas%2F%2F8%2BOLus5XRwfw%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 이빨 입구에서 내려오는 길에서 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773372779915",
+                "name": "순도 높은 광명석",
+                "detailImg": "https://blog.kakaocdn.net/dna/bxHPkl/btrSdaczv8d/AAAAAAAAAAAAAAAAAAAAAFO1PiXfcZn5KFQeXstfY1rJcqQKO05SohGj3BIqYhzs/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=c%2B3HVKpLV7pwS4az1Nzxyp7Vod8%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루나키아 도착 지점에서 길을 따라가다 왼쪽에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773372779915",
+                "name": "나무줄기 위에 놓인 광명석",
+                "detailImg": "https://blog.kakaocdn.net/dna/kVjSy/btrShAVOTo0/AAAAAAAAAAAAAAAAAAAAADdRAm70csY_Tp0Y8yyuttWSfYgjJSy68gz0b3u4-E9S/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=4GC6pQGDjBOs5exhcw%2BgbwbIVQs%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루나키아 도착 지점에서 길을 따라가다 오른쪽에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_15_1773372779915",
+                "name": "바아가 고안한 특수 장치",
+                "detailImg": "https://blog.kakaocdn.net/dna/1PGje/btrShG9CnUV/AAAAAAAAAAAAAAAAAAAAAPTqyWkl5KErdjkmzHZ6opnRscADDzHugvkQmBxpg5wQ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=8btTzgAlVRviM4v7Y2cXQcAmtsg%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 물음 솔마기아 근처에서 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_16_1773372779915",
+                "name": "사막의 모래를 닮은 석판",
+                "detailImg": "https://blog.kakaocdn.net/dna/dlad5L/btrSlnVJHTJ/AAAAAAAAAAAAAAAAAAAAAOJLJ91u-VfNKIJR6tTmoA8EeVQpUEKVYkJ5lxcpoLnM/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=x%2BAb%2FMyE4w7%2B7bczCGzOqOMyIZE%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 척추 레크라 브흐마를 처치하는 곳 6시 방향에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_17_1773372779915",
+                "name": "물고기 모습을 한 고대 병기",
+                "detailImg": "https://blog.kakaocdn.net/dna/bN0IQb/btrSf3Ymu2H/AAAAAAAAAAAAAAAAAAAAAD_HbsdpX3B5AP4iP56LHCh2zbNdWWzoHcpHCj4q62I_/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=%2Fe3KnSuUrYnkIJzUhmbDTK%2BLpyk%3D|https://blog.kakaocdn.net/dna/x6Zhs/btrSf9K1eb8/AAAAAAAAAAAAAAAAAAAAADlSe3n1lKhXUBjKsf3yNJkHu_IthlLklsTciRNA4lJ2/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=zRxJ7pPwInrb84StH0dljLYoD28%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 갈기 2시 방향 물 속에 보면 물고기 모양의 몬스터인 라트론한테서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_18_1773372779915",
+                "name": "파괴된 광명석상",
+                "detailImg": "https://blog.kakaocdn.net/dna/218Os/btrSaIHL88M/AAAAAAAAAAAAAAAAAAAAAJAI5ptCag7iIZppqIswbxLUdNqhYeVjB8MqtGrqzzH-/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=Jbb%2FzqCE21ZpaMX7T9YM7LAAUb4%3D|https://blog.kakaocdn.net/dna/np8r0/btrShINjoAo/AAAAAAAAAAAAAAAAAAAAAO0gCSWIRaZ5bdJurIyfiJKMMYS0xl1KFCcZDz9Grdn_/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=SibwQ4heAtpzLuOHxMor4IlFKEg%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 이빨 세베카루크를 소환하는 태양 통제 타워 뒤편 10시 방향에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_19_1773372779915",
+                "name": "파묻힌 카이브에 담긴 기록",
+                "detailImg": "https://blog.kakaocdn.net/dna/bXcJuP/btrSljzgnn7/AAAAAAAAAAAAAAAAAAAAABLrNqMQ3sTgNtqqykTB9D1mPhS9irp8_yw7B0qEKRXL/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=Zo2DidoIASkn41%2ByNyLxh3UIs3Y%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 이빨 입구에서 내려와서 솔마기아 옆에서 획득할 수 있어요. 13번 광명석의 부작용 옆이에요. 지식 획득 시 기운 30이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_20_1773372779915",
+                "name": "변형된 스텔라기아",
+                "detailImg": "https://blog.kakaocdn.net/dna/oeGzv/btrShBndkal/AAAAAAAAAAAAAAAAAAAAAOH_QfmpAMKLQKi41FT17Gvwzz3mnWOsW409D7PcPLeG/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=j8e%2Fj1uu2zNJP1lAlL7rB7%2BDPE4%3D|https://blog.kakaocdn.net/dna/bYoISZ/btrSHXbv331/AAAAAAAAAAAAAAAAAAAAAHqRGYts0aNmFrqGXufENvRy4s8WtNh751OacW3SPBr1/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=nlpLT6oQCimMd%2FjYJt3bnMLNGzk%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 이빨 12시 방향 벽의 구조물에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_21_1773372779915",
+                "name": "선로 근처에서 느껴지는 기운",
+                "detailImg": "https://blog.kakaocdn.net/dna/bIKiQu/btrSf95BEBE/AAAAAAAAAAAAAAAAAAAAAL5aLFfTLJqibfhlUIKFucHg0V9DwCdOZvLDkfyvYOCi/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=4t4AkWwSpxmwywfOIhmE36zFsvA%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공 2시 방향 벽을 타고 올라가면 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reg_1773372796_학문 > 고대 건축학 IV",
+        "name": "학문 > 고대 건축학 IV",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1773372796_고대 건축학 IV",
+            "name": "고대 건축학 IV",
+            "energy": "",
+            "items": [
+              {
+                "id": "npc_auto_0_1773372779915",
+                "name": "인공적으로 만들어 낸 폭포 줄기",
+                "detailImg": "https://blog.kakaocdn.net/dna/yzIRC/btrSagElHHS/AAAAAAAAAAAAAAAAAAAAAITugIcyqD7PWifAWd7kwP_tPP7tDH6hw83R8A6TN5tO/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=f8v6hKBq2HMrwyClL81mq1p6jmA%3D",
+                "desc": "[DY & OY의 소소한 행복] ★중요_저는 바아마키아, 시카라키아의 지식(대주제 모험일지 포함) 전부 획득하고, 바아의 실타래 지식을 획득 후 흑정령 의뢰로'아토락시온-최후의 고서'를 착용하고 아래의 지식작을 진행하시기 바랍니다.★ 요루의 발톱 끝이 보이지 않는 실타래를 하는 곳에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1773372779915",
+                "name": "요루의 눈",
+                "detailImg": "https://blog.kakaocdn.net/dna/ceItxe/btrSaKrEWeA/AAAAAAAAAAAAAAAAAAAAAEooDRAa6-1tlr4UNWFWMuPe9d80ccCQKITgR0mR7gAG/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=aH6ueZ3KzuertmwJyWjv02ihhfI%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루나키아 도착 지점에 있는 요루의 눈에서 획득할 수 있어요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1773372779915",
+                "name": "신선한 물의 비결",
+                "detailImg": "https://blog.kakaocdn.net/dna/cfa9Y0/btrSeiOILnb/AAAAAAAAAAAAAAAAAAAAAM3-LX8VXJiwicdu8JhQEBbl3ZZS1Nw7L_JDGYhbJ9Ef/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=bXb9%2Fbl3xr2c1YXyur8oBlsEs1M%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 갈기 '요루나키아의 모험일지 I - 발굽꼬리풀'쪽의 물을 수영해서 들어가면 모서리 부분에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1773372779915",
+                "name": "안정성을 개선한 카이벨란 선로",
+                "detailImg": "https://blog.kakaocdn.net/dna/dD9o2j/btrSbSwf8cw/AAAAAAAAAAAAAAAAAAAAAO0iMJL6ZdZ9Md9ecFHanxvphDgI5ujS9SyVi6bAFtC0/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=4CLO6dHlFhYwJpCdxsxlLGaMOi0%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공 아랫길쪽 가운데 구조물 앞에서 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1773372779915",
+                "name": "빛이 나는 문",
+                "detailImg": "https://blog.kakaocdn.net/dna/mJXbN/btrSeO7YCPb/AAAAAAAAAAAAAAAAAAAAADf8qv0CfDZFbxhjrPoV_0Xz2jM_lbIEdewpEU_iVvQI/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=KmYAYAWNuOyjbB0qgqvwBMTwhw0%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 꼬리 되돌릴 수 없는 실타래를 하는 곳에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1773372779915",
+                "name": "굴러떨어진 병기 조각",
+                "detailImg": "https://blog.kakaocdn.net/dna/bCGwaf/btrSdaQYnTQ/AAAAAAAAAAAAAAAAAAAAAN2vJXfH_lP2Av9DVxdy_z28jDAD-vXQyvAOnTl2TQv_/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=LLO1NGJNyRgnV%2Fut4f2EqLjEvqA%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공 등가 보급소 근처에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1773372779915",
+                "name": "곡선형으로 개조된 카이벨란 선로",
+                "detailImg": "https://blog.kakaocdn.net/dna/WLfwc/btrScap9BRU/AAAAAAAAAAAAAAAAAAAAAPeKsVKg3uSL1KCfrrwfk9fmJhaSSbiQLT9xnHRpWg_N/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=lBQbJ6bZvorFZGY3xCUITbxqLg0%3D|https://blog.kakaocdn.net/dna/bfKCNZ/btrSf9xhVbX/AAAAAAAAAAAAAAAAAAAAAB4D4X93aFCJtPDVihqwSSCui1xn3UT7nAaam92TNDN0/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=MRqXeSSZxotk8C6gdPWC9RUy95c%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공에서 '고대 건축학 III - 썩기 시작한 덩굴' 지식을 획득할 수 있는 벽을 타고 올라와서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요. 위치를 찾기가 어렵다면 영상을 올린 요루나키아 지식 획득하기 글의 영상을 참고해 주시면 될 거 같아요. 해당 영상은 모험일지 - 아토락시온의 일지 - 요루나키아의 모험일지I 첫번째 지식에 두었습니다.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1773372779915",
+                "name": "끊어진 카이벨란 선로",
+                "detailImg": "https://blog.kakaocdn.net/dna/bsxqgZ/btrSjoU0VpT/AAAAAAAAAAAAAAAAAAAAAGanp2GPLuw4c83jniwt5LvbBWnhwzUDBwqNWcp0vKvk/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=iy%2FmlA4ITFJYLQPF9bAZNmss8II%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 갈기 '고대 건축학 III -  그리움을 쌓아 올린 건축물'의 지식을 획득할 수 있는 구조물을 타고 올라오면 끝부분에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1773372779915",
+                "name": "고대 카이벨란 선로",
+                "detailImg": "https://blog.kakaocdn.net/dna/cmxoXZ/btrSf2kFE6n/AAAAAAAAAAAAAAAAAAAAAKdBfmgz_WaXoveUY2B7hr1Js1hzXDn0r94WcNn891rZ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=%2FslIREmMjP%2FjoxLEIWib%2Bv5TvbA%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공에서 '고대 건축학 III - 썩기 시작한 덩굴' 지식을 획득할 수 있는 벽을 타고 올라와서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요. 위치를 찾기가 어렵다면 영상을 올린 요루나키아 지식 획득하기 글의 영상을 참고해 주시면 될 거 같아요. 해당 영상은 모험일지 - 아토락시온의 일지 - 요루나키아의 모험일지I 첫번째 지식에 두었습니다."
+              },
+              {
+                "id": "npc_auto_9_1773372779915",
+                "name": "빛이 새어 나오는 건축물",
+                "detailImg": "https://blog.kakaocdn.net/dna/AEiN3/btrShAOY97b/AAAAAAAAAAAAAAAAAAAAAMG3BJKJURrP22zYro8HiuaWTqG6ZEsVHXD9J4ZKj-kx/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=iZg0EZZwy3JKcRxn%2FAQMrTm%2FTn4%3D|https://blog.kakaocdn.net/dna/bf4l0j/btrSju101Lz/AAAAAAAAAAAAAAAAAAAAAISE51urPEwb15T2cN2KqvsZ0H7qoTFZrVYQwuRnxmMr/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=soF5pW3lrI1rgHp5hX6ZfHAHfm4%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공 '요루나키아의 모험일지 II - 사랑을 속삭인 곳' 뒤에 있는 구조물에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1773372779915",
+                "name": "동력이 바닥난 병기",
+                "detailImg": "https://blog.kakaocdn.net/dna/RatDF/btrSkCFwBQb/AAAAAAAAAAAAAAAAAAAAABS4JbBr4sy2_hD8yKMkZG82i9rj4NdzZfn46Zon9R9t/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=i%2F7hOuPWH1MfvRW2OdFjOOGug%2Fc%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공 등가 보급소 근처에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1773372779915",
+                "name": "암벽 사이로 내리는 빛",
+                "detailImg": "https://blog.kakaocdn.net/dna/J8j9o/btrSjogtj4s/AAAAAAAAAAAAAAAAAAAAAEMzRdUPa5prr94BHwbvLkwBOdGKIk8K4td2lhazNJ9L/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=03UXQCmpSNF73FxyWJ4f6yrm1NA%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루나키아 도착 지점 3시 방향 나무에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1773372779915",
+                "name": "광명석의 부작용",
+                "detailImg": "https://blog.kakaocdn.net/dna/YT19Z/btrSagYQtOp/AAAAAAAAAAAAAAAAAAAAAMPDpehQ5BIQnnUjbBD-B7rxw66wcvOfQd0FEbuhGECS/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=sZLJS7zBbvMas%2F%2F8%2BOLus5XRwfw%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 이빨 입구에서 내려오는 길에서 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1773372779915",
+                "name": "순도 높은 광명석",
+                "detailImg": "https://blog.kakaocdn.net/dna/bxHPkl/btrSdaczv8d/AAAAAAAAAAAAAAAAAAAAAFO1PiXfcZn5KFQeXstfY1rJcqQKO05SohGj3BIqYhzs/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=c%2B3HVKpLV7pwS4az1Nzxyp7Vod8%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루나키아 도착 지점에서 길을 따라가다 왼쪽에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_14_1773372779915",
+                "name": "나무줄기 위에 놓인 광명석",
+                "detailImg": "https://blog.kakaocdn.net/dna/kVjSy/btrShAVOTo0/AAAAAAAAAAAAAAAAAAAAADdRAm70csY_Tp0Y8yyuttWSfYgjJSy68gz0b3u4-E9S/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=4GC6pQGDjBOs5exhcw%2BgbwbIVQs%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루나키아 도착 지점에서 길을 따라가다 오른쪽에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_15_1773372779915",
+                "name": "바아가 고안한 특수 장치",
+                "detailImg": "https://blog.kakaocdn.net/dna/1PGje/btrShG9CnUV/AAAAAAAAAAAAAAAAAAAAAPTqyWkl5KErdjkmzHZ6opnRscADDzHugvkQmBxpg5wQ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=8btTzgAlVRviM4v7Y2cXQcAmtsg%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 물음 솔마기아 근처에서 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_16_1773372779915",
+                "name": "사막의 모래를 닮은 석판",
+                "detailImg": "https://blog.kakaocdn.net/dna/dlad5L/btrSlnVJHTJ/AAAAAAAAAAAAAAAAAAAAAOJLJ91u-VfNKIJR6tTmoA8EeVQpUEKVYkJ5lxcpoLnM/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=x%2BAb%2FMyE4w7%2B7bczCGzOqOMyIZE%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 척추 레크라 브흐마를 처치하는 곳 6시 방향에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_17_1773372779915",
+                "name": "물고기 모습을 한 고대 병기",
+                "detailImg": "https://blog.kakaocdn.net/dna/bN0IQb/btrSf3Ymu2H/AAAAAAAAAAAAAAAAAAAAAD_HbsdpX3B5AP4iP56LHCh2zbNdWWzoHcpHCj4q62I_/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=%2Fe3KnSuUrYnkIJzUhmbDTK%2BLpyk%3D|https://blog.kakaocdn.net/dna/x6Zhs/btrSf9K1eb8/AAAAAAAAAAAAAAAAAAAAADlSe3n1lKhXUBjKsf3yNJkHu_IthlLklsTciRNA4lJ2/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=zRxJ7pPwInrb84StH0dljLYoD28%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 갈기 2시 방향 물 속에 보면 물고기 모양의 몬스터인 라트론한테서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_18_1773372779915",
+                "name": "파괴된 광명석상",
+                "detailImg": "https://blog.kakaocdn.net/dna/218Os/btrSaIHL88M/AAAAAAAAAAAAAAAAAAAAAJAI5ptCag7iIZppqIswbxLUdNqhYeVjB8MqtGrqzzH-/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=Jbb%2FzqCE21ZpaMX7T9YM7LAAUb4%3D|https://blog.kakaocdn.net/dna/np8r0/btrShINjoAo/AAAAAAAAAAAAAAAAAAAAAO0gCSWIRaZ5bdJurIyfiJKMMYS0xl1KFCcZDz9Grdn_/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=SibwQ4heAtpzLuOHxMor4IlFKEg%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 이빨 세베카루크를 소환하는 태양 통제 타워 뒤편 10시 방향에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_19_1773372779915",
+                "name": "파묻힌 카이브에 담긴 기록",
+                "detailImg": "https://blog.kakaocdn.net/dna/bXcJuP/btrSljzgnn7/AAAAAAAAAAAAAAAAAAAAABLrNqMQ3sTgNtqqykTB9D1mPhS9irp8_yw7B0qEKRXL/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=Zo2DidoIASkn41%2ByNyLxh3UIs3Y%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 이빨 입구에서 내려와서 솔마기아 옆에서 획득할 수 있어요. 13번 광명석의 부작용 옆이에요. 지식 획득 시 기운 30이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_20_1773372779915",
+                "name": "변형된 스텔라기아",
+                "detailImg": "https://blog.kakaocdn.net/dna/oeGzv/btrShBndkal/AAAAAAAAAAAAAAAAAAAAAOH_QfmpAMKLQKi41FT17Gvwzz3mnWOsW409D7PcPLeG/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=j8e%2Fj1uu2zNJP1lAlL7rB7%2BDPE4%3D|https://blog.kakaocdn.net/dna/bYoISZ/btrSHXbv331/AAAAAAAAAAAAAAAAAAAAAHqRGYts0aNmFrqGXufENvRy4s8WtNh751OacW3SPBr1/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=nlpLT6oQCimMd%2FjYJt3bnMLNGzk%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 이빨 12시 방향 벽의 구조물에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_21_1773372779915",
+                "name": "선로 근처에서 느껴지는 기운",
+                "detailImg": "https://blog.kakaocdn.net/dna/bIKiQu/btrSf95BEBE/AAAAAAAAAAAAAAAAAAAAAL5aLFfTLJqibfhlUIKFucHg0V9DwCdOZvLDkfyvYOCi/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=4t4AkWwSpxmwywfOIhmE36zFsvA%3D",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공 2시 방향 벽을 타고 올라가면 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
       }
     ]
   }
