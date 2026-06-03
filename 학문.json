@@ -2867,42 +2867,42 @@
               {
                 "id": "npc_auto_0_1773372758487",
                 "name": "시카의 병기 재료",
-                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EC%8B%9C%EC%B9%B4%EC%9D%98%20%EB%B3%91%EA%B8%B0%20%EC%9E%AC%EB%A3%8C_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EC%8B%9C%EC%B9%B4%EC%9D%98%20%EB%B3%91%EA%B8%B0%20%EC%9E%AC%EB%A3%8C_2.jpg",
+                "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] ★중요_바아의 실타래 지식을 획득 후 흑정령 의뢰로'아토락시온-최후의 고서'를 착용하고 아래의 지식작을 진행하시기 바랍니다.★ 시카의 비늘에서 어둠을 헤쳐나가는 실타래를 점프하고 오른쪽 끝부분으로 수영해오면 떨어지는 물줄기 옆의 일기에서 상호작용 포인트가 있어요.해당 위치에서 1번, 17번, 18번 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773372758488",
                 "name": "모방은 창조의 어머니",
-                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EB%AA%A8%EB%B0%A9%EC%9D%80%20%EC%B0%BD%EC%A1%B0%EC%9D%98%20%EC%96%B4%EB%A8%B8%EB%8B%88_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EB%AA%A8%EB%B0%A9%EC%9D%80%20%EC%B0%BD%EC%A1%B0%EC%9D%98%20%EC%96%B4%EB%A8%B8%EB%8B%88_2.jpg",
+                "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 시카의 무덤 솔 마기아와 상호작용하여 획득할 수 있어요. 해당 위치에서 2번, 6번, 10번 지식을 획득할 수 있어요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773372758488",
                 "name": "기운을 분산시키는 방법",
-                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B8%B0%EC%9A%B4%EC%9D%84%20%EB%B6%84%EC%82%B0%EC%8B%9C%ED%82%A4%EB%8A%94%20%EB%B0%A9%EB%B2%95_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B8%B0%EC%9A%B4%EC%9D%84%20%EB%B6%84%EC%82%B0%EC%8B%9C%ED%82%A4%EB%8A%94%20%EB%B0%A9%EB%B2%95_2.jpg",
+                "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 시카의 비늘에서 복잡한 관계을 실타래를 푸는 곳에서 오른쪽 절벽으로 가면 상호작용 포인트가 있어요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773372758488",
                 "name": "단순한 카이벨란 선로",
-                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EB%8B%A8%EC%88%9C%ED%95%9C%20%EC%B9%B4%EC%9D%B4%EB%B2%A8%EB%9E%80%20%EC%84%A0%EB%A1%9C_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EB%8B%A8%EC%88%9C%ED%95%9C%20%EC%B9%B4%EC%9D%B4%EB%B2%A8%EB%9E%80%20%EC%84%A0%EB%A1%9C_2.jpg",
+                "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 시카라키아 입구에서 나와서 오른쪽의 카이벨란 선로로 등반하면 선로 아랫부분에서 상호작용 포인트가 있어요. 해당 위치에서 8번, 9번 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773372758488",
                 "name": "장막의 힘",
-                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EC%9E%A5%EB%A7%89%EC%9D%98%20%ED%9E%98_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EC%9E%A5%EB%A7%89%EC%9D%98%20%ED%9E%98_2.jpg",
+                "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] [아토락시온] 혼돈의 달빛 메인 의뢰 완료 보상으로 획득할 수 있어요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773372758488",
                 "name": "카이벨란 육면체 재사용",
-                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EC%B9%B4%EC%9D%B4%EB%B2%A8%EB%9E%80%20%EC%9C%A1%EB%A9%B4%EC%B2%B4%20%EC%9E%AC%EC%82%AC%EC%9A%A9_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EC%B9%B4%EC%9D%B4%EB%B2%A8%EB%9E%80%20%EC%9C%A1%EB%A9%B4%EC%B2%B4%20%EC%9E%AC%EC%82%AC%EC%9A%A9_2.jpg",
+                "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 시카의 무덤 솔 마기아와 상호작용하여 획득할 수 있어요. 해당 위치에서 2번, 6번, 10번 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
