@@ -2888,7 +2888,7 @@
               {
                 "id": "npc_auto_3_1773372758488",
                 "name": "단순한 카이벨란 선로",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EB%8B%A8%EC%88%9C%ED%95%9C%20%EC%B9%B4%EC%9D%B4%EB%B2%A8%EB%9E%80%20%EC%84%A0%EB%A1%9C_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EB%8B%A8%EC%88%9C%ED%95%9C%20%EC%B9%B4%EC%9D%B4%EB%B2%A8%EB%9E%80%20%EC%84%A0%EB%A1%9C_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 시카라키아 입구에서 나와서 오른쪽의 카이벨란 선로로 등반하면 선로 아랫부분에서 상호작용 포인트가 있어요. 해당 위치에서 8번, 9번 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
