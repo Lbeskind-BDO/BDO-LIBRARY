@@ -2783,7 +2783,7 @@
               {
                 "id": "npc_auto_1_1773372746260",
                 "name": "아토락시온의 인공폭포",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20I/%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20I/%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%B8%EA%B3%B5%ED%8F%AD%ED%8F%AC_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20I/%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20I/%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%B8%EA%B3%B5%ED%8F%AD%ED%8F%AC_2.jpg",
                 "desc": "[DY & OY의 소소한 행복]  의지를 높이는 실타래를 풀러 가는 내려가는 길에 왼쪽 폭포 끄트머리에 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
