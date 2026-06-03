@@ -3188,7 +3188,7 @@
               {
                 "id": "npc_auto_13_1773372779915",
                 "name": "순도 높은 광명석",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%88%9C%EB%8F%84%20%EB%86%92%EC%9D%80%20%EA%B4%91%EB%AA%85%EC%84%9D_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%88%9C%EB%8F%84%20%EB%86%92%EC%9D%80%20%EA%B4%91%EB%AA%85%EC%84%9D_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 요루나키아 도착 지점에서 길을 따라가다 왼쪽에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -3509,7 +3509,7 @@
               {
                 "id": "npc_auto_13_1773372779915",
                 "name": "순도 높은 광명석",
-                "detailImg": "https://blog.kakaocdn.net/dna/bxHPkl/btrSdaczv8d/AAAAAAAAAAAAAAAAAAAAAFO1PiXfcZn5KFQeXstfY1rJcqQKO05SohGj3BIqYhzs/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=c%2B3HVKpLV7pwS4az1Nzxyp7Vod8%3D",
+                "detailImg": "https://blog.kakaocdn.net/dna/bxHPkl/btrSdaczv8d/AAAAAAAAAAAAAAAAAAAAAFO1PiXfcZn5KFQeXstfY1rJcqQKO05SohGj3BIqYhzs/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=c%2B3HVKpLV7pwS4az1Nzxyp7Vod8%3D|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%88%9C%EB%8F%84%20%EB%86%92%EC%9D%80%20%EA%B4%91%EB%AA%85%EC%84%9D_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%88%9C%EB%8F%84%20%EB%86%92%EC%9D%80%20%EA%B4%91%EB%AA%85%EC%84%9D_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 요루나키아 도착 지점에서 길을 따라가다 왼쪽에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
