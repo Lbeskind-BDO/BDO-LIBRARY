@@ -2951,7 +2951,7 @@
               {
                 "id": "npc_auto_12_1773372758488",
                 "name": "시카라키아의 암석",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EC%8B%9C%EC%B9%B4%EB%9D%BC%ED%82%A4%EC%95%84%EC%9D%98%20%EC%95%94%EC%84%9D_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EC%8B%9C%EC%B9%B4%EB%9D%BC%ED%82%A4%EC%95%84%EC%9D%98%20%EC%95%94%EC%84%9D_2.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EC%8B%9C%EC%B9%B4%EB%9D%BC%ED%82%A4%EC%95%84%EC%9D%98%20%EC%95%94%EC%84%9D_3.jpg",
                 "desc": "[DY & OY의 소소한 행복] 시카라키아 입구의 통로를 나오자마자 왼쪽 벽을 등반하면 상호작용 포인트가 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
