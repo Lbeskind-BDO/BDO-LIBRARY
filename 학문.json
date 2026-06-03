@@ -2993,7 +2993,7 @@
               {
                 "id": "npc_auto_18_1773372758488",
                 "name": "특별한 제자",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%ED%8A%B9%EB%B3%84%ED%95%9C%20%EC%A0%9C%EC%9E%90_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%ED%8A%B9%EB%B3%84%ED%95%9C%20%EC%A0%9C%EC%9E%90_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 14번과 같은 위치에서 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
