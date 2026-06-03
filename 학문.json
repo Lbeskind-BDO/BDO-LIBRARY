@@ -3181,7 +3181,7 @@
               {
                 "id": "npc_auto_12_1773372779915",
                 "name": "광명석의 부작용",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B4%91%EB%AA%85%EC%84%9D%EC%9D%98%20%EB%B6%80%EC%9E%91%EC%9A%A9_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B4%91%EB%AA%85%EC%84%9D%EC%9D%98%20%EB%B6%80%EC%9E%91%EC%9A%A9_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 요루의 이빨 입구에서 내려오는 길에서 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -3502,7 +3502,7 @@
               {
                 "id": "npc_auto_12_1773372779915",
                 "name": "광명석의 부작용",
-                "detailImg": "https://blog.kakaocdn.net/dna/YT19Z/btrSagYQtOp/AAAAAAAAAAAAAAAAAAAAAMPDpehQ5BIQnnUjbBD-B7rxw66wcvOfQd0FEbuhGECS/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=sZLJS7zBbvMas%2F%2F8%2BOLus5XRwfw%3D",
+                "detailImg": "https://blog.kakaocdn.net/dna/YT19Z/btrSagYQtOp/AAAAAAAAAAAAAAAAAAAAAMPDpehQ5BIQnnUjbBD-B7rxw66wcvOfQd0FEbuhGECS/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=sZLJS7zBbvMas%2F%2F8%2BOLus5XRwfw%3D|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B4%91%EB%AA%85%EC%84%9D%EC%9D%98%20%EB%B6%80%EC%9E%91%EC%9A%A9_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B4%91%EB%AA%85%EC%84%9D%EC%9D%98%20%EB%B6%80%EC%9E%91%EC%9A%A9_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 요루의 이빨 입구에서 내려오는 길에서 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
