@@ -3174,7 +3174,7 @@
               {
                 "id": "npc_auto_11_1773372779915",
                 "name": "암벽 사이로 내리는 빛",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%95%94%EB%B2%BD%20%EC%82%AC%EC%9D%B4%EB%A1%9C%20%EB%82%B4%EB%A6%AC%EB%8A%94%20%EB%B9%9B_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%95%94%EB%B2%BD%20%EC%82%AC%EC%9D%B4%EB%A1%9C%20%EB%82%B4%EB%A6%AC%EB%8A%94%20%EB%B9%9B_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 요루나키아 도착 지점 3시 방향 나무에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -3495,7 +3495,7 @@
               {
                 "id": "npc_auto_11_1773372779915",
                 "name": "암벽 사이로 내리는 빛",
-                "detailImg": "https://blog.kakaocdn.net/dna/J8j9o/btrSjogtj4s/AAAAAAAAAAAAAAAAAAAAAEMzRdUPa5prr94BHwbvLkwBOdGKIk8K4td2lhazNJ9L/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=03UXQCmpSNF73FxyWJ4f6yrm1NA%3D",
+                "detailImg": "https://blog.kakaocdn.net/dna/J8j9o/btrSjogtj4s/AAAAAAAAAAAAAAAAAAAAAEMzRdUPa5prr94BHwbvLkwBOdGKIk8K4td2lhazNJ9L/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=03UXQCmpSNF73FxyWJ4f6yrm1NA%3D|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%95%94%EB%B2%BD%20%EC%82%AC%EC%9D%B4%EB%A1%9C%20%EB%82%B4%EB%A6%AC%EB%8A%94%20%EB%B9%9B_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%95%94%EB%B2%BD%20%EC%82%AC%EC%9D%B4%EB%A1%9C%20%EB%82%B4%EB%A6%AC%EB%8A%94%20%EB%B9%9B_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 요루나키아 도착 지점 3시 방향 나무에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
