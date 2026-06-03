@@ -2671,7 +2671,7 @@
               {
                 "id": "npc_auto_14_1773372733545",
                 "name": "되살아나는 생명",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20I/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20I/%EB%90%98%EC%82%B4%EC%95%84%EB%82%98%EB%8A%94%20%EC%83%9D%EB%AA%85.jpg",
                 "desc": "[DY & OY의 소소한 행복] 바아의 실타래 지식을 모두 얻고 흑정령한테서 받을 수 있는 의뢰 '[아토락시온] 최후의 고서'를 완료하면 보상으로 획득할 수 있어요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
