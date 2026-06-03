@@ -3209,7 +3209,7 @@
               {
                 "id": "npc_auto_16_1773372779915",
                 "name": "사막의 모래를 닮은 석판",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%82%AC%EB%A7%89%EC%9D%98%20%EB%AA%A8%EB%9E%98%EB%A5%BC%20%EB%8B%AE%EC%9D%80%20%EC%84%9D%ED%8C%90_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%82%AC%EB%A7%89%EC%9D%98%20%EB%AA%A8%EB%9E%98%EB%A5%BC%20%EB%8B%AE%EC%9D%80%20%EC%84%9D%ED%8C%90_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 요루의 척추 레크라 브흐마를 처치하는 곳 6시 방향에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -3530,7 +3530,7 @@
               {
                 "id": "npc_auto_16_1773372779915",
                 "name": "사막의 모래를 닮은 석판",
-                "detailImg": "https://blog.kakaocdn.net/dna/dlad5L/btrSlnVJHTJ/AAAAAAAAAAAAAAAAAAAAAOJLJ91u-VfNKIJR6tTmoA8EeVQpUEKVYkJ5lxcpoLnM/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=x%2BAb%2FMyE4w7%2B7bczCGzOqOMyIZE%3D",
+                "detailImg": "https://blog.kakaocdn.net/dna/dlad5L/btrSlnVJHTJ/AAAAAAAAAAAAAAAAAAAAAOJLJ91u-VfNKIJR6tTmoA8EeVQpUEKVYkJ5lxcpoLnM/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=x%2BAb%2FMyE4w7%2B7bczCGzOqOMyIZE%3D|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%82%AC%EB%A7%89%EC%9D%98%20%EB%AA%A8%EB%9E%98%EB%A5%BC%20%EB%8B%AE%EC%9D%80%20%EC%84%9D%ED%8C%90_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%82%AC%EB%A7%89%EC%9D%98%20%EB%AA%A8%EB%9E%98%EB%A5%BC%20%EB%8B%AE%EC%9D%80%20%EC%84%9D%ED%8C%90_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 요루의 척추 레크라 브흐마를 처치하는 곳 6시 방향에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
