@@ -2930,7 +2930,7 @@
               {
                 "id": "npc_auto_9_1773372758488",
                 "name": "카이벨란 선로의 위력",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EC%B9%B4%EC%9D%B4%EB%B2%A8%EB%9E%80%20%EC%84%A0%EB%A1%9C%EC%9D%98%20%EC%9C%84%EB%A0%A5_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20II/%EC%B9%B4%EC%9D%B4%EB%B2%A8%EB%9E%80%20%EC%84%A0%EB%A1%9C%EC%9D%98%20%EC%9C%84%EB%A0%A5_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 시카의 무덤 솔 마기아와 상호작용하여 획득할 수 있어요. 해당 위치에서 2번, 6번, 10번 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
