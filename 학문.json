@@ -3112,7 +3112,7 @@
               {
                 "id": "npc_auto_2_1773372779915",
                 "name": "신선한 물의 비결",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%8B%A0%EC%84%A0%ED%95%9C%20%EB%AC%BC%EC%9D%98%20%EB%B9%84%EA%B2%B0_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%8B%A0%EC%84%A0%ED%95%9C%20%EB%AC%BC%EC%9D%98%20%EB%B9%84%EA%B2%B0_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 요루의 갈기 '요루나키아의 모험일지 I - 발굽꼬리풀'쪽의 물을 수영해서 들어가면 모서리 부분에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -3433,7 +3433,7 @@
               {
                 "id": "npc_auto_2_1773372779915",
                 "name": "신선한 물의 비결",
-                "detailImg": "https://blog.kakaocdn.net/dna/cfa9Y0/btrSeiOILnb/AAAAAAAAAAAAAAAAAAAAAM3-LX8VXJiwicdu8JhQEBbl3ZZS1Nw7L_JDGYhbJ9Ef/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=bXb9%2Fbl3xr2c1YXyur8oBlsEs1M%3D",
+                "detailImg": "https://blog.kakaocdn.net/dna/cfa9Y0/btrSeiOILnb/AAAAAAAAAAAAAAAAAAAAAM3-LX8VXJiwicdu8JhQEBbl3ZZS1Nw7L_JDGYhbJ9Ef/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=bXb9%2Fbl3xr2c1YXyur8oBlsEs1M%3D|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%8B%A0%EC%84%A0%ED%95%9C%20%EB%AC%BC%EC%9D%98%20%EB%B9%84%EA%B2%B0_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%8B%A0%EC%84%A0%ED%95%9C%20%EB%AC%BC%EC%9D%98%20%EB%B9%84%EA%B2%B0_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 요루의 갈기 '요루나키아의 모험일지 I - 발굽꼬리풀'쪽의 물을 수영해서 들어가면 모서리 부분에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
