@@ -3321,7 +3321,7 @@
               {
                 "id": "npc_auto_8_17733727926291",
                 "name": "태양을 그린 석판",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20III/%ED%83%9C%EC%96%91%EC%9D%84%20%EA%B7%B8%EB%A6%B0%20%EC%84%9D%ED%8C%90_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20III/%ED%83%9C%EC%96%91%EC%9D%84%20%EA%B7%B8%EB%A6%B0%20%EC%84%9D%ED%8C%90_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] [아토락시온] 요루의 태양 메인 의뢰를 진행중일 때나 요루의 물음 구역의 켈루오스 3마리를 15초 이내에 전부 처치하면 가운데에 있는 '태양 통제 타워'가 파란빛을 띠며 활성화됩니다. 파란빛을 띨 때 상호작용이 가능하고 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
