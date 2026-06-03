@@ -2664,7 +2664,7 @@
               {
                 "id": "npc_auto_13_1773372733545",
                 "name": "아토락시온 등가보급소",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20I/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20I/%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%20%EB%93%B1%EA%B0%80%EB%B3%B4%EA%B8%89%EC%86%8C_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20I/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20I/%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%20%EB%93%B1%EA%B0%80%EB%B3%B4%EA%B8%89%EC%86%8C_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 바아의 심장에서 메인 의뢰 [아토락시온] 조각난 기억을 진행할 때 만나는 '바아의 심장 - 등가 보급소'와 대화하여 획득할 수 있어요. 지식 획득 시 기운 15가 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
