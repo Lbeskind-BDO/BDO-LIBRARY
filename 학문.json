@@ -3202,7 +3202,7 @@
               {
                 "id": "npc_auto_15_1773372779915",
                 "name": "바아가 고안한 특수 장치",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EB%B0%94%EC%95%84%EA%B0%80%20%EA%B3%A0%EC%95%88%ED%95%9C%20%ED%8A%B9%EC%88%98%20%EC%9E%A5%EC%B9%98_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EB%B0%94%EC%95%84%EA%B0%80%20%EA%B3%A0%EC%95%88%ED%95%9C%20%ED%8A%B9%EC%88%98%20%EC%9E%A5%EC%B9%98_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 요루의 물음 솔마기아 근처에서 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -3523,7 +3523,7 @@
               {
                 "id": "npc_auto_15_1773372779915",
                 "name": "바아가 고안한 특수 장치",
-                "detailImg": "https://blog.kakaocdn.net/dna/1PGje/btrShG9CnUV/AAAAAAAAAAAAAAAAAAAAAPTqyWkl5KErdjkmzHZ6opnRscADDzHugvkQmBxpg5wQ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=8btTzgAlVRviM4v7Y2cXQcAmtsg%3D",
+                "detailImg": "https://blog.kakaocdn.net/dna/1PGje/btrShG9CnUV/AAAAAAAAAAAAAAAAAAAAAPTqyWkl5KErdjkmzHZ6opnRscADDzHugvkQmBxpg5wQ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=8btTzgAlVRviM4v7Y2cXQcAmtsg%3D|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EB%B0%94%EC%95%84%EA%B0%80%20%EA%B3%A0%EC%95%88%ED%95%9C%20%ED%8A%B9%EC%88%98%20%EC%9E%A5%EC%B9%98_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EB%B0%94%EC%95%84%EA%B0%80%20%EA%B3%A0%EC%95%88%ED%95%9C%20%ED%8A%B9%EC%88%98%20%EC%9E%A5%EC%B9%98_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 요루의 물음 솔마기아 근처에서 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
