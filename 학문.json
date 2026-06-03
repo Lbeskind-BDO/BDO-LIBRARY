@@ -2797,7 +2797,7 @@
               {
                 "id": "npc_auto_3_1773372746260",
                 "name": "쓰러진 고대 외벽",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20I/%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20I/%EC%93%B0%EB%9F%AC%EC%A7%84%20%EA%B3%A0%EB%8C%80%20%EC%99%B8%EB%B2%BD_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20I/%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20I/%EC%93%B0%EB%9F%AC%EC%A7%84%20%EA%B3%A0%EB%8C%80%20%EC%99%B8%EB%B2%BD_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 바아의 폭풍 - 솔 마기아를 등지고 앞으로 가면 나오는 갈림길에서 왼쪽의 무너진 기둥들을 타고 올라가야 합니다.올라가는 길은 영상으로 첨부해 둘게요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
