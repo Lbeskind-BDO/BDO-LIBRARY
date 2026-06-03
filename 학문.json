@@ -3167,7 +3167,7 @@
               {
                 "id": "npc_auto_10_1773372779915",
                 "name": "동력이 바닥난 병기",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EB%8F%99%EB%A0%A5%EC%9D%B4%20%EB%B0%94%EB%8B%A5%EB%82%9C%20%EB%B3%91%EA%B8%B0_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EB%8F%99%EB%A0%A5%EC%9D%B4%20%EB%B0%94%EB%8B%A5%EB%82%9C%20%EB%B3%91%EA%B8%B0_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 요루의 동공 등가 보급소 근처에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -3488,7 +3488,7 @@
               {
                 "id": "npc_auto_10_1773372779915",
                 "name": "동력이 바닥난 병기",
-                "detailImg": "https://blog.kakaocdn.net/dna/RatDF/btrSkCFwBQb/AAAAAAAAAAAAAAAAAAAAABS4JbBr4sy2_hD8yKMkZG82i9rj4NdzZfn46Zon9R9t/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=i%2F7hOuPWH1MfvRW2OdFjOOGug%2Fc%3D",
+                "detailImg": "https://blog.kakaocdn.net/dna/RatDF/btrSkCFwBQb/AAAAAAAAAAAAAAAAAAAAABS4JbBr4sy2_hD8yKMkZG82i9rj4NdzZfn46Zon9R9t/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=i%2F7hOuPWH1MfvRW2OdFjOOGug%2Fc%3D|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EB%8F%99%EB%A0%A5%EC%9D%B4%20%EB%B0%94%EB%8B%A5%EB%82%9C%20%EB%B3%91%EA%B8%B0_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EB%8F%99%EB%A0%A5%EC%9D%B4%20%EB%B0%94%EB%8B%A5%EB%82%9C%20%EB%B3%91%EA%B8%B0_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 요루의 동공 등가 보급소 근처에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
