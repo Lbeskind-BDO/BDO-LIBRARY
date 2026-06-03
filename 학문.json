@@ -2811,7 +2811,7 @@
               {
                 "id": "npc_auto_5_1773372746260",
                 "name": "무너져 가는 유적",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20I/%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20I/%EB%AC%B4%EB%84%88%EC%A0%B8%20%EA%B0%80%EB%8A%94%20%EC%9C%A0%EC%A0%81_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20I/%EA%B3%A0%EB%8C%80%20%EA%B1%B4%EC%B6%95%ED%95%99%20I/%EB%AC%B4%EB%84%88%EC%A0%B8%20%EA%B0%80%EB%8A%94%20%EC%9C%A0%EC%A0%81_2.jpg",
                 "desc": "[DY & OY의 소소한 행복]  우애를 가늠하는 실타래가 있는 곳에서 바아의 물음으로 나오면 오른쪽 벽에 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
