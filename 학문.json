@@ -3098,7 +3098,7 @@
               {
                 "id": "npc_auto_0_1773372779915",
                 "name": "인공적으로 만들어 낸 폭포 줄기",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%9D%B8%EA%B3%B5%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EB%82%B8%20%ED%8F%AD%ED%8F%AC%20%EC%A4%84%EA%B8%B0_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%9D%B8%EA%B3%B5%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EB%82%B8%20%ED%8F%AD%ED%8F%AC%20%EC%A4%84%EA%B8%B0_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] ★중요_저는 바아마키아, 시카라키아의 지식(대주제 모험일지 포함) 전부 획득하고, 바아의 실타래 지식을 획득 후 흑정령 의뢰로'아토락시온-최후의 고서'를 착용하고 아래의 지식작을 진행하시기 바랍니다.★ 요루의 발톱 끝이 보이지 않는 실타래를 하는 곳에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
@@ -3419,7 +3419,7 @@
               {
                 "id": "npc_auto_0_1773372779915",
                 "name": "인공적으로 만들어 낸 폭포 줄기",
-                "detailImg": "https://blog.kakaocdn.net/dna/yzIRC/btrSagElHHS/AAAAAAAAAAAAAAAAAAAAAITugIcyqD7PWifAWd7kwP_tPP7tDH6hw83R8A6TN5tO/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=f8v6hKBq2HMrwyClL81mq1p6jmA%3D",
+                "detailImg": "https://blog.kakaocdn.net/dna/yzIRC/btrSagElHHS/AAAAAAAAAAAAAAAAAAAAAITugIcyqD7PWifAWd7kwP_tPP7tDH6hw83R8A6TN5tO/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=f8v6hKBq2HMrwyClL81mq1p6jmA%3D|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%9D%B8%EA%B3%B5%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EB%82%B8%20%ED%8F%AD%ED%8F%AC%20%EC%A4%84%EA%B8%B0_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20III/%EC%9D%B8%EA%B3%B5%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EB%82%B8%20%ED%8F%AD%ED%8F%AC%20%EC%A4%84%EA%B8%B0_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] ★중요_저는 바아마키아, 시카라키아의 지식(대주제 모험일지 포함) 전부 획득하고, 바아의 실타래 지식을 획득 후 흑정령 의뢰로'아토락시온-최후의 고서'를 착용하고 아래의 지식작을 진행하시기 바랍니다.★ 요루의 발톱 끝이 보이지 않는 실타래를 하는 곳에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
