@@ -2594,7 +2594,7 @@
               {
                 "id": "npc_auto_3_1773372733545",
                 "name": "바아마키아의 모래",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20I/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20I/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%EB%9E%98_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20I/%EA%B3%A0%EB%8C%80%20%EA%B3%B5%ED%95%99%20I/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%EB%9E%98_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 입구에서 길을 따라오다가 오른쪽 작은 관목 옆에 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
