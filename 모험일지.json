@@ -21717,29 +21717,36 @@
             ]
           },
           {
-            "id": "theme_1773150760_울루키타 남부 모험일지 I",
-            "name": "울루키타 남부 모험일지 I",
+            "id": "theme_1773150760_울루키타 남부 모험일지 I,II",
+            "name": "울루키타 남부 모험일지 I,II",
             "energy": 1,
             "items": [
               {
                 "id": "npc_auto_0_1773150644857",
-                "name": "여러 컷에 보는 울루키타 남부 모험일지 I",
+                "name": "여러 컷에 보는 울루키타 남부 모험일지 I,II-이스라히드 고원",
                 "detailImg": "",
-                "desc": "[DY & OY 소소한 행복] 울루키타 남부 모험일지 I 입니다. 양이 많아, 하나로 보기 쉽게 만들었습니다. 잘 따라와주세요!|",
+                "desc": "[DY & OY 소소한 행복] 울루키타 남부 모험일지 I,II-이스라히드 고원 입니다. 양이 많아, 하나로 보기 쉽게 만들었습니다. 잘 따라와주세요!|",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
-              }
-            ]
-          },
-          {
-            "id": "theme_1773150760_울루키타 남부 모험일지 II",
-            "name": "울루키타 남부 모험일지 II",
-            "energy": "",
-            "items": [
+              },
               {
-                "id": "npc_auto_0_1773150646915",
-                "name": "여러 컷에 보는 울루키타 남부 모험일지 II",
+                "id": "npc_auto_0_1773150644857",
+                "name": "여러 컷에 보는 울루키타 남부 모험일지 I,II-베란디르 마을",
                 "detailImg": "",
-                "desc": "[DY & OY 소소한 행복] 울루키타 남부 모험일지 II 입니다. 양이 많아, 하나로 보기 쉽게 만들었습니다. 잘 따라와주세요!|",
+                "desc": "[DY & OY 소소한 행복] 울루키타 남부 모험일지 I,II-베란디르 마을 입니다. 양이 많아, 하나로 보기 쉽게 만들었습니다. 잘 따라와주세요!|",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_0_1773150644857",
+                "name": "여러 컷에 보는 울루키타 남부 모험일지 I,II-샤크타르 황야",
+                "detailImg": "",
+                "desc": "[DY & OY 소소한 행복] 울루키타 남부 모험일지 I,II-샤크타르 황야 입니다. 양이 많아, 하나로 보기 쉽게 만들었습니다. 잘 따라와주세요!|",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_0_1773150644857",
+                "name": "여러 컷에 보는 울루키타 남부 모험일지 I,II-스토프비르",
+                "detailImg": "",
+                "desc": "[DY & OY 소소한 행복] 울루키타 남부 모험일지 I,II-스토프비르 입니다. 양이 많아, 하나로 보기 쉽게 만들었습니다. 잘 따라와주세요!|",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
