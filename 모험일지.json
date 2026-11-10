@@ -12481,6 +12481,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 청사 섬 5~6시 방향 돌섬",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794318681_n36b3",
+                "name": "초롱불",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 나루터에서 섬 안으로 올라가는 길에 있는 등불",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
