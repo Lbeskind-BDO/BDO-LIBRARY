@@ -3624,6 +3624,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 앙가부 전초기지 8시 방향",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794316701_dt3ro",
+                "name": "바다로 향하는 폭포",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 읊조리는 비망 5시 방향 폭포",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
