@@ -3757,6 +3757,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 아프로돈 신전 8시 방향 해안가",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794316916_uuuxj",
+                "name": "뿌리가 지지하는 동굴",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 아프로돈 신전 10시 방향 동굴길 앞",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
