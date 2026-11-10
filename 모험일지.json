@@ -12537,6 +12537,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 땅에 묻는 옹기 지식에서 오른쪽 안에 있는 집",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794318741_ggk0d",
+                "name": "동죽 서당",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 청사 섬의 청사초롱 지식을 지나서 오른쪽 건물 마당",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
