@@ -12579,6 +12579,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 죽림예찬 지식에서 오른쪽 길 따라서 끝까지 가면 나오는 폐허",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794318790_qx3km",
+                "name": "청사 본향당",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 죽림예찬 지식에서 위로 올라가는 길에 있는 제단",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
