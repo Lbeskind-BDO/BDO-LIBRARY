@@ -3764,6 +3764,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 아프로돈 신전 10시 방향 동굴길 앞",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794316927_rw6br",
+                "name": "곡향이 스며든 바람",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 아프로돈 신전 12시 방향 높은 곳",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
