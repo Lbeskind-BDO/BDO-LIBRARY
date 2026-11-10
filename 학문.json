@@ -3610,6 +3610,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 아우리스 해안 7시 방향 동굴길 앞",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794316681_gw3n5",
+                "name": "해안가가 보이는 절벽",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 아우리스 해안 6시 방향 절벽",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
