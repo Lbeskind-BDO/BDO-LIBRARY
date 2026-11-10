@@ -3577,7 +3577,14 @@
         "id": "reg_1794314762_탐험III",
         "name": "탐험III",
         "overviewImg": "",
-        "themes": []
+        "themes": [
+          {
+            "id": "theme_1794314875_탐험III",
+            "name": "탐험III",
+            "energy": "2",
+            "items": []
+          }
+        ]
       }
     ]
   }
