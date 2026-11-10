@@ -3603,6 +3603,13 @@
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%83%90%ED%97%98III/%ED%83%90%ED%97%98III/%EB%B0%94%EB%8B%A4%EB%A5%BC%20%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94%20%ED%8F%AD%ED%8F%AC_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%83%90%ED%97%98III/%ED%83%90%ED%97%98III/%EB%B0%94%EB%8B%A4%EB%A5%BC%20%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94%20%ED%8F%AD%ED%8F%AC_2.jpg",
                 "desc": "[DY & OY의 소소한 행복] 아우리스 해안 9시 방향 폭포",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794316569_g7hae",
+                "name": "아우리스 해안의 해식 동굴",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 아우리스 해안 7시 방향 동굴길 앞",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
