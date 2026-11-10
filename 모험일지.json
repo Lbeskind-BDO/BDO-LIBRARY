@@ -12502,6 +12502,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 초롱불 지식 뒤로 올라가는 길 왼쪽 비석",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794318705_u5sn5",
+                "name": "압구정",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 초롱 할망비 지식 지나서 오른쪽에 있는 정자",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
