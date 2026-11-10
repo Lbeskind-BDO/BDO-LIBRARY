@@ -3729,6 +3729,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 벌카노이드 12시 방향 섬",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794316859_rzfkt",
+                "name": "성벽에서 바라본 풍경",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 에메시아 내성 8시 성벽 위",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
