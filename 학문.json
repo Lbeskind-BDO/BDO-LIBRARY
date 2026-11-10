@@ -3736,6 +3736,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 에메시아 내성 8시 성벽 위",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794316879_lt3si",
+                "name": "정교하게 장식된 유리창",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 에메시아 내성 5시 방향 건물 안",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
