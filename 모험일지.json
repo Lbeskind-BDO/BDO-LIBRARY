@@ -12460,6 +12460,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 나루터 9시 방향의 등대",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794318655_ka0v2",
+                "name": "판옥선",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 나루터지기 <강만> 옆에 있는 판옥선 앞",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
