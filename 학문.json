@@ -3694,6 +3694,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 아레시온 신전 2시 방향",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794316808_t1u19",
+                "name": "은총이 흐르는 폭포",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 마가이아 신전 1시 방향 여신상 뒤",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
