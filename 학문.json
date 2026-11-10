@@ -3596,6 +3596,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 마가이아 신전 1시 방향",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794315898_0qms6",
+                "name": "전초기지를 흐르는 호수",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 앙가부 전초기지 6시 방향 폭포 중간",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
