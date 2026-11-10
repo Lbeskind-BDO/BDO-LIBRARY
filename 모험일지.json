@@ -12586,6 +12586,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 죽림예찬 지식에서 위로 올라가는 길에 있는 제단",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794318795_ogh2q",
+                "name": "해도탑",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 청사 섬 3시 방향 돌탑",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
