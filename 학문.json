@@ -3680,6 +3680,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 15번 마물의 울음소리 지식 아래에 있는 해안가",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794316781_2laqf",
+                "name": "아레시온의 용암",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 아레시온 신전 5시 방향 입구 아래",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
