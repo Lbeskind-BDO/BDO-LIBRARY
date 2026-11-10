@@ -12448,6 +12448,12 @@
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
+          },
+          {
+            "id": "theme_1794318638_아침의 나라 : 동해도 모험일지 XI",
+            "name": "아침의 나라 : 동해도 모험일지 XI",
+            "energy": "1",
+            "items": []
           }
         ]
       },
