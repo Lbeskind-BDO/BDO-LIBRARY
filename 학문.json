@@ -3659,6 +3659,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 휩쓸린 혼돈 12시 방향",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794316753_qzfhh",
+                "name": "공허만이 남는 장소 I",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 21번 특이점의 모습 지식보다 산맥 1칸 더 위",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
