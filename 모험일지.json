@@ -12453,7 +12453,15 @@
             "id": "theme_1794318638_아침의 나라 : 동해도 모험일지 XI",
             "name": "아침의 나라 : 동해도 모험일지 XI",
             "energy": "1",
-            "items": []
+            "items": [
+              {
+                "id": "item_1794318648_922v8",
+                "name": "초롱등대",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 나루터 9시 방향의 등대",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
           }
         ]
       },
