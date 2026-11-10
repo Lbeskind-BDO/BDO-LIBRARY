@@ -12516,6 +12516,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] <탐험 거점 관리> 현수가 있는 곳으로 가는 갈림길 앞",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794318719_r9t4b",
+                "name": "청사 섬의 청사초롱",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 청사방 지식 오른쪽 입구",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
