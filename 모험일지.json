@@ -12600,6 +12600,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 해도탑 지식 왼쪽 아래 길",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794318805_3b6vs",
+                "name": "누군가의 비밀 장소",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 청사 섬 2시 방향 폭포 위 왼쪽",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
