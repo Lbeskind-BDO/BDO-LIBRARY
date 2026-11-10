@@ -3638,6 +3638,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 말단 충격 지대 5시 방향 동굴길 앞",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794316723_5yc8e",
+                "name": "교차하는 지점",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 강착의 인도 5시 방향 삼거리 옆 절벽",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
