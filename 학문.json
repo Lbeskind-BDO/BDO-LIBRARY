@@ -3750,6 +3750,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 에메시아 내성 1시 방향 바다",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794316902_o1s75",
+                "name": "아프로돈 폭포",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 아프로돈 신전 8시 방향 해안가",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
