@@ -3666,6 +3666,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 21번 특이점의 모습 지식보다 산맥 1칸 더 위",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794316761_8j0jl",
+                "name": "마물의 울음소리",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 시우니온 해안 7시 방향 절벽 위",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
