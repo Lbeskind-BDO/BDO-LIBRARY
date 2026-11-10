@@ -3673,6 +3673,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 시우니온 해안 7시 방향 절벽 위",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794316771_l01gw",
+                "name": "에다니아의 해안",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 15번 마물의 울음소리 지식 아래에 있는 해안가",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
