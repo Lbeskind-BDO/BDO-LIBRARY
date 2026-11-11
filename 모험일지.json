@@ -8532,7 +8532,7 @@
           {
             "id": "theme_1773150760_아침의 나라 : 동해도 모험일지 I ~ X 통합본",
             "name": "아침의 나라 : 동해도 모험일지 I ~ X 통합본",
-            "energy": 1,
+            "energy": "10",
             "items": [
               {
                 "id": "npc_auto_0_1773150290085",
@@ -8645,7 +8645,7 @@
                 "detailImg": "",
                 "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
-              },
+              }
             ]
           },
           {
