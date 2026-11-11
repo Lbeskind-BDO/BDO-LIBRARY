@@ -8628,7 +8628,7 @@
               {
                 "id": "npc_auto_13_1773150290085",
                 "name": "범바위골",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%EC%B9%A8%EC%9D%98%20%EB%82%98%EB%9D%BC%20%EC%9D%BC%EC%A7%80%20%3A%20%EB%8F%99%ED%95%B4%EB%8F%84/%EC%95%84%EC%B9%A8%EC%9D%98%20%EB%82%98%EB%9D%BC%20%3A%20%EB%8F%99%ED%95%B4%EB%8F%84%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I%20~%20X%20%ED%86%B5%ED%95%A9%EB%B3%B8/%EB%B2%94%EB%B0%94%EC%9C%84%EA%B3%A8.png",
                 "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
