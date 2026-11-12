@@ -10273,7 +10273,7 @@
               {
                 "id": "npc_auto_26_1773150437703",
                 "name": "기도 받는 나무",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%20%EC%88%B2%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80/%EA%B8%B0%EB%8F%84%20%EB%B0%9B%EB%8A%94%20%EB%82%98%EB%AC%B4.png|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%20%EC%88%B2%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80/%EA%B8%B0%EB%8F%84%20%EB%B0%9B%EB%8A%94%20%EB%82%98%EB%AC%B4_1.png|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%20%EC%88%B2%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80/%EA%B8%B0%EB%8F%84%20%EB%B0%9B%EB%8A%94%20%EB%82%98%EB%AC%B4_2.png",
                 "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
