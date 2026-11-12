@@ -3999,6 +3999,12 @@
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
+          },
+          {
+            "id": "theme_1794508059_에다니아 내부",
+            "name": "에다니아 내부",
+            "energy": "2",
+            "items": []
           }
         ]
       }
