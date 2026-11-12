@@ -10448,7 +10448,7 @@
               {
                 "id": "npc_auto_3_1773150441809",
                 "name": "간이 도르래",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%93%9C%EB%9D%BD%EC%8B%9C%EC%95%84%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80/%EA%B0%84%EC%9D%B4%20%EB%8F%84%EB%A5%B4%EB%9E%98.png|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%93%9C%EB%9D%BD%EC%8B%9C%EC%95%84%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80/%EA%B0%84%EC%9D%B4%20%EB%8F%84%EB%A5%B4%EB%9E%98_1.png|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%93%9C%EB%9D%BD%EC%8B%9C%EC%95%84%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80/%EA%B0%84%EC%9D%B4%20%EB%8F%84%EB%A5%B4%EB%9E%98_2.png|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%93%9C%EB%9D%BD%EC%8B%9C%EC%95%84%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80/%EA%B0%84%EC%9D%B4%20%EB%8F%84%EB%A5%B4%EB%9E%98_3.png",
                 "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
