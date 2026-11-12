@@ -10266,7 +10266,7 @@
               {
                 "id": "npc_auto_25_1773150437703",
                 "name": "비어있는 제단",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%20%EC%88%B2%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80/%EB%B9%84%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%A0%9C%EB%8B%A8.png|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%20%EC%88%B2%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80/%EB%B9%84%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%A0%9C%EB%8B%A8_1.png|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%20%EC%88%B2%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80/%EB%B9%84%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%A0%9C%EB%8B%A8_2.png",
                 "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
