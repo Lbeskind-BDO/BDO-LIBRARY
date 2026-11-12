@@ -10595,7 +10595,7 @@
               {
                 "id": "npc_auto_24_1773150441809",
                 "name": "어머니에 대하여",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%93%9C%EB%9D%BD%EC%8B%9C%EC%95%84%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80/%EC%96%B4%EB%A8%B8%EB%8B%88%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.png|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%98%A4%EB%94%9C%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%93%9C%EB%9D%BD%EC%8B%9C%EC%95%84%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80/%EC%96%B4%EB%A8%B8%EB%8B%88%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC_1.png",
                 "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
