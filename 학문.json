@@ -1789,7 +1789,7 @@
               {
                 "id": "npc_auto_3_1773372672386",
                 "name": "신의 손길",
-                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B2%BD%EC%A0%9C%20III/%EA%B2%BD%EC%A0%9C%20III/%EC%8B%A0%EC%9D%98%20%EC%86%90%EA%B8%B8.png",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B2%BD%EC%A0%9C%20III/%EA%B2%BD%EC%A0%9C%20III/%EC%8B%A0%EC%9D%98%20%EC%86%90%EA%B8%B8.png|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EA%B2%BD%EC%A0%9C%20III/%EA%B2%BD%EC%A0%9C%20III/%EC%8B%A0%EC%9D%98%20%EC%86%90%EA%B8%B8_1.png",
                 "desc": "[의뢰] 아심_평화로운 오아시스의 연계 의뢰 중, 이미지의 2번",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
