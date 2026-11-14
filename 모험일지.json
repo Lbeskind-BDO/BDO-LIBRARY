@@ -16017,15 +16017,15 @@
             "energy": "",
             "items": [
               {
-                "id": "npc_auto_0_1773150695225",
-                "name": "금지된 사랑 종장",
+                "id": "npc_auto_1_1773150695225",
+                "name": "금지된 사랑 중장 V",
                 "detailImg": "",
                 "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
-                "id": "npc_auto_1_1773150695225",
-                "name": "금지된 사랑 중장 V",
+                "id": "npc_auto_0_1773150695225",
+                "name": "금지된 사랑 종장",
                 "detailImg": "",
                 "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
