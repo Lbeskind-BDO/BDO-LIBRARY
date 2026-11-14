@@ -6451,7 +6451,7 @@
               {
                 "id": "npc_auto_0_1773150217148",
                 "name": "보수가 덜 된 건물",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%B9%B4%EB%A7%88%EC%8B%A4%EB%B9%84%EC%95%84%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EA%B7%B8%EB%9E%80%EB%94%94%ED%95%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80/%EB%B3%B4%EC%88%98%EA%B0%80%20%EB%8D%9C%20%EB%90%9C%20%EA%B1%B4%EB%AC%BC.png",
                 "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
