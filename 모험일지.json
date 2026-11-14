@@ -13669,14 +13669,14 @@
                 "id": "npc_auto_32_1773150564383",
                 "name": "벼락 맞은 폐허",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EB%B2%BC%EB%9D%BD%20%EB%A7%9E%EC%9D%80%20%ED%8F%90%ED%97%88.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EB%B2%BC%EB%9D%BD%20%EB%A7%9E%EC%9D%80%20%ED%8F%90%ED%97%88_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EB%B2%BC%EB%9D%BD%20%EB%A7%9E%EC%9D%80%20%ED%8F%90%ED%97%88_2.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 눈보라 초소에서 브론테의 벼락쪽 방향으로 나가다 보면 보이는 쓰러진 나무 목책 쪽에서 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_33_1773150564383",
                 "name": "감옥인가 우리인가?",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EA%B0%90%EC%98%A5%EC%9D%B8%EA%B0%80%20%EC%9A%B0%EB%A6%AC%EC%9D%B8%EA%B0%80%3F.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EA%B0%90%EC%98%A5%EC%9D%B8%EA%B0%80%20%EC%9A%B0%EB%A6%AC%EC%9D%B8%EA%B0%80%3F_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EA%B0%90%EC%98%A5%EC%9D%B8%EA%B0%80%20%EC%9A%B0%EB%A6%AC%EC%9D%B8%EA%B0%80%3F_2.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 브론테의 벼락 <마구간지기> 네르구이 옆의 둥근 구조물에서 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
