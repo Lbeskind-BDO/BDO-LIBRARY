@@ -4053,6 +4053,13 @@
                 "detailImg": "",
                 "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794655982_lz7pi",
+                "name": "알헤나 섬",
+                "detailImg": "",
+                "desc": "해당 지역을 직접 돌아다니며 탐험하여 거점 발견 시 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
