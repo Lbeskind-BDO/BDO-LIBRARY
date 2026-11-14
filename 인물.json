@@ -9489,7 +9489,7 @@
               {
                 "id": "npc_papu_2_10",
                 "name": "호니아",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char47109,rdate=1794651108527",
                 "desc": "파푸라오라 섬의 NPC와 대화하거나 둔갑하여 상호작용",
                 "icon": ""
               },
