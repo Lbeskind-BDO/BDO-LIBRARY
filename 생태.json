@@ -769,7 +769,7 @@
           {
             "id": "theme_1773149846_동물형(세렌디아)",
             "name": "동물형(세렌디아)",
-            "energy":3,
+            "energy": 3,
             "items": [
               {
                 "id": "npc_auto_0_1773149491492",
@@ -9054,6 +9054,12 @@
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
+          },
+          {
+            "id": "theme_1794657342_에다니아 내부의 생태",
+            "name": "에다니아 내부의 생태",
+            "energy": "",
+            "items": []
           }
         ]
       },
