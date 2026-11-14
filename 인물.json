@@ -6673,6 +6673,12 @@
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
+          },
+          {
+            "id": "theme_1794656626_거점 관리자(에다니아 내부)",
+            "name": "거점 관리자(에다니아 내부)",
+            "energy": "2",
+            "items": []
           }
         ]
       },
