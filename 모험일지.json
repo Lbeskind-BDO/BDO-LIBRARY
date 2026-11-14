@@ -13746,14 +13746,14 @@
                 "id": "npc_auto_43_1773150564383",
                 "name": "꺼지지 않는 불",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EA%BA%BC%EC%A7%80%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EB%B6%88.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EA%BA%BC%EC%A7%80%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EB%B6%88_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 브론테의 벼락 <탐험 거점 관리> 게르미나 옆에서 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_44_1773150564383",
                 "name": "무너져가는 용병 사업",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EB%AC%B4%EB%84%88%EC%A0%B8%EA%B0%80%EB%8A%94%20%EC%9A%A9%EB%B3%91%20%EC%82%AC%EC%97%85.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EB%AC%B4%EB%84%88%EC%A0%B8%EA%B0%80%EB%8A%94%20%EC%9A%A9%EB%B3%91%20%EC%82%AC%EC%97%85_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EB%AC%B4%EB%84%88%EC%A0%B8%EA%B0%80%EB%8A%94%20%EC%9A%A9%EB%B3%91%20%EC%82%AC%EC%97%85_2.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 눈보라 초소 <경비 대장> 아이젠 옆에서 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
