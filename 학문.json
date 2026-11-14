@@ -2216,7 +2216,7 @@
               {
                 "id": "npc_auto_3_1773372709076",
                 "name": "정령의 존재",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%ED%95%99%EB%AC%B8%20%3E%20%EC%97%AD%EC%82%AC%20IV/%EC%97%AD%EC%82%AC%20IV/%EC%A0%95%EB%A0%B9%EC%9D%98%20%EC%A1%B4%EC%9E%AC.jpg",
                 "desc": "[메인 의뢰]_[카마실비아] 진행중에 획득_첫 번째 의뢰 : [카마실비아] 미지의 영역, 카마실비아",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
