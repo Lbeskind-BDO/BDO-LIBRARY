@@ -16398,98 +16398,98 @@
                 "id": "npc_auto_0_1773150712934",
                 "name": "바아와 선인장 II",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%B0%94%EC%95%84%EC%99%80%20%EC%84%A0%EC%9D%B8%EC%9E%A5%20II.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%B0%94%EC%95%84%EC%99%80%20%EC%84%A0%EC%9D%B8%EC%9E%A5%20II_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 해당 위치에서 2번 바아와 선인장 I, 29번 바아마키아의 선인장, 31번 꽃이 핀 선인장을 획득할 수 있어요. 메인 의뢰 [아토락시온] 용납할 수 없는 모방으로 가는 갈림길 중에 오른쪽 길로 가다 보면 있어요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_1_1773150712934",
                 "name": "바아와 선인장 I",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%B0%94%EC%95%84%EC%99%80%20%EC%84%A0%EC%9D%B8%EC%9E%A5%20I.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 해당 위치에서 1번 바아와 선인장 II, 29번 바아마키아의 선인장, 31번 꽃이 핀 선인장을 획득할 수 있어요. 메인 의뢰 [아토락시온] 용납할 수 없는 모방으로 가는 갈림길 중에 오른쪽 길로 가다 보면 있어요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_2_1773150712934",
                 "name": "갈라졌던 자들의 소원 I",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EA%B0%88%EB%9D%BC%EC%A1%8C%EB%8D%98%20%EC%9E%90%EB%93%A4%EC%9D%98%20%EC%86%8C%EC%9B%90%20I.png",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 아토락시온 - 최후의 고서를 장착 후, 하나로 더해지는 실타래를 다시 풀면 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요. 발판 위에 사람이 다 올라갔는데 상호작용이 안된다면, 해당 맵의 몹들을 소환해서 3~4 무리 정도 잡고 다시 시도해보세요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_3_1773150712934",
                 "name": "누군가의 연애편지",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%88%84%EA%B5%B0%EA%B0%80%EC%9D%98%20%EC%97%B0%EC%95%A0%ED%8E%B8%EC%A7%80.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%88%84%EA%B5%B0%EA%B0%80%EC%9D%98%20%EC%97%B0%EC%95%A0%ED%8E%B8%EC%A7%80_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 해당 위치에서 10번 누군가의 낙서도 획득할 수 있고, 한 칸 더 위로 올라가면 18번 오르의 증표도 획득할 수 있어요. 바아의 물음 출구 쪽의 '바아의 폭풍 - 바아의 눈' 옆의 벽을 등반해서 올라가면 있어요. 올라가는 영상을 첨부해 둘 테니 참고해 주시고, 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_4_1773150712934",
                 "name": "바아의 태양 석판",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%B0%94%EC%95%84%EC%9D%98%20%ED%83%9C%EC%96%91%20%EC%84%9D%ED%8C%90.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%B0%94%EC%95%84%EC%9D%98%20%ED%83%9C%EC%96%91%20%EC%84%9D%ED%8C%90_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 바아의 머리에서 바아의 정원으로 넘어가는 입구 오른쪽에 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_5_1773150712934",
                 "name": "평온한 마음의 폭포",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%ED%8F%89%EC%98%A8%ED%95%9C%20%EB%A7%88%EC%9D%8C%EC%9D%98%20%ED%8F%AD%ED%8F%AC.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%ED%8F%89%EC%98%A8%ED%95%9C%20%EB%A7%88%EC%9D%8C%EC%9D%98%20%ED%8F%AD%ED%8F%AC_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 메인 의뢰 [아토락시온] 망가진 우애를 진행하는 방의 폭포 옆에 있어요. 지식 획득 시 기운 10이 소모돼요. 저 멀리 대각선으로 우애를 가늠하는 실타래가 보입니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_6_1773150712934",
                 "name": "무너진 천장을 통해 들어오는 빛",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%AC%B4%EB%84%88%EC%A7%84%20%EC%B2%9C%EC%9E%A5%EC%9D%84%20%ED%86%B5%ED%95%B4%20%EB%93%A4%EC%96%B4%EC%98%A4%EB%8A%94%20%EB%B9%9B.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 메인 의뢰 '[아토락시온] 바아의 낙원' 완료 보상으로 획득할 수 있어요. a. [아토락시온] 바아의 낙원 시작 NPC - 야즈 바아의 사라진 새벽의 열쇠를 봉인된 바아의 시간에 꽂기 [지식] 바아의 낙원, [지식] 무너진 천장을 통해 들어오는 빛 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_7_1773150712934",
                 "name": "태양의 비석",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%ED%83%9C%EC%96%91%EC%9D%98%20%EB%B9%84%EC%84%9D.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%ED%83%9C%EC%96%91%EC%9D%98%20%EB%B9%84%EC%84%9D_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 시작 NPC - 야즈 바아의 사라진 새벽의 열쇠를 봉인된 바아의 시간에 꽂기 [지식] 바아의 낙원, [지식] 무너진 천장을 통해 들어오는 빛 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_8_1773150712934",
                 "name": "굽어보는 이",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EA%B5%BD%EC%96%B4%EB%B3%B4%EB%8A%94%20%EC%9D%B4.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EA%B5%BD%EC%96%B4%EB%B3%B4%EB%8A%94%20%EC%9D%B4_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 메인 의뢰 [아토락시온] 망가진 우애를 진행하는 방의 벽에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요. 왼쪽 대각선으로 우애를 가늠하는 실타래가 보입니다.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_9_1773150712934",
                 "name": "누군가의 낙서",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%88%84%EA%B5%B0%EA%B0%80%EC%9D%98%20%EB%82%99%EC%84%9C.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%88%84%EA%B5%B0%EA%B0%80%EC%9D%98%20%EB%82%99%EC%84%9C_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 해당 위치에서 4번 누군가의 연애편지도 획득할 수 있고, 한 칸 더 위로 올라가면 18번 오르의 증표도 획득할 수 있어요. 바아의 물음 출구 쪽의 '바아의 폭풍 - 바아의 눈' 옆의 벽을 등반해서 올라가면 있어요. 영상은 4번 누군가의 연애편지에서 확인해 주세요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_10_1773150712934",
                 "name": "아담한 폭포",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EC%95%84%EB%8B%B4%ED%95%9C%20%ED%8F%AD%ED%8F%AC.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EC%95%84%EB%8B%B4%ED%95%9C%20%ED%8F%AD%ED%8F%AC_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 바아의 창공에서 아래로 내려오면 보이는 옹달샘 옆에 작은 폭포에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_11_1773150712934",
                 "name": "뿜어져 나오는 열기",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%BF%9C%EC%96%B4%EC%A0%B8%20%EB%82%98%EC%98%A4%EB%8A%94%20%EC%97%B4%EA%B8%B0.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%BF%9C%EC%96%B4%EC%A0%B8%20%EB%82%98%EC%98%A4%EB%8A%94%20%EC%97%B4%EA%B8%B0_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 바아의 창공에서 아래로 내려오면 보이는 옹달샘 옆에 작은 폭포에서 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773150712934",
                 "name": "고대의 어항",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EA%B3%A0%EB%8C%80%EC%9D%98%20%EC%96%B4%ED%95%AD.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EA%B3%A0%EB%8C%80%EC%9D%98%20%EC%96%B4%ED%95%AD_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 고대 건축학 - 아토락시온의 인공폭포와 같은 위치에서 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_13_1773150712934",
                 "name": "보름날 차피챱",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%B0%94%EC%95%84%EB%A7%88%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%B3%B4%EB%A6%84%EB%82%A0%20%EC%B0%A8%ED%94%BC%EC%B1%B1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 메인 의뢰 '[아토락시온] 데키아와 데키마' 완료 보상으로 획득할 수 있어요. a. [아토락시온] 데키아와 데키마 시작 NPC - 야즈 솔 마기아 고대 장치를 조작해보기 야만의 영약, [지식] 아토락시온 설계의 목적, [지식] 보름날 차피챱 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
