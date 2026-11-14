@@ -17653,6 +17653,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] [아토락시온] 요루의 요람 메인 의뢰 완료 보상으로 획득할 수 있어요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794647526_94fcs",
+                "name": "불투명한 미래",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] [아토락시온] 미래의 좌표 메인 의뢰 완료 보상으로 획득할 수 있어요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           },
