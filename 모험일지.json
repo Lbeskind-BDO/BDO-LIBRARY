@@ -18045,6 +18045,13 @@
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EB%AC%BC%20%EC%9C%84%EC%97%90%EC%84%9C%20%EC%9E%90%EB%9D%BC%EB%8A%94%20%EA%BD%83%EB%82%98%EB%AC%B4.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EB%AC%BC%20%EC%9C%84%EC%97%90%EC%84%9C%20%EC%9E%90%EB%9D%BC%EB%8A%94%20%EA%BD%83%EB%82%98%EB%AC%B4_1.jpg",
                 "desc": "[DY & OY의 소소한 행복] 물 위에서 자라는 꽃나무",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794647965_8a1jb",
+                "name": "바짝 마른 나무",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 밑동 2번째 구역(다가오는 예언의 실타래) 왼쪽에 부서진 다리 앞의 나무. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           },
