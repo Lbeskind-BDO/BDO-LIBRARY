@@ -17842,7 +17842,15 @@
             "id": "theme_1794323344_오르제키아의 모험일지 I",
             "name": "오르제키아의 모험일지 I",
             "energy": "",
-            "items": []
+            "items": [
+              {
+                "id": "item_1794647632_bjj7p",
+                "name": "다가올 안식의 석판",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 덩굴 2번째 구역(뒤섞인 예언의 실타래) 오른쪽 끝 벽. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
           },
           {
             "id": "theme_1794323376_오르제키아의 모험일지 II",
