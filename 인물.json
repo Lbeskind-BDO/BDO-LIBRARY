@@ -12303,7 +12303,7 @@
               {
                 "id": "npc_yoru_9",
                 "name": "요루의 기록 #9 : 지하에 잠든 거상",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EC%9D%B8%EB%AC%BC%20%3E%20%EC%9A%94%EB%A3%A8%EB%82%98%ED%82%A4%EC%95%84%EC%9D%98%20%EC%84%A4%EA%B3%84%EC%9E%90/%EC%9A%94%EB%A3%A8%EC%9D%98%20%EA%B8%B0%EB%A1%9D%20-%20%EC%9C%A0%EB%85%84%EA%B8%B0/%EC%9A%94%EB%A3%A8%EC%9D%98%20%EA%B8%B0%EB%A1%9D%20%239%20%3A%20%EC%A7%80%ED%95%98%EC%97%90%20%EC%9E%A0%EB%93%A0%20%EA%B1%B0%EC%83%81.png",
                 "desc": "요루의 기록 두루마리로 일정한 확률로 획득 가능. 10개 모아 등가보급소에서 저격 가능",
                 "icon": ""
               },
