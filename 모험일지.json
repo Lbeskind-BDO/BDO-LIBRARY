@@ -18115,7 +18115,15 @@
             "id": "theme_1794323376_오르제키아의 모험일지 II",
             "name": "오르제키아의 모험일지 II",
             "energy": "",
-            "items": []
+            "items": [
+              {
+                "id": "item_1794648131_54ldf",
+                "name": "루크레시아",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 요람 고대 아토르의 병기가 있는 구역을 지나 통로가 끝나면 왼쪽 벽. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
           }
         ]
       },
