@@ -12352,7 +12352,7 @@
               {
                 "id": "npc_yoru_2",
                 "name": "요루의 기록 #2 : 영원한 낮",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EC%9D%B8%EB%AC%BC%20%3E%20%EC%9A%94%EB%A3%A8%EB%82%98%ED%82%A4%EC%95%84%EC%9D%98%20%EC%84%A4%EA%B3%84%EC%9E%90/%EC%9A%94%EB%A3%A8%EC%9D%98%20%EA%B8%B0%EB%A1%9D%20-%20%EC%9C%A0%EB%85%84%EA%B8%B0/%EC%9A%94%EB%A3%A8%EC%9D%98%20%EA%B8%B0%EB%A1%9D%20%232%20%3A%20%EC%98%81%EC%9B%90%ED%95%9C%20%EB%82%AE.png",
                 "desc": "요루의 기록 두루마리로 일정한 확률로 획득 가능. 10개 모아 등가보급소에서 저격 가능",
                 "icon": ""
               },
