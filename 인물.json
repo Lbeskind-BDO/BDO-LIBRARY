@@ -9475,7 +9475,7 @@
               {
                 "id": "npc_papu_2_08",
                 "name": "가라니아",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char47111,rdate=1794651079864",
                 "desc": "파푸라오라 섬의 NPC와 대화하거나 둔갑하여 상호작용",
                 "icon": ""
               },
