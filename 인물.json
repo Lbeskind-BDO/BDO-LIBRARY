@@ -6421,7 +6421,7 @@
             "energy": 2,
             "items": [
               {
-              "id": "npc_auto_0_17731479968741",
+                "id": "npc_auto_0_17731479968741",
                 "name": "자이드",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/자이드1.png|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/인물%20위치/자이드2.png",
                 "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
@@ -8607,7 +8607,7 @@
               {
                 "id": "npc_auto_8_1773148083616",
                 "name": "쵸르피",
-                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50834",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char50834|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EC%9D%B8%EB%AC%BC%20%3E%20%EB%B0%94%EB%8B%A4%20%EC%9C%84%EC%9D%98%20%EC%82%AC%EB%9E%8C%EB%93%A4/%EA%B9%8C%EB%A7%88%EA%B7%80%EC%9D%98%20%EB%91%A5%EC%A7%80/%EC%B5%B8%EB%A5%B4%ED%94%BC_1.png",
                 "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
