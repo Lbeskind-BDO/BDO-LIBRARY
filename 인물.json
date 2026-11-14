@@ -13913,7 +13913,7 @@
               {
                 "id": "npc_auto_3_1773148248894",
                 "name": "돌쇠",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EC%9D%B8%EB%AC%BC%20%3E%20%EC%95%84%EC%B9%A8%EC%9D%98%20%EB%82%98%EB%9D%BC%20%3A%20%EB%8F%99%ED%95%B4%EB%8F%84%EC%9D%98%20%EC%82%AC%EB%9E%8C%EB%93%A4/%EB%8F%99%ED%95%B4%EB%8F%84%EB%A5%BC%20%EC%B0%BE%EC%9D%80%20%EC%82%AC%EB%9E%8C%EB%93%A4/%EB%8F%8C%EC%87%A0.png",
                 "desc": "메인의뢰([아침의나라] 여행은 혼자)로 획득 가능",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
