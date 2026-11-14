@@ -17294,14 +17294,14 @@
                 "id": "npc_auto_19_1773150725726",
                 "name": "다발 고비",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%9A%94%EB%A3%A8%EB%82%98%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EB%8B%A4%EB%B0%9C%20%EA%B3%A0%EB%B9%84.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%9A%94%EB%A3%A8%EB%82%98%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EB%8B%A4%EB%B0%9C%20%EA%B3%A0%EB%B9%84_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 요루의 척추에서 얻을 수 있는 지식 위치는 엘비아 서버로 가면 아예 해당 구조물이 없고, 요루의 이빨에서 얻을 수 있는 지식 위치는 일반 서버로 가면 상호작용 포인트가 없는 걸 보면 일부러 이렇게 해둔 거 같았어요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_20_1773150725726",
                 "name": "표면 일부가 가려진 석판",
                 "detailImg": "",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 요루의 동공 아랫길에서 요루의 갈기 가는 방향 벽에서 획득할 수 있어요.  '요루나키아의 모험일지 II - '올룬족의 풍습 II' 지식의 대각선 쪽이에요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
