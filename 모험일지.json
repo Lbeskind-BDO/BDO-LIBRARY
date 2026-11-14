@@ -13928,14 +13928,14 @@
                 "id": "npc_auto_11_1773150569521",
                 "name": "마르니의 증류기",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%A7%88%EB%A5%B4%EB%8B%88%EC%9D%98%20%EC%A6%9D%EB%A5%98%EA%B8%B0.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%A7%88%EB%A5%B4%EB%8B%88%EC%9D%98%20%EC%A6%9D%EB%A5%98%EA%B8%B0_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 10번 위치와 동일하게 토리의 숲 <과학자> 마르니가 있는 건물 안에서 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_12_1773150569521",
                 "name": "둥둥 떠다니는 실험체",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%91%A5%EB%91%A5%20%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94%20%EC%8B%A4%ED%97%98%EC%B2%B4.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%91%A5%EB%91%A5%20%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94%20%EC%8B%A4%ED%97%98%EC%B2%B4_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EB%91%A5%EB%91%A5%20%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94%20%EC%8B%A4%ED%97%98%EC%B2%B4_2.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 토리의 숲 <과학자> 마르니가 있는 건물 옆에서 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
