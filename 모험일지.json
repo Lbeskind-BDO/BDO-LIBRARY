@@ -16853,28 +16853,28 @@
                 "id": "npc_auto_31_1773150716517",
                 "name": "바깥 세상의 치장법",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%8B%9C%EC%B9%B4%EB%9D%BC%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EB%B0%94%EA%B9%A5%20%EC%84%B8%EC%83%81%EC%9D%98%20%EC%B9%98%EC%9E%A5%EB%B2%95.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%8B%9C%EC%B9%B4%EB%9D%BC%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EB%B0%94%EA%B9%A5%20%EC%84%B8%EC%83%81%EC%9D%98%20%EC%B9%98%EC%9E%A5%EB%B2%95_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 29번과 동일한 위치에서 획득할 수 있어요. 지식 획득 시 기운 30이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_32_1773150716517",
                 "name": "실타래를 만든 이유",
                 "detailImg": "",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] [아토락시온] 시카의 기도 메인 의뢰 완료 보상으로 획득할 수 있어요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_33_1773150716517",
                 "name": "시카의 요람",
                 "detailImg": "",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] [아토락시온][협동] 데키아의 편지 메인 의뢰 완료 보상으로 획득할 수 있어요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_34_1773150716517",
                 "name": "데키아 찬가",
                 "detailImg": "",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 시카의 물음에 있는 등가보급소 옆 보물상자에 상호작용 포인트가 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
