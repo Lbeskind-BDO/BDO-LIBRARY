@@ -18311,6 +18311,69 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] [아토락시온] 병기와 가시나무 메인 의뢰 진행 중에 획득할 수 있어요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648473_my3n3",
+                "name": "봉인된 오르",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] [아토락시온] 병기와 가시나무 메인 의뢰 진행 중에 획득할 수 있어요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648479_1ejz6",
+                "name": "배신당한 오르",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] [아토락시온] 병기와 가시나무 메인 의뢰 진행 중에 획득할 수 있어요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648483_alyiy",
+                "name": "루시의 정체",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] [아토락시온] 노려진 이유 메인 의뢰 진행 중에 획득할 수 있어요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648488_ily7x",
+                "name": "가시나무 병기",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 요람 보스와의 전투구역에 있는 오르가 봉인된 신목 왼쪽에 있는 오르의 기록. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648498_xv3vv",
+                "name": "카사웬의 실패와 해결책",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 정원에서 오르의 요람으로 입장하는 솔 마기아와 대화. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648512_lbrj2",
+                "name": "의식 이관 성공",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 요람 입구 통로를 지나서 왼쪽 벽. 오르의 정원에서 오르의 요람으로 입장하는 솔마기아 왼쪽 뒤에서도 획득 가능. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648531_0on9x",
+                "name": "일레즈라와 오르의 거래",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 요람 고대 아토르의 병기가 있는 구역에서 오른쪽 아토르의 등 뒤. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648538_nwsks",
+                "name": "카사웬과의 동화율",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 정원에서 오르의 요람으로 입장하는 솔마기아 오른쪽 뒤. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648542_j3626",
+                "name": "통제당하지 않는 병기",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 정원 광장에서 육각형 문 왼쪽 바위. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
