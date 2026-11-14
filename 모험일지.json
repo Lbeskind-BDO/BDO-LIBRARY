@@ -13991,14 +13991,14 @@
                 "id": "npc_auto_20_1773150569521",
                 "name": "구멍 난 허파",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EA%B5%AC%EB%A9%8D%20%EB%82%9C%20%ED%97%88%ED%8C%8C.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EA%B5%AC%EB%A9%8D%20%EB%82%9C%20%ED%97%88%ED%8C%8C_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 묵도의 소 <탐험 거점 관리> 재스퍼 쪽으로 올라가는 길 말고 옆에 보면 아래로 내려가는 길이 있어요. 내려가서 끝 부분 오른쪽에서 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "npc_auto_21_1773150569521",
                 "name": "용을 섬기는 자들의 실체",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EC%9A%A9%EC%9D%84%20%EC%84%AC%EA%B8%B0%EB%8A%94%20%EC%9E%90%EB%93%A4%EC%9D%98%20%EC%8B%A4%EC%B2%B4.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EC%9A%A9%EC%9D%84%20%EC%84%AC%EA%B8%B0%EB%8A%94%20%EC%9E%90%EB%93%A4%EC%9D%98%20%EC%8B%A4%EC%B2%B4_1.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 20번 위치와 동일한 위치 쪽의 제단에서 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
