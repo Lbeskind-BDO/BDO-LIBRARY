@@ -18094,6 +18094,20 @@
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EC%98%A4%EB%A5%B4%EC%99%80%20%EB%8D%B0%ED%82%A4%EB%A7%88%20%3A%20%EB%B0%94%EC%95%84.jpg",
                 "desc": "[DY & OY의 소소한 행복] [아토락시온] 장막 너머 메인 의뢰를 완료한 이후, 오르제키아 입구에 있는 솔 마기아와 대화로 획득할 수 있어요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648052_4xhqb",
+                "name": "[아토락시온] 장막 너머 메인 의뢰를 완료한 이후, 오르제키아 입구에 있는 솔 마기아와 대화로 획득할 수 있어요.",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 엘비아 오르제키아 보스 클리어 후 루팅으로 획득합니다.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648058_wfoh3",
+                "name": "거룩한 신자의 단도에는",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 일반 오르제키아 보스 클리어 후 루팅으로 획득합니다.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           },
