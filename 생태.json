@@ -8727,6 +8727,118 @@
         "overviewImg": "",
         "themes": [
           {
+            "id": "theme_1794658017_죽은 자들의 도시",
+            "name": "죽은 자들의 도시",
+            "energy": "",
+            "items": [
+              {
+                "id": "npc_auto_0_1794658017684",
+                "name": "테흐므린 전령",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1794658017684",
+                "name": "테흐므린 군견",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1794658017684",
+                "name": "테흐므린 신념의 기사",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1794658017684",
+                "name": "테흐므린 정예병",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1794658017684",
+                "name": "테흐므린 수색병",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1794658017_툰그라드 유적지",
+            "name": "툰그라드 유적지",
+            "energy": "",
+            "items": [
+              {
+                "id": "npc_auto_0_1794658017685",
+                "name": "툰그라드 푸타레크",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1794658017685",
+                "name": "툰그라드 처단자",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1794658017685",
+                "name": "툰그라드 인도자",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1794658017685",
+                "name": "툰그라드 고행자",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1794658017_어둠 추종자의 침소",
+            "name": "어둠 추종자의 침소",
+            "energy": "",
+            "items": [
+              {
+                "id": "npc_auto_0_1794658017686",
+                "name": "원망의 어둠 추종자",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1794658017686",
+                "name": "징벌의 어둠 추종자",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1794658017686",
+                "name": "절규의 어둠 추종자",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1794658017686",
+                "name": "영겁의 어둠 추종자",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
             "id": "theme_1773149846_이스라히드 고원",
             "name": "이스라히드 고원",
             "energy": "",
@@ -8734,6 +8846,27 @@
               {
                 "id": "npc_auto_0_1773149793233",
                 "name": "시커리온의 다리",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1794658017683",
+                "name": "나비스",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_12_1794658017683",
+                "name": "킬라르",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_13_1794658017683",
+                "name": "레하르",
                 "detailImg": "",
                 "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
@@ -9058,6 +9191,370 @@
         ]
       },
       {
+        "id": "reg_1794657658_에다니아의 생태(내부)",
+        "name": "에다니아의 생태(내부)",
+        "overviewImg": "",
+        "themes": [
+          {
+            "id": "theme_1794658017_아프로돈의 생태",
+            "name": "아프로돈의 생태",
+            "energy": "",
+            "items": [
+              {
+                "id": "npc_auto_0_1794658017677",
+                "name": "황금의 신목",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1794658017677",
+                "name": "황금밭의 파종꾼",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1794658017677",
+                "name": "황금밭의 파수꾼",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1794658017677",
+                "name": "황금밭의 갈이꾼",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1794658017677",
+                "name": "황금밭의 수확꾼",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1794658017677",
+                "name": "황금밭의 허수아비",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1794658017_에메시아의 생태",
+            "name": "에메시아의 생태",
+            "energy": "",
+            "items": [
+              {
+                "id": "npc_auto_0_1794658017678",
+                "name": "묵수의 감시탑",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1794658017678",
+                "name": "마크타난의 수하",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1794658017678",
+                "name": "굴복한 운반꾼 노예",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1794658017678",
+                "name": "굴복한 채굴꾼 노예",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1794658017678",
+                "name": "굴복한 단속꾼 노예",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1794658017678",
+                "name": "마크타난의 딸",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1794658017678",
+                "name": "마크타난의 흑결정",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1794658017_마가이아의 생태",
+            "name": "마가이아의 생태",
+            "energy": "",
+            "items": [
+              {
+                "id": "npc_auto_0_1794658017679",
+                "name": "심판묵시록",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1794658017679",
+                "name": "종언의 사제",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1794658017679",
+                "name": "기근의 기사",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1794658017679",
+                "name": "전쟁의 기사",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1794658017679",
+                "name": "정복의 기사",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1794658017679",
+                "name": "침략의 죄인",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1794658017679",
+                "name": "배척의 죄인",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1794658017679",
+                "name": "맹종의 죄인",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1794658017679",
+                "name": "아에토스",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1794658017679",
+                "name": "선동의 죄인",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1794658017679",
+                "name": "고발의 죄인",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1794658017_아레시온의 생태",
+            "name": "아레시온의 생태",
+            "energy": "",
+            "items": [
+              {
+                "id": "npc_auto_0_1794658017680",
+                "name": "아알의 전차",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1794658017680",
+                "name": "시련의 화로",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1794658017680",
+                "name": "전쟁의 성화대",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1794658017680",
+                "name": "불의 전언",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1794658017680",
+                "name": "곧은 화살",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1794658017680",
+                "name": "달궈진 창",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1794658017680",
+                "name": "굵은 칼날",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1794658017_보이데케아의 생태",
+            "name": "보이데케아의 생태",
+            "energy": "",
+            "items": [
+              {
+                "id": "npc_auto_0_1794658017681",
+                "name": "웜홀",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1794658017681",
+                "name": "절망에 잠식된 해적",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_2_1794658017681",
+                "name": "절망에 잠식된 인어",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_3_1794658017681",
+                "name": "절망에 잠식된 후예",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_4_1794658017681",
+                "name": "절망에 잠식된 소서러",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_5_1794658017681",
+                "name": "절망에 잠식된 아처",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_6_1794658017681",
+                "name": "절망에 잠식된 용병",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_7_1794658017681",
+                "name": "절망에 잠식된 검사",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_8_1794658017681",
+                "name": "절망에 잠식된 발키리",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_9_1794658017681",
+                "name": "절망에 잠식된 기사",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_10_1794658017681",
+                "name": "이베도르",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_11_1794658017681",
+                "name": "절망의 인도자",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          },
+          {
+            "id": "theme_1794658017_에다니아 내부의 생물들",
+            "name": "에다니아 내부의 생물들",
+            "energy": "",
+            "items": [
+              {
+                "id": "npc_auto_0_1794658017682",
+                "name": "용암황소",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "npc_auto_1_1794658017682",
+                "name": "유적까마귀",
+                "detailImg": "",
+                "desc": "해당 몬스터를 사냥하여 무작위 확률로 지식 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "reg_1773149846_생태 > 어종",
         "name": "생태 > 어종",
         "overviewImg": "",
@@ -9091,12 +9588,6 @@
             ]
           }
         ]
-      },
-      {
-        "id": "reg_1794657658_에다니아의 생태(내부)",
-        "name": "에다니아의 생태(내부)",
-        "overviewImg": "",
-        "themes": []
       }
     ]
   }
