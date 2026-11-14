@@ -17938,14 +17938,14 @@
                 "id": "item_1794647843_mmaks",
                 "name": "거대한 가시나무 덤불",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EA%B1%B0%EB%8C%80%ED%95%9C%20%EA%B0%80%EC%8B%9C%EB%82%98%EB%AC%B4%20%EB%8D%A4%EB%B6%88.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%EA%B1%B0%EB%8C%80%ED%95%9C%20%EA%B0%80%EC%8B%9C%EB%82%98%EB%AC%B4%20%EB%8D%A4%EB%B6%88_1.jpg",
-                "desc": "[DY & OY의 소소한 행복] 거대한 가시나무 덤불",
+                "desc": "[DY & OY의 소소한 행복] 오르의 밑동 1번째 구역 나무 덤불들이 엉켜있는 곳 앞. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
                 "id": "item_1794647849_ieeb2",
                 "name": "토끼풀 무더기",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%ED%86%A0%EB%81%BC%ED%92%80%20%EB%AC%B4%EB%8D%94%EA%B8%B0.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20I/%ED%86%A0%EB%81%BC%ED%92%80%20%EB%AC%B4%EB%8D%94%EA%B8%B0_1.jpg",
-                "desc": "[DY & OY의 소소한 행복] 토끼풀 무더기",
+                "desc": "[DY & OY의 소소한 행복] 오르의 뿌리에서 길을 따라 직진하다 길 끝부분 왼쪽 풀더미. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
@@ -18135,6 +18135,181 @@
                 "name": "카이브화 오류 발생 기록 III",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EC%B9%B4%EC%9D%B4%EB%B8%8C%ED%99%94%20%EC%98%A4%EB%A5%98%20%EB%B0%9C%EC%83%9D%20%EA%B8%B0%EB%A1%9D%20III.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EC%B9%B4%EC%9D%B4%EB%B8%8C%ED%99%94%20%EC%98%A4%EB%A5%98%20%EB%B0%9C%EC%83%9D%20%EA%B8%B0%EB%A1%9D%20III_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EC%B9%B4%EC%9D%B4%EB%B8%8C%ED%99%94%20%EC%98%A4%EB%A5%98%20%EB%B0%9C%EC%83%9D%20%EA%B8%B0%EB%A1%9D%20III_2.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EC%B9%B4%EC%9D%B4%EB%B8%8C%ED%99%94%20%EC%98%A4%EB%A5%98%20%EB%B0%9C%EC%83%9D%20%EA%B8%B0%EB%A1%9D%20III_3.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EC%B9%B4%EC%9D%B4%EB%B8%8C%ED%99%94%20%EC%98%A4%EB%A5%98%20%EB%B0%9C%EC%83%9D%20%EA%B8%B0%EB%A1%9D%20III_4.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EC%B9%B4%EC%9D%B4%EB%B8%8C%ED%99%94%20%EC%98%A4%EB%A5%98%20%EB%B0%9C%EC%83%9D%20%EA%B8%B0%EB%A1%9D%20III_5.jpg",
                 "desc": "[DY & OY의 소소한 행복] 오르제키아 의뢰를 전부 완료한 다음 요루나키아 요루의 동공 등가 보급소 옆에 있는 프로토키아로 입장하여 '데키아의 솔 마기아'와 상호작용으로 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648285_1bhca",
+                "name": "카이브화 오류 발생 기록 II",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르제키아 의뢰를 전부 완료한 다음 요루나키아 요루의 동공 등가 보급소 옆에 있는 프로토키아로 입장하여 '데키아의 솔 마기아'와 상호작용으로 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648291_y03yo",
+                "name": "카이브화 오류 발생 기록 I",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르제키아 의뢰를 전부 완료한 다음 요루나키아 요루의 동공 등가 보급소 옆에 있는 프로토키아로 입장하여 '데키아의 솔 마기아'와 상호작용으로 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648296_mjcbf",
+                "name": "살아있는 병기의 의지",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 덩굴 2번째 구역(뒤섞인 예언의 실타래) 가는 길의 끝부분 오른쪽 벽. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648300_1h52y",
+                "name": "영원히 타오르는 쪽빛 불꽃",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 요람 고대 아토르의 병기가 있는 구역을 지나서 솔 마기아 앞 화로. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648305_w5dug",
+                "name": "오르가 놓은 쪽빛 불꽃",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르가 놓은 쪽빛 불꽃",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648310_s7npo",
+                "name": "대지신과 검은 여신",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 꽃잎에서 오르의 덩굴로 넘어오자마자 왼쪽. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648315_716e4",
+                "name": "카이브화 재시도",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 요람 입구에서 아토르가 있는 구역으로 가는 길 왼쪽 위에 있는 솔 마기아와 대화. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648336_025fr",
+                "name": "검은 여신의 신목",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 요람 보스와의 전투구역에 있는 오르가 봉인된 신목 앞. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648347_17uzn",
+                "name": "바닥에 놓인 연구일지",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 덩굴 2번째 구역(뒤섞인 예언의 실타래) 오른쪽 돌기둥. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648352_a6nhz",
+                "name": "커다란 광명석",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 덩굴 2번째 구역(뒤섞인 예언의 실타래) <고고학자> 페르단 오른쪽. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648357_kdrz8",
+                "name": "오르제키아의 욜룬의 눈",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 요람 입구에서 아토르가 있는 구역으로 가는 길 중간 부분. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648369_3qtmf",
+                "name": "장미가 핀 가시나무",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 낙원 입구 왼쪽의 나무 앞. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648374_wf4ww",
+                "name": "공허의 등불 연구일지 III",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 요람 입구에서 등 뒤에 있는 공간 안 오른쪽. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648381_6e0f3",
+                "name": "공허의 등불 연구일지 II",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 요람 입구에서 등 뒤에 있는 공간 안 오른쪽. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648389_ydjtu",
+                "name": "공허의 등불 연구일지 I",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 요람 입구에서 등 뒤에 있는 공간 안 가운데. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648395_sst5v",
+                "name": "오르의 아토르 계획 III",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 요람 입구에서 아토르가 있는 구역으로 가는 길 왼쪽 위에 있는 솔 마기아 뒤의 스텔라기아. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648399_7qm64",
+                "name": "오르의 아토르 계획 II",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 요람 입구에서 아토르가 있는 구역으로 가는 길 왼쪽 위에 있는 솔 마기아 뒤의 스텔라기아. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648402_0yoak",
+                "name": "오르의 아토르 계획 I",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 요람 입구에서 아토르가 있는 구역으로 가는 길 왼쪽 위에 있는 솔 마기아 뒤의 스텔라기아. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648407_cbtw2",
+                "name": "브리와 오르",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 낙원에서 낙원의 문 오른쪽에 있는 오르의 기록. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648438_2s24t",
+                "name": "가시나무의 석판",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 요람 고대 아토르의 병기가 있는 구역을 지나 통로를 내려가다 오른쪽 벽. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648442_epcvv",
+                "name": "요루의 광명석 석판",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 덩굴 1번째 구역 오른쪽 제단의 옆. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648451_s1y2r",
+                "name": "아토락시온, 풀리지 않은 의문",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] [아토락시온] 다시 균형의 학회로 메인 의뢰 진행 중에 획득할 수 있어요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648456_tbcr2",
+                "name": "에다니아로의 초대",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] [아토락시온] 다시 균형의 학회로 메인 의뢰 진행 중에 획득할 수 있어요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648461_x3f89",
+                "name": "투쟁심이 담긴 피",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] [아토락시온] 최후의 글라디우스 메인 의뢰 진행 중에 획득할 수 있어요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648468_5dd4m",
+                "name": "최후의 글라디우스",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] [아토락시온] 병기와 가시나무 메인 의뢰 진행 중에 획득할 수 있어요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
