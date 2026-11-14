@@ -14425,7 +14425,7 @@
                 "id": "npc_auto_22_1773150572621",
                 "name": "게을리하지 않는 수련",
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%95%84%EB%B2%B3%EC%8A%A4%EB%93%A4%EC%9D%98%20%EC%82%B6/%EA%B2%8C%EC%9D%84%EB%A6%AC%ED%95%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EC%88%98%EB%A0%A8.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%95%84%EB%B2%B3%EC%8A%A4%EB%93%A4%EC%9D%98%20%EC%82%B6/%EA%B2%8C%EC%9D%84%EB%A6%AC%ED%95%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EC%88%98%EB%A0%A8_1.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EB%81%9D%EC%97%86%EB%8A%94%20%EA%B2%A8%EC%9A%B8%EC%9D%98%20%EC%82%B0%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%95%84%EB%B2%B3%EC%8A%A4%EB%93%A4%EC%9D%98%20%EC%82%B6/%EA%B2%8C%EC%9D%84%EB%A6%AC%ED%95%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EC%88%98%EB%A0%A8_2.jpg",
-                "desc": "관련 퀘스트를 진행하거나 숨겨진 단서(물건)를 조사하여 획득",
+                "desc": "[DY & OY의 소소한 행복] 에일 마을 거점 상인들이 있는 곳의 허수아비 쪽에서 지식을 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
               {
