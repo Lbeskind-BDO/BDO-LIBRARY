@@ -9426,7 +9426,7 @@
               {
                 "id": "npc_papu_2_01",
                 "name": "몽무니아",
-                "detailImg": "",
+                "detailImg": "https://black.inven.co.kr/dataninfo/map/#target=char47103,rdate=1794650939303",
                 "desc": "파푸라오라 섬의 NPC와 대화하거나 둔갑하여 상호작용",
                 "icon": ""
               },
