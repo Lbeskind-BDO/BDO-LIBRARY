@@ -6699,6 +6699,13 @@
                 "detailImg": "",
                 "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794656699_f0iu2",
+                "name": "세니카",
+                "detailImg": "",
+                "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
