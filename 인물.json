@@ -12611,7 +12611,7 @@
               {
                 "id": "npc_orze_1",
                 "name": "오르의 기록 #1 : 구원의 손길",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EC%9D%B8%EB%AC%BC%20%3E%20%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EC%84%A4%EA%B3%84%EC%9E%90/%EC%98%A4%EB%A5%B4%EC%9D%98%20%EA%B8%B0%EB%A1%9D%20-%20%EC%9C%A0%EB%85%84%EA%B8%B0/%EC%98%A4%EB%A5%B4%EC%9D%98%20%EA%B8%B0%EB%A1%9D%20%231%20%3A%20%EA%B5%AC%EC%9B%90%EC%9D%98%20%EC%86%90%EA%B8%B8.png",
                 "desc": "오르의 기록 두루마리로 일정한 확률로 획득 가능. 10개 모아 등가보급소에서 저격 가능",
                 "icon": ""
               }
