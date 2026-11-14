@@ -18129,6 +18129,13 @@
                 "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EC%98%A4%EB%A5%B4%EC%99%80%20%EB%8D%B0%ED%82%A4%EB%A7%88.jpg|https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20%3E%20%EC%95%84%ED%86%A0%EB%9D%BD%EC%8B%9C%EC%98%A8%EC%9D%98%20%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%B4%EC%A0%9C%ED%82%A4%EC%95%84%EC%9D%98%20%EB%AA%A8%ED%97%98%EC%9D%BC%EC%A7%80%20II/%EC%98%A4%EB%A5%B4%EC%99%80%20%EB%8D%B0%ED%82%A4%EB%A7%88_1.jpg",
                 "desc": "[DY & OY의 소소한 행복] 오르의 덩굴에서 오르의 정원으로 가는 다리 건너기 전 왼쪽. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794648152_3jdaa",
+                "name": "카이브화 오류 발생 기록 III",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르제키아 의뢰를 전부 완료한 다음 요루나키아 요루의 동공 등가 보급소 옆에 있는 프로토키아로 입장하여 '데키아의 솔 마기아'와 상호작용으로 획득할 수 있어요. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           }
