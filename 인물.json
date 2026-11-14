@@ -1068,7 +1068,7 @@
               {
                 "id": "npc_auto_5_1773147744585",
                 "name": "안온",
-                "detailImg": "",
+                "detailImg": "https://raw.githubusercontent.com/Lbeskind-BDO/BDO-LIBRARY/main/%EC%9D%B8%EB%AC%BC%20%3E%20%EC%84%B8%EB%A0%8C%EB%94%94%EC%95%84%EC%9D%98%20%EC%82%AC%EB%9E%8C%EB%93%A4/%EC%84%B8%EB%A0%8C%EB%94%94%EC%95%84%EC%9D%98%20%EC%A3%BC%EB%AF%BC/%EC%95%88%EC%98%A8.png",
                 "desc": "해당 NPC와 대화하거나 퀘스트 진행으로 획득",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               },
