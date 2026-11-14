@@ -17849,6 +17849,13 @@
                 "detailImg": "",
                 "desc": "[DY & OY의 소소한 행복] 오르의 덩굴 2번째 구역(뒤섞인 예언의 실타래) 오른쪽 끝 벽. 지식 획득 시 기운 10이 소모돼요.",
                 "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
+              },
+              {
+                "id": "item_1794647637_loopx",
+                "name": "굳어진 마음의 석판",
+                "detailImg": "",
+                "desc": "[DY & OY의 소소한 행복] 오르의 덩굴 1번째 구역 왼쪽 제단의 오른쪽 계단 위. 지식 획득 시 기운 10이 소모돼요.",
+                "icon": "https://black.inven.co.kr/dataninfo/map/images/icon_knowledge.png"
               }
             ]
           },
